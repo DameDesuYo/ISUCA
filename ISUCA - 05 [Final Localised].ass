@@ -14,10 +14,10 @@ Audio File: Final Encode - Isuca 05v1 720p [5C691D0B].mkv
 Video File: Final Encode - Isuca 05v1 720p [5C691D0B].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 694
-Active Line: 707
-Video Position: 28584
+Video Zoom Percent: 0.750000
+Scroll Position: 98
+Active Line: 102
+Video Position: 9661
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,76 +59,11 @@ Comment: 0,0:00:44.06,0:00:44.10,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:02:14.03,0:02:14.07,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:10:35.07,0:10:35.11,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:05.05,0:22:05.09,Default,chapter,0,0,0,,{ED}
-Comment: 21,0:00:39.66,0:00:40.56,TrueName,Shinichirou,0,0,0,,Huh?
-Comment: 21,0:13:58.14,0:13:59.36,TrueName,Shinichirou,0,0,0,,Uh...
-Comment: 21,0:17:14.59,0:17:15.47,TrueName,Sakuya,0,0,0,,No!
-Comment: 21,0:20:12.14,0:20:13.15,TrueName,S,0,0,0,,Die!
-Comment: 0,0:00:44.06,0:00:44.10,Default,,0,0,0,,TS
-Comment: 0,0:06:40.92,0:06:43.34,Signs,,0,0,0,,Phone
-Comment: 0,0:06:40.92,0:06:43.34,Signs,,0,0,0,,Phone
-Comment: 0,0:00:44.06,0:00:44.10,Default,,0,0,0,,KFX
-Comment: 0,0:00:44.06,0:00:44.10,Default,Isuca OP,0,0,0,START FRAME,op start frame
-Comment: 0,0:01:02.04,0:01:07.25,Never - Romaji,,0,0,0,karaoke,{\ko55}{\ko32}{\fad(180,120)\blur2}i{\ko26}ma{\ko25} {\ko34}ka{\ko32}n{\ko33}ji{\ko32}te{\ko25}ru{\ko21} {\ko31}te {\ko24}wo{\ko25} {\ko36}no{\ko30}ba{\ko32}shi{\ko28}ta{\ko1}ra{\ko0}
-Comment: 0,0:01:07.25,0:01:12.47,Never - Romaji,shine_out,0,0,0,karaoke,{\ko53}{\ko31}{\fad(180,120)\blur2}so{\ko22}ra{\ko26} {\ko34}ta{\ko34}ka{\ko31}ku {\ko15}ki{\ko17}ra{\ko16}me{\ko67}ku {\ko61}ryuu{\ko66}se{\ko49}i{\ko0}
-Comment: 0,0:01:12.47,0:01:17.72,Never - Romaji,,0,0,0,karaoke,{\ko50}{\ko34}{\fad(180,120)\blur2}zut{\ko28}to{\ko18} {\ko34}o{\ko32}i{\ko32}ka{\ko34}ke{\ko31}te{\ko16} {\ko33}nan{\ko28}do{\ko20} {\ko33}ko{\ko33}ro{\ko32}n{\ko37}de{\ko1}mo{\ko0}
-Comment: 0,0:01:17.72,0:01:23.43,Never - Romaji,shine_out,0,0,0,karaoke,{\ko43}{\ko34}{\fad(180,120)\blur2}mo{\ko30}u{\ko17} {\ko34}to{\ko32}me{\ko31}ra{\ko15}re{\ko18}na{\ko17}i {\ko65}shou{\ko65}dou {\ko63}nan{\ko64}da{\ko43}
-Comment: 0,0:01:23.43,0:01:28.44,Never - Romaji,shine_out,0,0,0,karaoke,{\ko22}{\ko35}{\fad(180,120)\blur2}yo{\ko17}zo{\ko47}ra {\ko34}ni {\ko17}bo{\ko31}ku{\ko17}ta{\ko65}chi {\ko53}no {\ko13}su{\ko46}to{\ko17}o{\ko64}ri{\ko23}
-Comment: 0,0:01:28.44,0:01:34.99,Never - Romaji,,0,0,0,karaoke,{\ko41}{\ko31}{\fad(180,120)\blur2}sa{\ko17}i{\ko49}sho {\ko35}no {\ko17}i{\ko29}chi {\ko18}pe{\ko32}e{\ko34}ji {\ko32}me{\ko16}ku{\ko38}ri{\ko26} {\ko18}u{\ko16}go{\ko15}ki{\ko16}da{\ko144}su{\ko31}
-Comment: 0,0:01:34.99,0:01:40.16,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko6}{\ko16}{\fad(180,120)\blur2}me{\ko16}gu{\ko15}ri {\ko16}me{\ko16}gu{\ko16}ru {\ko33}mi{\ko32}ra{\ko32}i {\ko33}e {\ko33}to{\ko15} {\ko17}bo{\ko16}ku{\ko16}ra {\ko14}i{\ko16}ma {\ko34}ka{\ko34}ke{\ko32}da{\ko32}shi{\ko27}te{\ko0}
-Comment: 0,0:01:40.16,0:01:45.29,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko20}{\fad(180,120)\blur2}na{\ko13}n{\ko17}ju{\ko13}u {\ko15}o{\ko68}ku {\ko62}nen {\ko48}sa{\ko16}ki {\ko33}e{\ko17} {\ko18}to{\ko32}do{\ko16}ku {\ko32}yo{\ko33}u {\ko37}ni{\ko0}
-Comment: 0,0:01:45.29,0:01:48.04,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko27}{\ko17}{\fad(180,120)\blur2}ha{\ko16}ru{\ko17}ka {\ko17}ka{\ko15}na{\ko32}ta {\ko33}no {\ko32}so{\ko32}ra {\ko30}e{\ko7}
-Comment: 1,0:01:47.83,0:01:52.05,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko35}{\ko17}{\fad(180,120)\blur2}u{\ko15}tsu{\ko15}su {\ko16}yu{\ko17}me {\ko32}no {\ko33}ka{\ko32}ke{\ko33}ra {\ko31}wo {\ko32}tsu{\ko16}ka{\ko32}n{\ko47}de{\ko19}
-Comment: 0,0:01:52.05,0:01:56.84,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko17}{\ko33}{\fad(180,120)\blur2}se{\ko30}i{\ko35}ja{\ko32}ku {\ko32}no {\ko34}ya{\ko43}mi {\ko22}sa{\ko23}e{\ko24} {\ko17}i{\ko46}nu{\ko17}ku {\ko74}yo{\ko0}
-Comment: 0,0:01:56.84,0:01:59.60,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko34}{\fad(180,120)\blur2}tsu{\ko33}yo{\ko31}ku {\ko34}ne{\ko32}ga{\ko31}u{\ko17}n{\ko41}da{\ko0}
-Comment: 0,0:01:59.60,0:02:06.94,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko69}{\ko35}{\fad(180,120)\blur2}just {\ko22}ne{\ko25}ver {\ko35}say {\ko29}ne{\ko282}ver{\ko237}
-Comment: 0,0:01:02.04,0:01:07.25,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I throw out my hands
-Comment: 0,0:01:07.25,0:01:12.47,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}trying to catch a star falling from the sky
-Comment: 0,0:01:12.47,0:01:17.72,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I don't care how much I stumble chasing it,{I always chase after it, but I don't care if I trip and fall}
-Comment: 0,0:01:17.72,0:01:23.43,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}nothing can extinguish my passion
-Comment: 0,0:01:23.43,0:01:28.44,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}Our story is written on the night sky
-Comment: 0,0:01:28.44,0:01:34.99,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}Let's turn the first page and get going
-Comment: 0,0:01:34.99,0:01:40.16,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We leap toward our bright future
-Comment: 0,0:01:40.16,0:01:45.29,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}Together we can overcome any distance
-Comment: 0,0:01:45.29,0:01:48.04,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,200)\blur2}To faraway skies
-Comment: 1,0:01:47.83,0:01:52.05,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(200,120)\blur2}where we'll piece together our dreams
-Comment: 0,0:01:52.05,0:01:56.84,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We'll pierce through the silent darkness,
-Comment: 0,0:01:56.84,0:01:59.60,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}as we vow to
-Comment: 0,0:02:13.99,0:02:14.03,Default,,0,0,0,END FRAME,op end frame
-Comment: 0,0:22:05.05,0:22:05.09,Default,Isuca ED,0,0,0,START FRAME,ed start frame
-Comment: 0,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,karaoke,{\k50}{\k36}{\fad(0,0)}ya{\k32}ga{\k31}te {\k29}a{\k33}ku{\k35}mu {\k49}ni{\k61} {\k20}shi{\k31}ha{\k22}i{\k31}sa{\k30}re{\k61}ta{\k32} {\k19}ya{\k10}mi {\k19}sa{\k23}e {\k37}hi{\k37}ka{\k33}ri {\k33}ga {\k10}sa{\k150}su{\k72}
-Comment: 0,0:22:30.99,0:22:36.20,Somebody - Romaji - Right,,0,0,0,karaoke,{\k21}{\k35}{\fad(0,120)}shi{\k33}ra{\k14}zu {\k14}shi{\k22}ra{\k28}zu {\k107}ni{\k32} {\k37}hi{\k36}ki{\k13}yo{\k33}se{\k96}au{\k0}
-Comment: 0,0:22:36.20,0:22:40.92,Somebody - Romaji - Right,,0,0,0,karaoke,{\k12}{\k21}{\fad(180,0)}ke{\k17}ga{\k15}re {\k19}wo {\k27}shi{\k17}ra{\k27}nu {\k29}ta{\k34}ma{\k124}shii{\k130}
-Comment: 0,0:22:40.92,0:22:42.21,Somebody - Romaji,,0,0,0,karaoke,{\k10}{\k18}{\fad(0,400)}na{\k17}ni {\k37}wo{\k47\-hide}{\frx90} shinjireba ii
-Comment: 1,0:22:42.34,0:22:45.41,Somebody - Romaji,,0,0,0,karaoke,{\k31\-hide}{\fad(400,120)\frx90}nani wo {\k37\-none}{\frx0}shi{\k35}n{\k18}ji{\k49}re{\k31}ba {\k31}i{\k59}i{\k16}
-Comment: 0,0:22:45.92,0:22:47.55,Somebody - Romaji,,0,0,0,karaoke,{\k21}{\k19}{\fad(120,400)}do{\k20}ko {\k38}e{\frx90} {\k65\-hide}nagasarete ikeba ii
-Comment: 0,0:22:47.67,0:22:51.05,Somebody - Romaji,,0,0,0,karaoke,{\k18\-hide}{\fad(400,0)\frx90}doko e {\k39\-none}{\frx0}na{\k22}ga{\k24}sa{\k45}re{\k31}te {\k35}i{\k33}ke{\k32}ba {\k27}i{\k32}i
-Comment: 0,0:22:51.18,0:22:56.06,Somebody - Romaji - Black,,0,0,0,karaoke,{\k0}{\k7}{\fad(400,120)}i{\k48}tsu{\k32}ka {\k34}ko{\k17}no {\k34}te {\k46}ni{\k30} {\k17}ya{\k46}su{\k35}ra{\k33}gi {\k14}no {\k32}ji{\k63}kan{\k0}
-Comment: 0,0:22:56.06,0:23:00.48,Somebody - Romaji - Black,,0,0,0,karaoke,{\k19}{\k15}{\fad(180,120)}ku{\k14}tsu{\k30}jo{\k32}ku {\k33}ni {\k33}sae {\k32}mi{\k31}ryou{\k34}sa{\k30}re{\k49}ta {\k30}mi{\k19}ra{\k41}i{\k0}
-Comment: 0,0:23:00.48,0:23:06.11,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k21}{\k24}{\fad(0,0)}se{\k31}tsu{\k17}na {\k16}ga {\k15}u{\k33}goki{\k53}da{\k48}su{\k26} {\k15}ka{\k15}na{\k17}shi{\k16}mi {\k13}wa {\k16}ka{\k24}soku {\k71}su{\k92}ru{\k0}
-Comment: 0,0:23:06.11,0:23:10.86,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k58}{\k14}{\fad(0,120)}to{\k27}za{\k34}sa{\k35}re{\k28}ta {\k38}ko{\k17}ko{\k15}ro {\k27}wo{\k19} {\k17}tsu{\k16}ra{\k16}nu{\k14}ku {\k51}you {\k40}ni{\k9}
-Comment: 0,0:23:10.86,0:23:17.10,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k19}{\k16}{\fad(180,120)}e{\k15}i{\k16}e{\k15}n {\k13}ga {\k22}u{\k28}ma{\k59}re{\k43}ru{\k23} {\k19}shu{\k18}ku{\k31}mei {\k14}ni {\k15}a{\k30}ya{\k32}tsu{\k34}ra{\k155}re{\k7}
-Comment: 0,0:23:17.10,0:23:22.13,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k31}{\k18}{\fad(180,0)}na{\k17}mi{\k32}da {\k13}wo {\k13}ka{\k25}sa{\k29}ne{\k48}te{\k24} {\k35}some{\k21}bo{\k30}dy {\k18}to {\k137}love{\k12}
-Comment: 0,0:22:20.73,0:22:30.99,Somebody - Translation,,0,0,0,karaoke,{\fad(0,0)}Someday there will be a light in this nightmarish place
-Comment: 0,0:22:30.99,0:22:36.20,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(0,120)}that will bait and lure me in
-Comment: 0,0:22:36.20,0:22:40.92,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(180,0)}like an innocent soul that knows no sin
-Comment: 0,0:22:40.92,0:22:42.21,Somebody - Translation,,0,0,0,karaoke,{\fad(0,400)}I don't know{\frx90} what I should believe in
-Comment: 1,0:22:42.34,0:22:45.41,Somebody - Translation,,0,0,0,karaoke,{\fad(400,120)\frx90}I don't know {\frx0}what I should believe in
-Comment: 0,0:22:45.92,0:22:47.55,Somebody - Translation,,0,0,0,karaoke,{\fad(120,400)}I don't know{\frx90} where I should end up
-Comment: 0,0:22:47.67,0:22:51.05,Somebody - Translation,,0,0,0,karaoke,{\fad(400,0)\frx90}I don't know {\frx0}where I should end up
-Comment: 0,0:22:51.18,0:22:56.06,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(400,120)}My path is bound to be disgraceful
-Comment: 0,0:22:56.06,0:23:00.48,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(180,120)}But one day, I know I'll find peace
-Comment: 0,0:23:00.48,0:23:06.11,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,0)}The painful passing of time grows into sorrow
-Comment: 0,0:23:06.11,0:23:10.86,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,120)}and forces its way into my desolate heart
-Comment: 0,0:23:10.86,0:23:17.10,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)}When not even eternity can break free from the chains of fate,
-Comment: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,0)}my tears call out for somebody to love
-Comment: 0,0:23:35.01,0:23:35.06,Default,,0,0,0,END FRAME,ed end frame
-Comment: 0,0:22:05.05,0:22:07.05,Default,,0,0,0,,
-
 Dialogue: 21,0:00:00.62,0:00:03.02,TrueName,Nadeshiko,0,0,0,,So it seems that girl is the one behind all this.
 Dialogue: 21,0:00:03.37,0:00:04.81,TrueName,Suseri,0,0,0,,There's no question about it.
 Dialogue: 21,0:00:05.51,0:00:07.74,TrueName,Nadeshiko,0,0,0,,A Western mage...
 Dialogue: 21,0:00:07.74,0:00:10.19,TrueName,Matsuri,0,0,0,,She's pretty powerful, too.
-Dialogue: 21,0:00:10.19,0:00:14.56,TrueName,Shinichirou,0,0,0,,Even the technique that took out the raijuu didn't work.
+Dialogue: 21,0:00:10.19,0:00:14.56,TrueName,Shinichirou,0,0,0,,Even the technique that took out the lightning beast didn't work.
 Dialogue: 21,0:00:15.96,0:00:17.75,TrueName,Sakuya,0,0,0,,Are you saying I can't beat her!?
 Dialogue: 21,0:00:17.75,0:00:20.04,TrueName,Shinichirou,0,0,0,,No, I didn't say that...
 Dialogue: 21,0:00:20.04,0:00:22.11,TrueName,Sakuya,0,0,0,,I will beat her next time.
@@ -138,34 +73,35 @@ Dialogue: 21,0:00:26.78,0:00:28.22,TrueName,Nadeshiko,0,0,0,,Now, now...
 Dialogue: 21,0:00:28.22,0:00:31.92,TrueName,Nadeshiko,0,0,0,,We need to capture that Western mage first.
 Dialogue: 21,0:00:32.37,0:00:34.05,TrueName,Shinichirou,0,0,0,,But how?
 Dialogue: 21,0:00:34.93,0:00:37.01,TrueName,Nadeshiko,0,0,0,,We have an ace up our sleeve.
-Dialogue: 21,0:00:38.05,0:00:39.66,TrueName,Nadeshiko,0,0,0,,Asano-kun.
+Dialogue: 21,0:00:38.05,0:00:39.66,TrueName,Nadeshiko,0,0,0,,Asano{-kun}.
+Comment: 21,0:00:39.66,0:00:40.56,TrueName,Shinichirou,0,0,0,,Huh?
 Dialogue: 21,0:00:41.01,0:00:44.06,TrueName,Nadeshiko,0,0,0,,You have the Eye of Truth.
 Dialogue: 21,0:02:14.79,0:02:17.43,TrueName,Sakuya,0,500,0,,Shinichirou has the Eye of Truth!?
 Dialogue: 21,0:02:17.43,0:02:18.28,TrueName,Nadeshiko,0,500,0,,Yes,
 Dialogue: 21,0:02:18.28,0:02:20.96,TrueName,Nadeshiko,0,500,0,,the ability to ascertain others' true names.
 Dialogue: 21,0:02:20.96,0:02:22.41,TrueName,Nadeshiko,0,0,0,,It's such a rare ability,
 Dialogue: 21,0:02:22.41,0:02:25.75,TrueName,Nadeshiko,0,0,0,,{\q3}that a whole generation can pass before someone who possesses it is found.
-Dialogue: 21,0:02:26.27,0:02:30.60,TrueName,Nadeshiko,0,0,0,,This also explains why Asano-kun possesses such a huge amount of spiritual energy.
+Dialogue: 21,0:02:26.27,0:02:30.60,TrueName,Nadeshiko,0,0,0,,This also explains why Asano{-kun} possesses such a huge amount of spiritual energy.
 Dialogue: 21,0:02:31.25,0:02:33.08,TrueName,Tamako,0,0,0,,That's amazing, Shinichirou!
 Dialogue: 21,0:02:34.11,0:02:35.99,TrueName,Shinichirou,0,0,0,,Thanks, but I don't really understand it.
 Dialogue: 21,0:02:35.99,0:02:37.30,TrueName,Sakuya,0,0,0,,But it's weird.
 Dialogue: 21,0:02:37.30,0:02:39.72,TrueName,Sakuya,0,0,0,,He's rarely able to figure out a true name.
 Dialogue: 21,0:02:40.11,0:02:42.31,TrueName,Nadeshiko,0,0,0,,He needs something to activate his ability.
 Dialogue: 21,0:02:42.31,0:02:43.22,TrueName,Nadeshiko,0,0,0,,Suseri.
-Dialogue: 21,0:02:49.60,0:02:52.06,TrueName,Shinichirou,0,0,0,,S-Suseri-san, what are you...
+Dialogue: 21,0:02:49.60,0:02:52.06,TrueName,Shinichirou,0,0,0,,S-Suseri{-san}, what are you...
 Dialogue: 21,0:02:56.48,0:02:58.36,TrueName,Shinichirou,0,0,0,,Wh-When did you...
 Dialogue: 21,0:02:58.36,0:02:59.53,TrueName,Sakuya,0,0,0,,{\ko28}Wh-{\ko17}Wh-{\ko14}Wh-{\ko15}Wh-{\ko43}Wh-
 Dialogue: 21,0:02:59.53,0:03:00.90,TrueName,Sakuya,0,0,0,,What are you doing!?
-Dialogue: 21,0:03:03.34,0:03:05.41,TrueName,Matsuri,0,0,0,,Forgive me, Sakuya-sama.
+Dialogue: 21,0:03:03.34,0:03:05.41,TrueName,Matsuri,0,0,0,,Forgive me, Sakuya{-sama}.
 Dialogue: 21,0:03:07.01,0:03:08.20,TrueName,Sakuya,0,0,0,,Hey...
 Dialogue: 21,0:03:14.09,0:03:15.25,TrueName,Sakuya,0,0,0,,Suseri!
-Dialogue: 21,0:03:21.29,0:03:24.40,TrueName,Suseri,0,0,0,,Please tell us the true name of this kuda-kitsune.
+Dialogue: 21,0:03:21.29,0:03:24.40,TrueName,Suseri,0,0,0,,Please tell us the true name of this pipe fox.
 Dialogue: 21,0:03:24.40,0:03:25.30,TrueName,Shinichirou,0,0,0,,Huh?
 Dialogue: 21,0:03:26.39,0:03:27.53,TrueName,Shinichirou,0,0,0,,Gonta?
 Dialogue: 21,0:03:27.98,0:03:29.27,TrueName,Suseri,0,0,0,,That's correct.
 Dialogue: 21,0:03:31.92,0:03:35.32,TrueName,Nadeshiko,0,0,0,,That proves it, it's just as I thought.
 Dialogue: 21,0:03:35.32,0:03:36.86,TrueName,Sakuya,0,0,0,,What do you mean?
-Dialogue: 21,0:03:37.24,0:03:39.19,TrueName,Nadeshiko,0,0,0,,The secret to Asano-kun's ability,
+Dialogue: 21,0:03:37.24,0:03:39.19,TrueName,Nadeshiko,0,0,0,,The secret to Asano{-kun}'s ability,
 Dialogue: 21,0:03:39.19,0:03:41.49,TrueName,Nadeshiko,0,0,0,,the way for him to discover someone's true name,
 Dialogue: 21,0:03:41.49,0:03:43.66,TrueName,Nadeshiko,0,0,0,,is through oral contact.
 Dialogue: 21,0:03:43.66,0:03:45.79,TrueName,Nadeshiko,0,0,0,,Either through him kissing someone,
@@ -180,7 +116,7 @@ Dialogue: 21,0:04:01.42,0:04:03.00,TrueName,Sakuya,0,0,0,,with Shinichirou...
 Dialogue: 21,0:04:03.00,0:04:05.58,TrueName,Nadeshiko,0,0,0,,Oh, that's true.
 Dialogue: 21,0:04:05.58,0:04:07.83,TrueName,Sakuya,0,0,0,,It didn't work on me.
 Dialogue: 21,0:04:07.83,0:04:09.39,TrueName,Nadeshiko,0,0,0,,That is strange.
-Dialogue: 21,0:04:10.29,0:04:11.18,TrueName,Nadeshiko,0,0,0,,Asano-kun,
+Dialogue: 21,0:04:10.29,0:04:11.18,TrueName,Nadeshiko,0,0,0,,Asano{-kun},
 Dialogue: 21,0:04:11.18,0:04:13.35,TrueName,Nadeshiko,0,0,0,,you didn't feel anything?
 Dialogue: 21,0:04:13.86,0:04:14.95,TrueName,Shinichirou,0,0,0,,Uh...
 Dialogue: 21,0:04:14.95,0:04:16.02,TrueName,Shinichirou,0,0,0,,Well...
@@ -215,12 +151,12 @@ Dialogue: 21,0:05:43.73,0:05:44.84,TrueName,Okubo,0,0,0,,Is it Kanae?
 Dialogue: 21,0:05:44.84,0:05:45.65,TrueName,Okubo,0,0,0,,Maybe Fuzuki?
 Dialogue: 21,0:05:45.65,0:05:47.71,TrueName,Shinichirou,0,0,0,,That's not what I meant.
 Dialogue: 21,0:05:47.71,0:05:48.58,TrueName,Okubo,0,0,0,,Oh, I know.
-Dialogue: 21,0:05:48.58,0:05:51.70,TrueName,Okubo,0,0,0,,You want to kiss the first-year girl with the big boobs, Suseri-chan, right?
+Dialogue: 21,0:05:48.58,0:05:51.70,TrueName,Okubo,0,0,0,,You want to kiss the first-year girl with the big boobs, Suseri{-chan}, right?
 Dialogue: 21,0:05:51.70,0:05:52.95,TrueName,Shinichirou,0,0,0,,No.
-Dialogue: 21,0:05:53.35,0:05:56.48,TrueName,Okubo,0,0,0,,Then it must be Shimazu Sakuya you're lusting after.
+Dialogue: 21,0:05:53.35,0:05:56.48,TrueName,Okubo,0,0,0,,Then it must be Sakuya Shimazu you're lusting after.
 Dialogue: 21,0:05:57.29,0:05:59.25,TrueName,Okubo,0,0,0,,Hey, hey, you can tell me.
 Dialogue: 21,0:05:59.25,0:06:00.68,TrueName,Shinichirou,0,0,0,,There's nothing to tell.
-Dialogue: 21,0:06:00.68,0:06:03.80,TrueName,Okubo,0,0,0,,{\q3}Just what is going on between you and Shimazu Sakuya, anyway?
+Dialogue: 21,0:06:00.68,0:06:03.80,TrueName,Okubo,0,0,0,,{\q3}Just what is going on between you and Sakuya Shimazu, anyway?
 Dialogue: 21,0:06:03.80,0:06:07.38,TrueName,Shinichirou,0,0,0,,{\clip(269,0,1280,720)\t(3150,3567,0.995,\clip(943,0,1280,720))}Nothing's going on with her.
 Dialogue: 21,0:06:18.10,0:06:19.73,TrueName,Sakuya,0,0,0,,What's going on!?
 Dialogue: 21,0:06:20.28,0:06:22.56,TrueName,Sakuya,0,0,0,,You have investigation teams all over the place.
@@ -260,7 +196,7 @@ Dialogue: 21,0:07:52.91,0:07:55.83,TrueName,Suseri,0,0,0,,You know we're up agai
 Dialogue: 21,0:07:55.83,0:07:57.32,TrueName,Sakuya,0,0,0,,That's why I have to.
 Dialogue: 21,0:07:57.32,0:08:01.41,TrueName,Sakuya,0,0,0,,I have to do this {\i1}because{\fsp6} {\r}we're up against a Western mage.
 Dialogue: 21,0:08:01.41,0:08:03.46,TrueName,Sakuya,0,0,0,,I have to do this with my own hands!
-Dialogue: 21,0:08:04.27,0:08:07.00,TrueName,Suseri,0,0,0,,And you're going to do it without help from Shinichirou-sama?
+Dialogue: 21,0:08:04.27,0:08:07.00,TrueName,Suseri,0,0,0,,And you're going to do it without help from Shinichirou{-sama}?
 Dialogue: 21,0:08:08.81,0:08:11.01,TrueName,Sakuya,0,0,0,,I don't need anyone's help.
 Dialogue: 21,0:08:11.01,0:08:13.63,TrueName,Sakuya,0,0,0,,I've come this far on my own.
 Dialogue: 21,0:08:14.28,0:08:16.17,TrueName,Sakuya,0,0,0,,I'll finish this on my own!
@@ -300,9 +236,9 @@ Dialogue: 21,0:11:04.56,0:11:08.18,TrueName,Nadeshiko,0,0,0,,that girl loves put
 Dialogue: 21,0:11:13.52,0:11:14.75,TrueName,Sakuya,0,0,0,,There you are.
 Dialogue: 21,0:11:14.75,0:11:16.36,TrueName,Sakuya,0,0,0,,I'm not letting you get away this time.
 Dialogue: 21,0:11:17.43,0:11:18.69,TrueName,Shinichirou,0,0,0,,Shimazu...
-Dialogue: 21,0:11:21.89,0:11:26.29,TrueName,R4,0,0,0,,H-Help us, Sakuya-sama.
+Dialogue: 21,0:11:21.89,0:11:26.29,TrueName,R4,0,0,0,,H-Help us, Sakuya{-sama}.
 Dialogue: 21,0:11:26.29,0:11:27.95,TrueName,Shinichirou,0,0,0,,Wh-What the heck?
-Dialogue: 21,0:11:27.95,0:11:29.08,TrueName,Sakuya,0,0,0,,It's a nurikabe.
+Dialogue: 21,0:11:27.95,0:11:29.08,TrueName,Sakuya,0,0,0,,It's a wall monster.
 Dialogue: 21,0:11:29.08,0:11:32.91,TrueName,Sakuya,0,0,0,,A specter that pulls its prey into solid objects,\N and then devours their life force.
 Dialogue: 21,0:11:38.63,0:11:40.59,TrueName,Shinichirou,0,0,0,,All right. Let's save them while there's still time.
 Dialogue: 21,0:11:44.62,0:11:45.87,TrueName,Shinichirou,0,0,0,,They're stuck tight.
@@ -311,31 +247,31 @@ Dialogue: 21,0:11:49.63,0:11:52.31,TrueName,Isuca,0,0,0,,If you don't hurry, the
 Dialogue: 21,0:11:53.93,0:11:55.65,TrueName,Shinichirou,0,0,0,,Help me, Shimazu!
 Dialogue: 21,0:11:56.61,0:11:58.15,TrueName,Shinichirou,0,0,0,,Shimazu?
 Dialogue: 21,0:11:58.81,0:12:01.30,TrueName,Sakuya,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 21,0:12:01.30,0:12:02.32,TrueName,Sakuya,0,0,0,,Tsumuha!
+Dialogue: 21,0:12:01.30,0:12:02.32,TrueName,Sakuya,0,0,0,,Straight shot!
 Dialogue: 21,0:12:07.33,0:12:08.70,TrueName,Shinichirou,0,0,0,,What are you doing?
 Dialogue: 21,0:12:08.70,0:12:10.58,TrueName,Shinichirou,0,0,0,,We need to save your friends first!
 Dialogue: 21,0:12:10.58,0:12:12.83,TrueName,Sakuya,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 21,0:12:14.27,0:12:15.54,TrueName,Sakuya,0,0,0,,Tsumugare!
+Dialogue: 21,0:12:14.27,0:12:15.54,TrueName,Sakuya,0,0,0,,Triple shot!
 Dialogue: 21,0:12:20.62,0:12:22.00,TrueName,Shinichirou,0,0,0,,That idiot...
 Dialogue: 21,0:12:28.10,0:12:30.39,TrueName,Tamako,0,0,0,,I've got your back, Shinichirou.
 Dialogue: 21,0:12:30.39,0:12:31.85,TrueName,Shinichirou,0,0,0,,T-Tamako.
-Dialogue: 21,0:12:31.85,0:12:33.58,TrueName,Nadeshiko,0,0,0,,Are you okay, Asano-kun?
+Dialogue: 21,0:12:31.85,0:12:33.58,TrueName,Nadeshiko,0,0,0,,Are you okay, Asano{-kun}?
 Dialogue: 21,0:12:33.58,0:12:35.30,TrueName,Shinichirou,0,0,0,,Yes.
 Dialogue: 21,0:12:35.30,0:12:37.52,TrueName,Shinichirou,0,0,0,,But something's wrong with Shimazu.
 Dialogue: 21,0:12:37.52,0:12:40.73,TrueName,Shinichirou,0,0,0,,She isn't even trying to help her friends.
-Dialogue: 21,0:12:43.11,0:12:44.53,TrueName,Matsuri,0,0,0,,Sakuya-sama...
+Dialogue: 21,0:12:43.11,0:12:44.53,TrueName,Matsuri,0,0,0,,Sakuya{-sama}...
 Dialogue: 21,0:12:44.53,0:12:46.41,TrueName,R4,0,0,0,,C-Can't breathe...
 Dialogue: 21,0:12:47.00,0:12:49.37,TrueName,R4,0,0,0,,Please help us...
 Dialogue: 21,0:12:52.16,0:12:52.89,TrueName,Matsuri,0,0,0,,You can't!
 Dialogue: 21,0:12:52.89,0:12:54.31,TrueName,Matsuri,0,0,0,,You'll be pulled in, too!
 Dialogue: 21,0:12:54.31,0:12:55.38,TrueName,Shinichirou,0,0,0,,But...
 Dialogue: 21,0:12:58.27,0:13:00.80,TrueName,Suseri,0,0,0,,Shimazu Style Spirit Summoning Technique:
-Dialogue: 21,0:13:00.80,0:13:02.21,TrueName,Suseri,0,0,0,,Kamaitachi!
-Dialogue: 21,0:13:06.76,0:13:09.78,TrueName,Nadeshiko,0,0,0,,The nurikabe is occupying concrete.
+Dialogue: 21,0:13:00.80,0:13:02.21,TrueName,Suseri,0,0,0,,Cutting whirlwind!
+Dialogue: 21,0:13:06.76,0:13:09.78,TrueName,Nadeshiko,0,0,0,,The wall monster is occupying concrete.
 Dialogue: 21,0:13:09.78,0:13:12.39,TrueName,Nadeshiko,0,0,0,,You'll need something stronger,\N such as Sakuya's arrow.
 Dialogue: 21,0:13:12.95,0:13:14.02,TrueName,Shinichirou,0,0,0,,Shimazu!
 Dialogue: 21,0:13:14.43,0:13:17.01,TrueName,Shinichirou,0,0,0,,Please, lend us your strength!
-Dialogue: 21,0:13:20.02,0:13:22.66,TrueName,Matsuri,0,0,0,,Sakuya-sama, please!
+Dialogue: 21,0:13:20.02,0:13:22.66,TrueName,Matsuri,0,0,0,,Sakuya{-sama}, please!
 Dialogue: 21,0:13:23.28,0:13:24.78,TrueName,Isuca,0,0,0,,Aw...
 Dialogue: 21,0:13:25.24,0:13:28.28,TrueName,Isuca,0,0,0,,If you aren't going to play with me,
 Dialogue: 21,0:13:28.66,0:13:30.49,TrueName,Isuca,0,0,0,,I'm leaving.
@@ -344,10 +280,11 @@ Dialogue: 21,0:13:34.51,0:13:35.16,TrueName,Shinichirou,0,0,0,,Shimazu!
 Dialogue: 21,0:13:37.29,0:13:38.43,TrueName,Sakuya,0,0,0,,I get it!
 Dialogue: 21,0:13:38.43,0:13:39.67,TrueName,Sakuya,0,0,0,,I get it already!
 Dialogue: 21,0:13:41.47,0:13:44.05,TrueName,,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 20,0:13:44.97,0:13:45.80,TrueName,,0,0,0,,{\bord0\blur12\c&HD60E0B&}Murasame!
-Dialogue: 21,0:13:44.97,0:13:45.80,TrueName,,0,0,0,,Murasame!
+Dialogue: 20,0:13:44.97,0:13:45.80,TrueName,,0,0,0,,{\bord0\blur12\c&HC5AA5D&}Falling rain shot!
+Dialogue: 21,0:13:44.97,0:13:45.80,TrueName,,0,0,0,,Falling rain shot!
+Comment: 21,0:13:58.14,0:13:59.36,TrueName,Shinichirou,0,0,0,,Uh...
 Dialogue: 21,0:13:59.36,0:14:00.94,TrueName,Shinichirou,0,0,0,,What just happened?
-Dialogue: 21,0:14:00.94,0:14:05.62,TrueName,Matsuri,0,0,0,,When a nurikabe is defeated,\Nthe material it occupies returns to normal.
+Dialogue: 21,0:14:00.94,0:14:05.62,TrueName,Matsuri,0,0,0,,When a wall monster is defeated,\Nthe material it occupies returns to normal.
 Dialogue: 21,0:14:05.62,0:14:08.09,TrueName,Matsuri,0,0,0,,So anybody still inside...
 Dialogue: 21,0:14:08.09,0:14:09.25,TrueName,Shinichirou,0,0,0,,That can't be...
 Dialogue: 21,0:14:09.74,0:14:13.49,TrueName,Suseri,0,0,0,,Anyone who fights specters knows the risks involved.
@@ -380,7 +317,7 @@ Dialogue: 21,0:15:44.42,0:15:45.38,TrueName,Sakuya,0,0,0,,Shinichirou!
 Dialogue: 21,0:15:48.44,0:15:49.32,TrueName,Sakuya,0,0,0,,Damn it.
 Dialogue: 21,0:15:49.92,0:15:51.06,TrueName,Tamako,0,0,0,,Shinichirou!
 Dialogue: 21,0:15:51.93,0:15:53.47,TrueName,Tamako,0,0,0,,What is this!?
-Dialogue: 21,0:15:56.93,0:15:58.17,TrueName,Suseri,0,0,0,,Kamaitachi!
+Dialogue: 21,0:15:56.93,0:15:58.17,TrueName,Suseri,0,0,0,,Cutting whirlwind!
 Dialogue: 21,0:16:08.91,0:16:11.24,TrueName,Isuca,0,0,0,,How disappointing.
 Dialogue: 21,0:16:11.24,0:16:13.38,TrueName,Isuca,0,0,0,,I can't believe you fell for such a simple trap.
 Dialogue: 21,0:16:13.38,0:16:14.62,TrueName,Sakuya,0,0,0,,You're a coward!
@@ -388,7 +325,7 @@ Dialogue: 21,0:16:14.62,0:16:17.62,TrueName,Iscua,0,0,0,,Then that makes you a f
 Dialogue: 21,0:16:17.62,0:16:20.26,TrueName,Iscua,0,0,0,,You're not worthy of taking me on.
 Dialogue: 21,0:16:23.51,0:16:25.04,TrueName,Shinichirou,0,0,0,,Something's coming.
 Dialogue: 21,0:16:29.10,0:16:32.59,TrueName,S,0,0,0,,Looks like I've caught myself some beautiful butterflies here.
-Dialogue: 21,0:16:32.59,0:16:34.25,TrueName,Sakuya,0,0,0,,A Jorougumo!
+Dialogue: 21,0:16:32.59,0:16:34.25,TrueName,Sakuya,0,0,0,,A spider woman!
 Dialogue: 21,0:16:34.25,0:16:38.35,TrueName,S,0,0,0,,I'm going to enjoy slowly sucking out your life force.
 Dialogue: 21,0:16:40.34,0:16:42.48,TrueName,Sakuya,0,0,0,,I won't let you take us so easily!
 Dialogue: 21,0:16:45.51,0:16:46.99,TrueName,S,0,0,0,,How absurd!
@@ -402,6 +339,7 @@ Dialogue: 21,0:17:02.84,0:17:05.66,TrueName,Sakuya,0,0,0,,This is my punishment 
 Dialogue: 21,0:17:05.66,0:17:07.53,TrueName,Shinichirou,0,0,0,,This isn't like you.
 Dialogue: 21,0:17:07.53,0:17:10.18,TrueName,Shinichirou,0,0,0,,You've never given up so easily before.
 Dialogue: 21,0:17:10.18,0:17:11.03,TrueName,Sakuya,0,0,0,,But...
+Comment: 21,0:17:14.59,0:17:15.47,TrueName,Sakuya,0,0,0,,No!
 Dialogue: 21,0:17:15.47,0:17:18.14,TrueName,Shinichirou,0,0,0,,Stop making weird noises.
 Dialogue: 21,0:17:18.14,0:17:20.10,TrueName,Sakuya,0,0,0,,No, it's...
 Dialogue: 21,0:17:20.98,0:17:21.91,TrueName,Sakuya,0,0,0,,My clothes...
@@ -417,8 +355,8 @@ Dialogue: 21,0:17:43.36,0:17:44.87,TrueName,Sakuya,0,0,0,,Shinichirou...
 Dialogue: 21,0:17:46.16,0:17:47.56,TrueName,S,0,0,0,,Don't make me laugh.
 Dialogue: 21,0:17:47.56,0:17:50.96,TrueName,S,0,0,0,,You're nothing without your bow.
 Dialogue: 21,0:17:52.80,0:17:55.84,TrueName,Sakuya,0,0,0,,Shimazu Style Spirit Bow Technique...
-Dialogue: 20,0:17:58.72,0:17:59.89,TrueName,Sakuya,0,0,0,,{\bord0\blur12\c&H3312FC&}Hioboro!
-Dialogue: 21,0:17:58.72,0:17:59.89,TrueName,Sakuya,0,0,0,,Hioboro!
+Dialogue: 20,0:17:58.72,0:17:59.89,TrueName,Sakuya,0,0,0,,{\bord0\blur12\c&H3312FC&}Flying embers!
+Dialogue: 21,0:17:58.72,0:17:59.89,TrueName,Sakuya,0,0,0,,Flying embers!
 Dialogue: 21,0:18:01.76,0:18:02.97,TrueName,Shinichirou,0,0,0,,Nice shot!
 Dialogue: 21,0:18:04.85,0:18:07.25,TrueName,S,0,0,0,,How dare you cut my beautiful face!?
 Dialogue: 21,0:18:07.73,0:18:10.35,TrueName,S,0,0,0,, I'm going to cut you into little pieces!
@@ -443,8 +381,8 @@ Dialogue: 21,0:19:03.03,0:19:06.29,TrueName,Iscua,0,0,0,,I'm going to make you p
 Dialogue: 21,0:19:06.29,0:19:09.29,TrueName,Iscua,0,0,0,,I want you to weep blood from your heart.
 Dialogue: 21,0:19:09.29,0:19:12.79,TrueName,Iscua,0,0,0,,I want to see your body shed tears.
 Dialogue: 21,0:19:12.79,0:19:16.92,TrueName,Iscua,0,0,0,,I want to hear your voice scream out with regret!
-Dialogue: 21,0:19:22.42,0:19:23.72,TrueName,Suseri,0,0,0,,Shinichirou-sama!
-Dialogue: 21,0:19:23.72,0:19:25.26,TrueName,Suseri,0,0,0,,You have to kiss Nee-sama!
+Dialogue: 21,0:19:22.42,0:19:23.72,TrueName,Suseri,0,0,0,,Shinichirou{-sama}!
+Dialogue: 21,0:19:23.72,0:19:25.26,TrueName,Suseri,0,0,0,,You have to kiss Sakuya{-sama}!
 Dialogue: 21,0:19:25.26,0:19:27.41,TrueName,Suseri,0,0,0,,You have no other choice!
 Dialogue: 21,0:19:27.41,0:19:29.27,TrueName,Sakuya,0,0,0,,N-No.
 Dialogue: 21,0:19:29.27,0:19:31.44,TrueName,Shinichirou,0,0,0,,We're going to die at this rate.
@@ -465,6 +403,7 @@ Dialogue: 21,0:20:07.82,0:20:09.13,TrueName,Shinichirou,0,0,0,,I'm sorry, Shimaz
 Dialogue: 21,0:20:09.13,0:20:10.43,TrueName,Sakuya,0,0,0,,Don't...
 Dialogue: 21,0:20:10.43,0:20:11.27,TrueName,Sakuya,0,0,0,,Please.
 Dialogue: 21,0:20:11.27,0:20:12.14,TrueName,S,0,0,0,,Die!
+Comment: 21,0:20:12.14,0:20:13.15,TrueName,S,0,0,0,,Die!
 Dialogue: 21,0:20:15.04,0:20:16.44,TrueName,G1,0,0,0,,She's so weak.
 Dialogue: 21,0:20:16.44,0:20:19.46,TrueName,G1,0,0,0,,She'll never be able to serve as the head of the family.
 Dialogue: 21,0:20:19.46,0:20:22.65,TrueName,G2,0,0,0,,That is exactly why I was against the marriage.
@@ -484,18 +423,18 @@ Dialogue: 21,0:21:02.13,0:21:03.11,TrueName,D,0,0,0,,Name?
 Dialogue: 21,0:21:03.68,0:21:05.82,TrueName,D,0,0,0,,This bird's name is...
 Dialogue: 21,0:21:06.65,0:21:07.60,TrueName,Shinichirou,0,0,0,,Isuca.
 Dialogue: 21,0:21:13.00,0:21:16.50,TrueName,S,0,0,0,,Wh-What's going on!?
-Dialogue: 21,0:21:16.50,0:21:19.70,TrueName,Nadeshiko,0,0,0,,It looks like Asano-kun has discovered Sakuya's true name.
+Dialogue: 21,0:21:16.50,0:21:19.70,TrueName,Nadeshiko,0,0,0,,It looks like Asano{-kun} has discovered Sakuya's true name.
 Dialogue: 21,0:21:19.70,0:21:20.80,TrueName,Matsuri,0,0,0,,Th-Then...
 Dialogue: 21,0:21:22.26,0:21:23.38,TrueName,Tamako,0,0,0,,Shinichirou!
 Dialogue: 21,0:21:26.05,0:21:28.55,TrueName,Sakuya,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 20,0:21:28.55,0:21:29.89,TrueName,Sakuya,0,0,0,,{\bord0\blur12\c&H3312FC&}Hioboro!
-Dialogue: 21,0:21:28.55,0:21:29.89,TrueName,Sakuya,0,0,0,,Hioboro!
+Dialogue: 20,0:21:28.55,0:21:29.89,TrueName,Sakuya,0,0,0,,{\bord0\blur12\c&H3312FC&}Flying embers!
+Dialogue: 21,0:21:28.55,0:21:29.89,TrueName,Sakuya,0,0,0,,Flying embers!
 Dialogue: 21,0:21:54.77,0:21:56.04,TrueName,Shinichirou,0,0,0,,Shimazu...
 Dialogue: 22,0:00:00.62,0:00:03.02,TrueNamePink,Nadeshiko,0,0,0,,So it seems that girl is the one behind all this.
 Dialogue: 22,0:00:03.37,0:00:04.81,TrueNamePink,Suseri,0,0,0,,There's no question about it.
 Dialogue: 22,0:00:05.51,0:00:07.74,TrueNamePink,Nadeshiko,0,0,0,,A Western mage...
 Dialogue: 22,0:00:07.74,0:00:10.19,TrueNamePink,Matsuri,0,0,0,,She's pretty powerful, too.
-Dialogue: 22,0:00:10.19,0:00:14.56,TrueNamePink,Shinichirou,0,0,0,,Even the technique that took out the raijuu didn't work.
+Dialogue: 22,0:00:10.19,0:00:14.56,TrueNamePink,Shinichirou,0,0,0,,Even the technique that took out the lightning beast didn't work.
 Dialogue: 22,0:00:15.96,0:00:17.75,TrueNamePink,Sakuya,0,0,0,,Are you saying I can't beat her!?
 Dialogue: 22,0:00:17.75,0:00:20.04,TrueNamePink,Shinichirou,0,0,0,,No, I didn't say that...
 Dialogue: 22,0:00:20.04,0:00:22.11,TrueNamePink,Sakuya,0,0,0,,I will beat her next time.
@@ -505,34 +444,34 @@ Dialogue: 22,0:00:26.78,0:00:28.22,TrueNamePink,Nadeshiko,0,0,0,,Now, now...
 Dialogue: 22,0:00:28.22,0:00:31.92,TrueNamePink,Nadeshiko,0,0,0,,We need to capture that Western mage first.
 Dialogue: 22,0:00:32.37,0:00:34.05,TrueNamePink,Shinichirou,0,0,0,,But how?
 Dialogue: 22,0:00:34.93,0:00:37.01,TrueNamePink,Nadeshiko,0,0,0,,We have an ace up our sleeve.
-Dialogue: 22,0:00:38.05,0:00:39.66,TrueNamePink,Nadeshiko,0,0,0,,Asano-kun.
+Dialogue: 22,0:00:38.05,0:00:39.66,TrueNamePink,Nadeshiko,0,0,0,,Asano{-kun}.
 Dialogue: 22,0:00:41.01,0:00:44.06,TrueNamePink,Nadeshiko,0,0,0,,You have the Eye of Truth.
 Dialogue: 22,0:02:14.79,0:02:17.43,TrueNamePink,Sakuya,0,500,0,,Shinichirou has the Eye of Truth!?
 Dialogue: 22,0:02:17.43,0:02:18.28,TrueNamePink,Nadeshiko,0,500,0,,Yes,
 Dialogue: 22,0:02:18.28,0:02:20.96,TrueNamePink,Nadeshiko,0,500,0,,the ability to ascertain others' true names.
 Dialogue: 22,0:02:20.96,0:02:22.41,TrueNamePink,Nadeshiko,0,0,0,,It's such a rare ability,
 Dialogue: 22,0:02:22.41,0:02:25.75,TrueNamePink,Nadeshiko,0,0,0,,{\q3}that a whole generation can pass before someone who possesses it is found.
-Dialogue: 22,0:02:26.27,0:02:30.60,TrueNamePink,Nadeshiko,0,0,0,,This also explains why Asano-kun possesses such a huge amount of spiritual energy.
+Dialogue: 22,0:02:26.27,0:02:30.60,TrueNamePink,Nadeshiko,0,0,0,,This also explains why Asano{-kun} possesses such a huge amount of spiritual energy.
 Dialogue: 22,0:02:31.25,0:02:33.08,TrueNamePink,Tamako,0,0,0,,That's amazing, Shinichirou!
 Dialogue: 22,0:02:34.11,0:02:35.99,TrueNamePink,Shinichirou,0,0,0,,Thanks, but I don't really understand it.
 Dialogue: 22,0:02:35.99,0:02:37.30,TrueNamePink,Sakuya,0,0,0,,But it's weird.
 Dialogue: 22,0:02:37.30,0:02:39.72,TrueNamePink,Sakuya,0,0,0,,He's rarely able to figure out a true name.
 Dialogue: 22,0:02:40.11,0:02:42.31,TrueNamePink,Nadeshiko,0,0,0,,He needs something to activate his ability.
 Dialogue: 22,0:02:42.31,0:02:43.22,TrueNamePink,Nadeshiko,0,0,0,,Suseri.
-Dialogue: 22,0:02:49.60,0:02:52.06,TrueNamePink,Shinichirou,0,0,0,,S-Suseri-san, what are you...
+Dialogue: 22,0:02:49.60,0:02:52.06,TrueNamePink,Shinichirou,0,0,0,,S-Suseri{-san}, what are you...
 Dialogue: 22,0:02:56.48,0:02:58.36,TrueNamePink,Shinichirou,0,0,0,,Wh-When did you...
 Dialogue: 22,0:02:58.36,0:02:59.53,TrueNamePink,Sakuya,0,0,0,,{\ko28}Wh-{\ko17}Wh-{\ko14}Wh-{\ko15}Wh-{\ko43}Wh-
 Dialogue: 22,0:02:59.53,0:03:00.90,TrueNamePink,Sakuya,0,0,0,,What are you doing!?
-Dialogue: 22,0:03:03.34,0:03:05.41,TrueNamePink,Matsuri,0,0,0,,Forgive me, Sakuya-sama.
+Dialogue: 22,0:03:03.34,0:03:05.41,TrueNamePink,Matsuri,0,0,0,,Forgive me, Sakuya{-sama}.
 Dialogue: 22,0:03:07.01,0:03:08.20,TrueNamePink,Sakuya,0,0,0,,Hey...
 Dialogue: 22,0:03:14.09,0:03:15.25,TrueNamePink,Sakuya,0,0,0,,Suseri!
-Dialogue: 22,0:03:21.29,0:03:24.40,TrueNamePink,Suseri,0,0,0,,Please tell us the true name of this kuda-kitsune.
+Dialogue: 22,0:03:21.29,0:03:24.40,TrueNamePink,Suseri,0,0,0,,Please tell us the true name of this pipe fox.
 Dialogue: 22,0:03:24.40,0:03:25.30,TrueNamePink,Shinichirou,0,0,0,,Huh?
 Dialogue: 22,0:03:26.39,0:03:27.53,TrueNamePink,Shinichirou,0,0,0,,Gonta?
 Dialogue: 22,0:03:27.98,0:03:29.27,TrueNamePink,Suseri,0,0,0,,That's correct.
 Dialogue: 22,0:03:31.92,0:03:35.32,TrueNamePink,Nadeshiko,0,0,0,,That proves it, it's just as I thought.
 Dialogue: 22,0:03:35.32,0:03:36.86,TrueNamePink,Sakuya,0,0,0,,What do you mean?
-Dialogue: 22,0:03:37.24,0:03:39.19,TrueNamePink,Nadeshiko,0,0,0,,The secret to Asano-kun's ability,
+Dialogue: 22,0:03:37.24,0:03:39.19,TrueNamePink,Nadeshiko,0,0,0,,The secret to Asano{-kun}'s ability,
 Dialogue: 22,0:03:39.19,0:03:41.49,TrueNamePink,Nadeshiko,0,0,0,,the way for him to discover someone's true name,
 Dialogue: 22,0:03:41.49,0:03:43.66,TrueNamePink,Nadeshiko,0,0,0,,is through oral contact.
 Dialogue: 22,0:03:43.66,0:03:45.79,TrueNamePink,Nadeshiko,0,0,0,,Either through him kissing someone,
@@ -547,7 +486,7 @@ Dialogue: 22,0:04:01.42,0:04:03.00,TrueNamePink,Sakuya,0,0,0,,with Shinichirou..
 Dialogue: 22,0:04:03.00,0:04:05.58,TrueNamePink,Nadeshiko,0,0,0,,Oh, that's true.
 Dialogue: 22,0:04:05.58,0:04:07.83,TrueNamePink,Sakuya,0,0,0,,It didn't work on me.
 Dialogue: 22,0:04:07.83,0:04:09.39,TrueNamePink,Nadeshiko,0,0,0,,That is strange.
-Dialogue: 22,0:04:10.29,0:04:11.18,TrueNamePink,Nadeshiko,0,0,0,,Asano-kun,
+Dialogue: 22,0:04:10.29,0:04:11.18,TrueNamePink,Nadeshiko,0,0,0,,Asano{-kun},
 Dialogue: 22,0:04:11.18,0:04:13.35,TrueNamePink,Nadeshiko,0,0,0,,you didn't feel anything?
 Dialogue: 22,0:04:13.86,0:04:14.95,TrueNamePink,Shinichirou,0,0,0,,Uh...
 Dialogue: 22,0:04:14.95,0:04:16.02,TrueNamePink,Shinichirou,0,0,0,,Well...
@@ -582,12 +521,12 @@ Dialogue: 22,0:05:43.73,0:05:44.84,TrueNamePink,Okubo,0,0,0,,Is it Kanae?
 Dialogue: 22,0:05:44.84,0:05:45.65,TrueNamePink,Okubo,0,0,0,,Maybe Fuzuki?
 Dialogue: 22,0:05:45.65,0:05:47.71,TrueNamePink,Shinichirou,0,0,0,,That's not what I meant.
 Dialogue: 22,0:05:47.71,0:05:48.58,TrueNamePink,Okubo,0,0,0,,Oh, I know.
-Dialogue: 22,0:05:48.58,0:05:51.70,TrueNamePink,Okubo,0,0,0,,You want to kiss the first-year girl with the big boobs, Suseri-chan, right?
+Dialogue: 22,0:05:48.58,0:05:51.70,TrueNamePink,Okubo,0,0,0,,You want to kiss the first-year girl with the big boobs, Suseri{-chan}, right?
 Dialogue: 22,0:05:51.70,0:05:52.95,TrueNamePink,Shinichirou,0,0,0,,No.
-Dialogue: 22,0:05:53.35,0:05:56.48,TrueNamePink,Okubo,0,0,0,,Then it must be Shimazu Sakuya you're lusting after.
+Dialogue: 22,0:05:53.35,0:05:56.48,TrueNamePink,Okubo,0,0,0,,Then it must be Sakuya Shimazu you're lusting after.
 Dialogue: 22,0:05:57.29,0:05:59.25,TrueNamePink,Okubo,0,0,0,,Hey, hey, you can tell me.
 Dialogue: 22,0:05:59.25,0:06:00.68,TrueNamePink,Shinichirou,0,0,0,,There's nothing to tell.
-Dialogue: 22,0:06:00.68,0:06:03.80,TrueNamePink,Okubo,0,0,0,,{\q3}Just what is going on between you and Shimazu Sakuya, anyway?
+Dialogue: 22,0:06:00.68,0:06:03.80,TrueNamePink,Okubo,0,0,0,,{\q3}Just what is going on between you and Sakuya Shimazu, anyway?
 Dialogue: 22,0:06:03.80,0:06:07.38,TrueNamePink,Shinichirou,0,0,0,,{\clip(269,0,1280,720)\t(3150,3567,0.995,\clip(943,0,1280,720))}Nothing's going on with her.
 Dialogue: 22,0:06:18.10,0:06:19.73,TrueNamePink,Sakuya,0,0,0,,What's going on!?
 Dialogue: 22,0:06:20.28,0:06:22.56,TrueNamePink,Sakuya,0,0,0,,You have investigation teams all over the place.
@@ -627,7 +566,7 @@ Dialogue: 22,0:07:52.91,0:07:55.83,TrueNamePink,Suseri,0,0,0,,You know we're up 
 Dialogue: 22,0:07:55.83,0:07:57.32,TrueNamePink,Sakuya,0,0,0,,That's why I have to.
 Dialogue: 22,0:07:57.32,0:08:01.41,TrueNamePink,Sakuya,0,0,0,,I have to do this {\i1}because{\fsp6} {\r}we're up against a Western mage.
 Dialogue: 22,0:08:01.41,0:08:03.46,TrueNamePink,Sakuya,0,0,0,,I have to do this with my own hands!
-Dialogue: 22,0:08:04.27,0:08:07.00,TrueNamePink,Suseri,0,0,0,,And you're going to do it without help from Shinichirou-sama?
+Dialogue: 22,0:08:04.27,0:08:07.00,TrueNamePink,Suseri,0,0,0,,And you're going to do it without help from Shinichirou{-sama}?
 Dialogue: 22,0:08:08.81,0:08:11.01,TrueNamePink,Sakuya,0,0,0,,I don't need anyone's help.
 Dialogue: 22,0:08:11.01,0:08:13.63,TrueNamePink,Sakuya,0,0,0,,I've come this far on my own.
 Dialogue: 22,0:08:14.28,0:08:16.17,TrueNamePink,Sakuya,0,0,0,,I'll finish this on my own!
@@ -667,9 +606,9 @@ Dialogue: 22,0:11:04.56,0:11:08.18,TrueNamePink,Nadeshiko,0,0,0,,that girl loves
 Dialogue: 22,0:11:13.52,0:11:14.75,TrueNamePink,Sakuya,0,0,0,,There you are.
 Dialogue: 22,0:11:14.75,0:11:16.36,TrueNamePink,Sakuya,0,0,0,,I'm not letting you get away this time.
 Dialogue: 22,0:11:17.43,0:11:18.69,TrueNamePink,Shinichirou,0,0,0,,Shimazu...
-Dialogue: 22,0:11:21.89,0:11:26.29,TrueNamePink,R4,0,0,0,,H-Help us, Sakuya-sama.
+Dialogue: 22,0:11:21.89,0:11:26.29,TrueNamePink,R4,0,0,0,,H-Help us, Sakuya{-sama}.
 Dialogue: 22,0:11:26.29,0:11:27.95,TrueNamePink,Shinichirou,0,0,0,,Wh-What the heck?
-Dialogue: 22,0:11:27.95,0:11:29.08,TrueNamePink,Sakuya,0,0,0,,It's a nurikabe.
+Dialogue: 22,0:11:27.95,0:11:29.08,TrueNamePink,Sakuya,0,0,0,,It's a wall monster.
 Dialogue: 22,0:11:29.08,0:11:32.91,TrueNamePink,Sakuya,0,0,0,,A specter that pulls its prey into solid objects,\N and then devours their life force.
 Dialogue: 22,0:11:38.63,0:11:40.59,TrueNamePink,Shinichirou,0,0,0,,All right. Let's save them while there's still time.
 Dialogue: 22,0:11:44.62,0:11:45.87,TrueNamePink,Shinichirou,0,0,0,,They're stuck tight.
@@ -678,31 +617,31 @@ Dialogue: 22,0:11:49.63,0:11:52.31,TrueNamePink,Isuca,0,0,0,,If you don't hurry,
 Dialogue: 22,0:11:53.93,0:11:55.65,TrueNamePink,Shinichirou,0,0,0,,Help me, Shimazu!
 Dialogue: 22,0:11:56.61,0:11:58.15,TrueNamePink,Shinichirou,0,0,0,,Shimazu?
 Dialogue: 22,0:11:58.81,0:12:01.30,TrueNamePink,Sakuya,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 22,0:12:01.30,0:12:02.32,TrueNamePink,Sakuya,0,0,0,,Tsumuha!
+Dialogue: 22,0:12:01.30,0:12:02.32,TrueNamePink,Sakuya,0,0,0,,Straight shot!
 Dialogue: 22,0:12:07.33,0:12:08.70,TrueNamePink,Shinichirou,0,0,0,,What are you doing?
 Dialogue: 22,0:12:08.70,0:12:10.58,TrueNamePink,Shinichirou,0,0,0,,We need to save your friends first!
 Dialogue: 22,0:12:10.58,0:12:12.83,TrueNamePink,Sakuya,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 22,0:12:14.27,0:12:15.54,TrueNamePink,Sakuya,0,0,0,,Tsumugare!
+Dialogue: 22,0:12:14.27,0:12:15.54,TrueNamePink,Sakuya,0,0,0,,Triple shot!
 Dialogue: 22,0:12:20.62,0:12:22.00,TrueNamePink,Shinichirou,0,0,0,,That idiot...
 Dialogue: 22,0:12:28.10,0:12:30.39,TrueNamePink,Tamako,0,0,0,,I've got your back, Shinichirou.
 Dialogue: 22,0:12:30.39,0:12:31.85,TrueNamePink,Shinichirou,0,0,0,,T-Tamako.
-Dialogue: 22,0:12:31.85,0:12:33.58,TrueNamePink,Nadeshiko,0,0,0,,Are you okay, Asano-kun?
+Dialogue: 22,0:12:31.85,0:12:33.58,TrueNamePink,Nadeshiko,0,0,0,,Are you okay, Asano{-kun}?
 Dialogue: 22,0:12:33.58,0:12:35.30,TrueNamePink,Shinichirou,0,0,0,,Yes.
 Dialogue: 22,0:12:35.30,0:12:37.52,TrueNamePink,Shinichirou,0,0,0,,But something's wrong with Shimazu.
 Dialogue: 22,0:12:37.52,0:12:40.73,TrueNamePink,Shinichirou,0,0,0,,She isn't even trying to help her friends.
-Dialogue: 22,0:12:43.11,0:12:44.53,TrueNamePink,Matsuri,0,0,0,,Sakuya-sama...
+Dialogue: 22,0:12:43.11,0:12:44.53,TrueNamePink,Matsuri,0,0,0,,Sakuya{-sama}...
 Dialogue: 22,0:12:44.53,0:12:46.41,TrueNamePink,R4,0,0,0,,C-Can't breathe...
 Dialogue: 22,0:12:47.00,0:12:49.37,TrueNamePink,R4,0,0,0,,Please help us...
 Dialogue: 22,0:12:52.16,0:12:52.89,TrueNamePink,Matsuri,0,0,0,,You can't!
 Dialogue: 22,0:12:52.89,0:12:54.31,TrueNamePink,Matsuri,0,0,0,,You'll be pulled in, too!
 Dialogue: 22,0:12:54.31,0:12:55.38,TrueNamePink,Shinichirou,0,0,0,,But...
 Dialogue: 22,0:12:58.27,0:13:00.80,TrueNamePink,Suseri,0,0,0,,Shimazu Style Spirit Summoning Technique:
-Dialogue: 22,0:13:00.80,0:13:02.21,TrueNamePink,Suseri,0,0,0,,Kamaitachi!
-Dialogue: 22,0:13:06.76,0:13:09.78,TrueNamePink,Nadeshiko,0,0,0,,The nurikabe is occupying concrete.
+Dialogue: 22,0:13:00.80,0:13:02.21,TrueNamePink,Suseri,0,0,0,,Cutting whirlwind!
+Dialogue: 22,0:13:06.76,0:13:09.78,TrueNamePink,Nadeshiko,0,0,0,,The wall monster is occupying concrete.
 Dialogue: 22,0:13:09.78,0:13:12.39,TrueNamePink,Nadeshiko,0,0,0,,You'll need something stronger,\N such as Sakuya's arrow.
 Dialogue: 22,0:13:12.95,0:13:14.02,TrueNamePink,Shinichirou,0,0,0,,Shimazu!
 Dialogue: 22,0:13:14.43,0:13:17.01,TrueNamePink,Shinichirou,0,0,0,,Please, lend us your strength!
-Dialogue: 22,0:13:20.02,0:13:22.66,TrueNamePink,Matsuri,0,0,0,,Sakuya-sama, please!
+Dialogue: 22,0:13:20.02,0:13:22.66,TrueNamePink,Matsuri,0,0,0,,Sakuya{-sama}, please!
 Dialogue: 22,0:13:23.28,0:13:24.78,TrueNamePink,Isuca,0,0,0,,Aw...
 Dialogue: 22,0:13:25.24,0:13:28.28,TrueNamePink,Isuca,0,0,0,,If you aren't going to play with me,
 Dialogue: 22,0:13:28.66,0:13:30.49,TrueNamePink,Isuca,0,0,0,,I'm leaving.
@@ -711,9 +650,9 @@ Dialogue: 22,0:13:34.51,0:13:35.16,TrueNamePink,Shinichirou,0,0,0,,Shimazu!
 Dialogue: 22,0:13:37.29,0:13:38.43,TrueNamePink,Sakuya,0,0,0,,I get it!
 Dialogue: 22,0:13:38.43,0:13:39.67,TrueNamePink,Sakuya,0,0,0,,I get it already!
 Dialogue: 22,0:13:41.47,0:13:44.05,TrueNamePink,,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 22,0:13:44.97,0:13:45.80,TrueNamePink,,0,0,0,,Murasame!
+Dialogue: 22,0:13:44.97,0:13:45.80,TrueNamePink,,0,0,0,,Falling rain shot!
 Dialogue: 22,0:13:59.36,0:14:00.94,TrueNamePink,Shinichirou,0,0,0,,What just happened?
-Dialogue: 22,0:14:00.94,0:14:05.62,TrueNamePink,Matsuri,0,0,0,,When a nurikabe is defeated,\Nthe material it occupies returns to normal.
+Dialogue: 22,0:14:00.94,0:14:05.62,TrueNamePink,Matsuri,0,0,0,,When a wall monster is defeated,\Nthe material it occupies returns to normal.
 Dialogue: 22,0:14:05.62,0:14:08.09,TrueNamePink,Matsuri,0,0,0,,So anybody still inside...
 Dialogue: 22,0:14:08.09,0:14:09.25,TrueNamePink,Shinichirou,0,0,0,,That can't be...
 Dialogue: 22,0:14:09.74,0:14:13.49,TrueNamePink,Suseri,0,0,0,,Anyone who fights specters knows the risks involved.
@@ -746,7 +685,7 @@ Dialogue: 22,0:15:44.42,0:15:45.38,TrueNamePink,Sakuya,0,0,0,,Shinichirou!
 Dialogue: 22,0:15:48.44,0:15:49.32,TrueNamePink,Sakuya,0,0,0,,Damn it.
 Dialogue: 22,0:15:49.92,0:15:51.06,TrueNamePink,Tamako,0,0,0,,Shinichirou!
 Dialogue: 22,0:15:51.93,0:15:53.47,TrueNamePink,Tamako,0,0,0,,What is this!?
-Dialogue: 22,0:15:56.93,0:15:58.17,TrueNamePink,Suseri,0,0,0,,Kamaitachi!
+Dialogue: 22,0:15:56.93,0:15:58.17,TrueNamePink,Suseri,0,0,0,,Cutting whirlwind!
 Dialogue: 22,0:16:08.91,0:16:11.24,TrueNamePink,Isuca,0,0,0,,How disappointing.
 Dialogue: 22,0:16:11.24,0:16:13.38,TrueNamePink,Isuca,0,0,0,,I can't believe you fell for such a simple trap.
 Dialogue: 22,0:16:13.38,0:16:14.62,TrueNamePink,Sakuya,0,0,0,,You're a coward!
@@ -754,7 +693,7 @@ Dialogue: 22,0:16:14.62,0:16:17.62,TrueNamePink,Iscua,0,0,0,,Then that makes you
 Dialogue: 22,0:16:17.62,0:16:20.26,TrueNamePink,Iscua,0,0,0,,You're not worthy of taking me on.
 Dialogue: 22,0:16:23.51,0:16:25.04,TrueNamePink,Shinichirou,0,0,0,,Something's coming.
 Dialogue: 22,0:16:29.10,0:16:32.59,TrueNamePink,S,0,0,0,,Looks like I've caught myself some beautiful butterflies here.
-Dialogue: 22,0:16:32.59,0:16:34.25,TrueNamePink,Sakuya,0,0,0,,A Jorougumo!
+Dialogue: 22,0:16:32.59,0:16:34.25,TrueNamePink,Sakuya,0,0,0,,A spider woman!
 Dialogue: 22,0:16:34.25,0:16:38.35,TrueNamePink,S,0,0,0,,I'm going to enjoy slowly sucking out your life force.
 Dialogue: 22,0:16:40.34,0:16:42.48,TrueNamePink,Sakuya,0,0,0,,I won't let you take us so easily!
 Dialogue: 22,0:16:45.51,0:16:46.99,TrueNamePink,S,0,0,0,,How absurd!
@@ -783,7 +722,7 @@ Dialogue: 22,0:17:43.36,0:17:44.87,TrueNamePink,Sakuya,0,0,0,,Shinichirou...
 Dialogue: 22,0:17:46.16,0:17:47.56,TrueNamePink,S,0,0,0,,Don't make me laugh.
 Dialogue: 22,0:17:47.56,0:17:50.96,TrueNamePink,S,0,0,0,,You're nothing without your bow.
 Dialogue: 22,0:17:52.80,0:17:55.84,TrueNamePink,Sakuya,0,0,0,,Shimazu Style Spirit Bow Technique...
-Dialogue: 22,0:17:58.72,0:17:59.89,TrueNamePink,Sakuya,0,0,0,,Hioboro!
+Dialogue: 22,0:17:58.72,0:17:59.89,TrueNamePink,Sakuya,0,0,0,,Flying embers!
 Dialogue: 22,0:18:01.76,0:18:02.97,TrueNamePink,Shinichirou,0,0,0,,Nice shot!
 Dialogue: 22,0:18:04.85,0:18:07.25,TrueNamePink,S,0,0,0,,How dare you cut my beautiful face!?
 Dialogue: 22,0:18:07.73,0:18:10.35,TrueNamePink,S,0,0,0,, I'm going to cut you into little pieces!
@@ -808,8 +747,8 @@ Dialogue: 22,0:19:03.03,0:19:06.29,TrueNamePink,Iscua,0,0,0,,I'm going to make y
 Dialogue: 22,0:19:06.29,0:19:09.29,TrueNamePink,Iscua,0,0,0,,I want you to weep blood from your heart.
 Dialogue: 22,0:19:09.29,0:19:12.79,TrueNamePink,Iscua,0,0,0,,I want to see your body shed tears.
 Dialogue: 22,0:19:12.79,0:19:16.92,TrueNamePink,Iscua,0,0,0,,I want to hear your voice scream out with regret!
-Dialogue: 22,0:19:22.42,0:19:23.72,TrueNamePink,Suseri,0,0,0,,Shinichirou-sama!
-Dialogue: 22,0:19:23.72,0:19:25.26,TrueNamePink,Suseri,0,0,0,,You have to kiss Nee-sama!
+Dialogue: 22,0:19:22.42,0:19:23.72,TrueNamePink,Suseri,0,0,0,,Shinichirou{-sama}!
+Dialogue: 22,0:19:23.72,0:19:25.26,TrueNamePink,Suseri,0,0,0,,You have to kiss Sakuya{-sama}!
 Dialogue: 22,0:19:25.26,0:19:27.41,TrueNamePink,Suseri,0,0,0,,You have no other choice!
 Dialogue: 22,0:19:27.41,0:19:29.27,TrueNamePink,Sakuya,0,0,0,,N-No.
 Dialogue: 22,0:19:29.27,0:19:31.44,TrueNamePink,Shinichirou,0,0,0,,We're going to die at this rate.
@@ -849,12 +788,13 @@ Dialogue: 22,0:21:02.13,0:21:03.11,TrueNamePink,D,0,0,0,,Name?
 Dialogue: 22,0:21:03.68,0:21:05.82,TrueNamePink,D,0,0,0,,This bird's name is...
 Dialogue: 22,0:21:06.65,0:21:07.60,TrueNamePink,Shinichirou,0,0,0,,Isuca.
 Dialogue: 22,0:21:13.00,0:21:16.50,TrueNamePink,S,0,0,0,,Wh-What's going on!?
-Dialogue: 22,0:21:16.50,0:21:19.70,TrueNamePink,Nadeshiko,0,0,0,,It looks like Asano-kun has discovered Sakuya's true name.
+Dialogue: 22,0:21:16.50,0:21:19.70,TrueNamePink,Nadeshiko,0,0,0,,It looks like Asano{-kun} has discovered Sakuya's true name.
 Dialogue: 22,0:21:19.70,0:21:20.80,TrueNamePink,Matsuri,0,0,0,,Th-Then...
 Dialogue: 22,0:21:22.26,0:21:23.38,TrueNamePink,Tamako,0,0,0,,Shinichirou!
 Dialogue: 22,0:21:26.05,0:21:28.55,TrueNamePink,Sakuya,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 22,0:21:28.55,0:21:29.89,TrueNamePink,Sakuya,0,0,0,,Hioboro!
+Dialogue: 22,0:21:28.55,0:21:29.89,TrueNamePink,Sakuya,0,0,0,,Flying embers!
 Dialogue: 22,0:21:54.77,0:21:56.04,TrueNamePink,Shinichirou,0,0,0,,Shimazu...
+Comment: 0,0:00:44.06,0:00:44.10,Default,,0,0,0,,TS
 Dialogue: 0,0:00:00.00,0:00:03.02,Signs-Dstyle,,0,0,0,,{\blur0.8\fax0.2\fs45\fscx70\fscy110\c&H56502E&\fnFat Daddy Expanded\b1\pos(518.667,382)\frz352.2\frx2\fry2\clip(328,344,692.572,357.714)}C{*\c&H524D2C&}h{*\c&H4F492B&}e{*\c&H4B4629&}m{*\c&H474227&}i{*\c&H433F25&}s{*\c&H403B24&}t{*\c&H3C3822&}r{*\c&H383520&}y {*\c&H312E1D&}P{*\c&H2D2A1B&}r{*\c&H292719&}e{*\c&H252417&}p {*\c&H1E1D14&}R{*\c&H1A1912&}o{*\c&H161610&}o{*\c&H13120F&}m{\c&H0F0F0D&}
 Dialogue: 0,0:00:00.00,0:00:03.02,Signs-Dstyle,,0,0,0,,{\clip(328,358,698,359)\pos(518.667,382)\blur0.8\fax0.2\fs45\fscx70\fscy110\fnFat Daddy Expanded\b1\frz352.2\frx2\fry2\c&H56502E&}C{*\c&H524D2C&}h{*\c&H4F492B&}e{*\c&H4B4629&}m{*\c&H474227&}i{*\c&H433F25&}s{*\c&H403B24&}t{*\c&H3C3822&}r{*\c&H383520&}y {*\c&H312E1D&}P{*\c&H2D2A1B&}r{*\c&H292719&}e{*\c&H252417&}p {*\c&H1E1D14&}R{*\c&H1A1912&}o{*\c&H161610&}o{*\c&H13120F&}m{\c&H0F0F0D&}
 Dialogue: 0,0:00:00.00,0:00:03.02,Signs-Dstyle,,0,0,0,,{\clip(328,359,698,360)\pos(518.667,382)\blur0.8\fax0.2\fs45\fscx70\fscy110\fnFat Daddy Expanded\b1\frz352.2\frx2\fry2\c&H56502E&}C{*\c&H524D2C&}h{*\c&H4F492B&}e{*\c&H4B4629&}m{*\c&H474227&}i{*\c&H433F25&}s{*\c&H403B24&}t{*\c&H3C3822&}r{*\c&H383520&}y {*\c&H312E1D&}P{*\c&H2D2A1B&}r{*\c&H292719&}e{*\c&H252417&}p {*\c&H1E1D14&}R{*\c&H1A1912&}o{*\c&H161610&}o{*\c&H13120F&}m{\c&H0F0F0D&}
@@ -1000,8 +940,38 @@ Dialogue: 0,0:22:00.04,0:22:05.05,Signs-Dstyle,,0,0,0,,{\fs65\c&HFFFFFF&\pos(920
 Dialogue: 1,0:23:35.06,0:23:40.06,Signs-Dstyle,,0,0,0,,{\blur2\1a&HFE&\3a&HFE&\yshad2\xshad1\fnLucida Sans\fs47\fsp1\bord2.5\b1\3c&H7D24AA&\4c&H4E0319&\pos(958.096,565.523)\4a&H76&}See you next time!
 Dialogue: 2,0:23:35.06,0:23:40.06,Signs-Dstyle,,0,0,0,,{\blur0.5\yshad0\xshad0\fnLucida Sans\fs47\fsp1\bord2.5\b1\c&H9010C0&\3c&H7C0AA2&\4c&H541420&\pos(958.096,565.523)\4a&H76&}See you next time!
 Dialogue: 3,0:23:35.06,0:23:40.06,Signs-Dstyle,,0,0,0,,{\blur0.5\yshad0\xshad0\fnLucida Sans\fs47\fsp1\bord0\b1\3c&H7D24AA&\4c&H541420&\pos(958.096,565.523)\4a&H76&}See you next time!
+Comment: 0,0:06:40.92,0:06:43.34,Signs,,0,0,0,,Phone
 Dialogue: 0,0:06:40.92,0:06:43.34,Signs,,0,0,0,,{\an2\blur0.5\1a&H40&\fnClearface Gothic LT Std\fry2\fs100\fscx22\fscy18\fax0.06\pos(511.572,410)\frz0.8899}Connected
 Dialogue: 0,0:06:40.92,0:06:43.34,Signs,,0,0,0,,{\an2\blur0.5\1a&H40&\fnClearface Gothic LT Std\fry2\fs100\fscx12\fscy12\fax0.06\frz0.8899\pos(513.572,446)}Nami
+Comment: 0,0:06:40.92,0:06:43.34,Signs,,0,0,0,,Phone
+Comment: 0,0:00:44.06,0:00:44.10,Default,,0,0,0,,KFX
+Comment: 0,0:00:44.06,0:00:44.10,Default,Isuca OP,0,0,0,START FRAME,op start frame
+Comment: 0,0:01:02.04,0:01:07.25,Never - Romaji,,0,0,0,karaoke,{\ko55}{\ko32}{\fad(180,120)\blur2}i{\ko26}ma{\ko25} {\ko34}ka{\ko32}n{\ko33}ji{\ko32}te{\ko25}ru{\ko21} {\ko31}te {\ko24}wo{\ko25} {\ko36}no{\ko30}ba{\ko32}shi{\ko28}ta{\ko1}ra{\ko0}
+Comment: 0,0:01:07.25,0:01:12.47,Never - Romaji,shine_out,0,0,0,karaoke,{\ko53}{\ko31}{\fad(180,120)\blur2}so{\ko22}ra{\ko26} {\ko34}ta{\ko34}ka{\ko31}ku {\ko15}ki{\ko17}ra{\ko16}me{\ko67}ku {\ko61}ryuu{\ko66}se{\ko49}i{\ko0}
+Comment: 0,0:01:12.47,0:01:17.72,Never - Romaji,,0,0,0,karaoke,{\ko50}{\ko34}{\fad(180,120)\blur2}zut{\ko28}to{\ko18} {\ko34}o{\ko32}i{\ko32}ka{\ko34}ke{\ko31}te{\ko16} {\ko33}nan{\ko28}do{\ko20} {\ko33}ko{\ko33}ro{\ko32}n{\ko37}de{\ko1}mo{\ko0}
+Comment: 0,0:01:17.72,0:01:23.43,Never - Romaji,shine_out,0,0,0,karaoke,{\ko43}{\ko34}{\fad(180,120)\blur2}mo{\ko30}u{\ko17} {\ko34}to{\ko32}me{\ko31}ra{\ko15}re{\ko18}na{\ko17}i {\ko65}shou{\ko65}dou {\ko63}nan{\ko64}da{\ko43}
+Comment: 0,0:01:23.43,0:01:28.44,Never - Romaji,shine_out,0,0,0,karaoke,{\ko22}{\ko35}{\fad(180,120)\blur2}yo{\ko17}zo{\ko47}ra {\ko34}ni {\ko17}bo{\ko31}ku{\ko17}ta{\ko65}chi {\ko53}no {\ko13}su{\ko46}to{\ko17}o{\ko64}ri{\ko23}
+Comment: 0,0:01:28.44,0:01:34.99,Never - Romaji,,0,0,0,karaoke,{\ko41}{\ko31}{\fad(180,120)\blur2}sa{\ko17}i{\ko49}sho {\ko35}no {\ko17}i{\ko29}chi {\ko18}pe{\ko32}e{\ko34}ji {\ko32}me{\ko16}ku{\ko38}ri{\ko26} {\ko18}u{\ko16}go{\ko15}ki{\ko16}da{\ko144}su{\ko31}
+Comment: 0,0:01:34.99,0:01:40.16,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko6}{\ko16}{\fad(180,120)\blur2}me{\ko16}gu{\ko15}ri {\ko16}me{\ko16}gu{\ko16}ru {\ko33}mi{\ko32}ra{\ko32}i {\ko33}e {\ko33}to{\ko15} {\ko17}bo{\ko16}ku{\ko16}ra {\ko14}i{\ko16}ma {\ko34}ka{\ko34}ke{\ko32}da{\ko32}shi{\ko27}te{\ko0}
+Comment: 0,0:01:40.16,0:01:45.29,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko20}{\fad(180,120)\blur2}na{\ko13}n{\ko17}ju{\ko13}u {\ko15}o{\ko68}ku {\ko62}nen {\ko48}sa{\ko16}ki {\ko33}e{\ko17} {\ko18}to{\ko32}do{\ko16}ku {\ko32}yo{\ko33}u {\ko37}ni{\ko0}
+Comment: 0,0:01:45.29,0:01:48.04,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko27}{\ko17}{\fad(180,120)\blur2}ha{\ko16}ru{\ko17}ka {\ko17}ka{\ko15}na{\ko32}ta {\ko33}no {\ko32}so{\ko32}ra {\ko30}e{\ko7}
+Comment: 1,0:01:47.83,0:01:52.05,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko35}{\ko17}{\fad(180,120)\blur2}u{\ko15}tsu{\ko15}su {\ko16}yu{\ko17}me {\ko32}no {\ko33}ka{\ko32}ke{\ko33}ra {\ko31}wo {\ko32}tsu{\ko16}ka{\ko32}n{\ko47}de{\ko19}
+Comment: 0,0:01:52.05,0:01:56.84,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko17}{\ko33}{\fad(180,120)\blur2}se{\ko30}i{\ko35}ja{\ko32}ku {\ko32}no {\ko34}ya{\ko43}mi {\ko22}sa{\ko23}e{\ko24} {\ko17}i{\ko46}nu{\ko17}ku {\ko74}yo{\ko0}
+Comment: 0,0:01:56.84,0:01:59.60,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko34}{\fad(180,120)\blur2}tsu{\ko33}yo{\ko31}ku {\ko34}ne{\ko32}ga{\ko31}u{\ko17}n{\ko41}da{\ko0}
+Comment: 0,0:01:59.60,0:02:06.94,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko69}{\ko35}{\fad(180,120)\blur2}just {\ko22}ne{\ko25}ver {\ko35}say {\ko29}ne{\ko282}ver{\ko237}
+Comment: 0,0:01:02.04,0:01:07.25,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I throw out my hands
+Comment: 0,0:01:07.25,0:01:12.47,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}trying to catch a star falling from the sky
+Comment: 0,0:01:12.47,0:01:17.72,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I don't care how much I stumble chasing it,{I always chase after it, but I don't care if I trip and fall}
+Comment: 0,0:01:17.72,0:01:23.43,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}nothing can extinguish my passion
+Comment: 0,0:01:23.43,0:01:28.44,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}Our story is written on the night sky
+Comment: 0,0:01:28.44,0:01:34.99,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}Let's turn the first page and get going
+Comment: 0,0:01:34.99,0:01:40.16,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We leap toward our bright future
+Comment: 0,0:01:40.16,0:01:45.29,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}Together we can overcome any distance
+Comment: 0,0:01:45.29,0:01:48.04,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,200)\blur2}To faraway skies
+Comment: 1,0:01:47.83,0:01:52.05,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(200,120)\blur2}where we'll piece together our dreams
+Comment: 0,0:01:52.05,0:01:56.84,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We'll pierce through the silent darkness,
+Comment: 0,0:01:56.84,0:01:59.60,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}as we vow to
+Comment: 0,0:02:13.99,0:02:14.03,Default,,0,0,0,END FRAME,op end frame
 Dialogue: 0,0:01:02.04,0:01:07.25,Never - Romaji,,0,0,0,fx,{\an5\pos(406.8828125, 42)\fad(180,120)\blur2\3c&HFFA999&\t(86.00,96.50,\3c&HFFAE99&)\t(378.00,388.50,\3c&HFFAD99&)\t(503.00,513.50,\3c&HFFAC99&)\t(587.00,582.00,0.60,\3c&HE47F67&)\t(587.00,597.50,\3c&HE47E67&)\t(712.00,870.00,1.67,\3c&HFF8266&)\t(962.00,972.50,\3c&HFF8366&)\t(1171.00,1181.25,\3c&HFF8266&)\t(1254.00,1264.50,\3c&HFF8166&)\t(1296.00,1306.50,\3c&HFF8066&)\t(1338.00,1348.25,\3c&HFF7E66&)\t(1379.00,1389.50,\3c&HFF7D66&)\t(1421.00,1431.50,\3c&HFF7B66&)\t(1463.00,1473.25,\3c&HFF7966&)\t(1504.00,1514.50,\3c&HFF7866&)\t(1546.00,1556.50,\3c&HFF7566&)\t(1588.00,1598.50,\3c&HFF7466&)\t(1630.00,1640.25,\3c&HFF7866&)\t(1671.00,1681.50,\3c&HFF7A66&)\t(1713.00,1723.50,\3c&HFF7B66&)\t(1755.00,1765.25,\3c&HFF7C66&)\t(1838.00,1848.50,\3c&HFF7D66&)\t(3381.00,3391.50,\3c&HFF7C66&)\t(3465.00,3475.25,\3c&HFF7B66&)\t(3548.00,3558.50,\3c&HFF7966&)\t(3757.00,3767.25,\3c&HFF7866&)\t(4007.00,4017.50,\3c&HFF7766&)\t(4215.00,4225.50,\3c&HFF7666&)\t(4883.00,4893.25,\3c&HFF7566&)\t(4924.00,4934.50,\3c&HFF7666&)\t(5008.00,5018.50,\3c&HFF7566&)\t(5050.00,5060.25,\3c&HFF7666&)\t(490,554,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HC789AA&)\t(730,870,\bord2\1c&H040203&)}i
 Dialogue: 0,0:01:02.04,0:01:07.25,Never - Romaji,,0,0,0,fx,{\an5\pos(433.6640625, 42)\fad(180,120)\blur2\3c&HFFA999&\t(86.00,96.50,\3c&HFFAE99&)\t(378.00,388.50,\3c&HFFAD99&)\t(503.00,513.50,\3c&HFFAC99&)\t(712.00,722.50,\3c&HFFAB99&)\t(754.00,764.25,\3c&HFFAC99&)\t(795.00,805.50,\3c&HFFAB99&)\t(879.00,896.00,0.60,\3c&HE47E67&)\t(962.00,972.50,\3c&HE47F67&)\t(1004.00,1130.00,1.67,\3c&HFF8366&)\t(1171.00,1181.25,\3c&HFF8266&)\t(1254.00,1264.50,\3c&HFF8166&)\t(1296.00,1306.50,\3c&HFF8066&)\t(1338.00,1348.25,\3c&HFF7E66&)\t(1379.00,1389.50,\3c&HFF7D66&)\t(1421.00,1431.50,\3c&HFF7B66&)\t(1463.00,1473.25,\3c&HFF7966&)\t(1504.00,1514.50,\3c&HFF7866&)\t(1546.00,1556.50,\3c&HFF7566&)\t(1588.00,1598.50,\3c&HFF7466&)\t(1630.00,1640.25,\3c&HFF7866&)\t(1671.00,1681.50,\3c&HFF7A66&)\t(1713.00,1723.50,\3c&HFF7B66&)\t(1755.00,1765.25,\3c&HFF7C66&)\t(1838.00,1848.50,\3c&HFF7D66&)\t(3381.00,3391.50,\3c&HFF7C66&)\t(3465.00,3475.25,\3c&HFF7B66&)\t(3548.00,3558.50,\3c&HFF7966&)\t(3757.00,3767.25,\3c&HFF7866&)\t(4007.00,4017.50,\3c&HFF7766&)\t(4215.00,4225.50,\3c&HFF7666&)\t(4883.00,4893.25,\3c&HFF7566&)\t(4924.00,4934.50,\3c&HFF7666&)\t(5008.00,5018.50,\3c&HFF7566&)\t(5050.00,5060.25,\3c&HFF7666&)\t(810,862,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HC889A5&)\t(1005,1130,\bord2\1c&H15090F&)}ma
 Dialogue: 0,0:01:02.04,0:01:07.25,Never - Romaji,,0,0,0,fx,{\an5\pos(481.8671875, 42)\fad(180,120)\blur2\3c&HFFA999&\t(86.00,96.50,\3c&HFFAE99&)\t(378.00,388.50,\3c&HFFAD99&)\t(503.00,513.50,\3c&HFFAC99&)\t(712.00,722.50,\3c&HFFAB99&)\t(754.00,764.25,\3c&HFFAC99&)\t(795.00,805.50,\3c&HFFAB99&)\t(879.00,889.25,\3c&HFFAC99&)\t(1087.00,1097.50,\3c&HFFAD99&)\t(1129.00,1139.50,\3c&HFFAC99&)\t(1254.00,1264.50,\3c&HFFAB99&)\t(1296.00,1306.50,\3c&HFFAA99&)\t(1338.00,1348.25,\3c&HFFA999&)\t(1379.00,1389.50,\3c&HFFA899&)\t(1421.00,1414.00,0.60,\3c&HE47A67&)\t(1421.00,1431.50,\3c&HE47867&)\t(1463.00,1473.25,\3c&HE47767&)\t(1504.00,1514.50,\3c&HE47667&)\t(1546.00,1556.50,\3c&HE47467&)\t(1588.00,1720.00,1.67,\3c&HFF7A66&)\t(1755.00,1765.25,\3c&HFF7C66&)\t(1838.00,1848.50,\3c&HFF7D66&)\t(3381.00,3391.50,\3c&HFF7C66&)\t(3465.00,3475.25,\3c&HFF7B66&)\t(3548.00,3558.50,\3c&HFF7966&)\t(3757.00,3767.25,\3c&HFF7866&)\t(4007.00,4017.50,\3c&HFF7766&)\t(4215.00,4225.50,\3c&HFF7666&)\t(4883.00,4893.25,\3c&HFF7566&)\t(4924.00,4934.50,\3c&HFF7666&)\t(5008.00,5018.50,\3c&HFF7566&)\t(5050.00,5060.25,\3c&HFF7666&)\t(1320,1388,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HE8BDCB&)\t(1575,1720,\bord2\1c&H6E3046&)}ka
@@ -1970,6 +1940,34 @@ Dialogue: 0,0:01:56.85,0:01:57.03,Never - Translation - Chorus,,0,0,0,fx,{\an5\p
 Dialogue: 0,0:01:56.85,0:01:57.03,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(702.203125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFB3BC&\3c&HFFB3BC&}
 Dialogue: 0,0:01:56.84,0:01:57.02,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(713.328125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFC2B3&\3c&HFFC2B3&}t
 Dialogue: 0,0:01:56.84,0:01:57.02,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(730.03125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFE9B3&\3c&HFFE9B3&}o
+Comment: 0,0:22:05.05,0:22:05.09,Default,Isuca ED,0,0,0,START FRAME,ed start frame
+Comment: 0,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,karaoke,{\k50}{\k36}{\fad(0,0)}ya{\k32}ga{\k31}te {\k29}a{\k33}ku{\k35}mu {\k49}ni{\k61} {\k20}shi{\k31}ha{\k22}i{\k31}sa{\k30}re{\k61}ta{\k32} {\k19}ya{\k10}mi {\k19}sa{\k23}e {\k37}hi{\k37}ka{\k33}ri {\k33}ga {\k10}sa{\k150}su{\k72}
+Comment: 0,0:22:30.99,0:22:36.20,Somebody - Romaji - Right,,0,0,0,karaoke,{\k21}{\k35}{\fad(0,120)}shi{\k33}ra{\k14}zu {\k14}shi{\k22}ra{\k28}zu {\k107}ni{\k32} {\k37}hi{\k36}ki{\k13}yo{\k33}se{\k96}au{\k0}
+Comment: 0,0:22:36.20,0:22:40.92,Somebody - Romaji - Right,,0,0,0,karaoke,{\k12}{\k21}{\fad(180,0)}ke{\k17}ga{\k15}re {\k19}wo {\k27}shi{\k17}ra{\k27}nu {\k29}ta{\k34}ma{\k124}shii{\k130}
+Comment: 0,0:22:40.92,0:22:42.21,Somebody - Romaji,,0,0,0,karaoke,{\k10}{\k18}{\fad(0,400)}na{\k17}ni {\k37}wo{\k47\-hide}{\frx90} shinjireba ii
+Comment: 1,0:22:42.34,0:22:45.41,Somebody - Romaji,,0,0,0,karaoke,{\k31\-hide}{\fad(400,120)\frx90}nani wo {\k37\-none}{\frx0}shi{\k35}n{\k18}ji{\k49}re{\k31}ba {\k31}i{\k59}i{\k16}
+Comment: 0,0:22:45.92,0:22:47.55,Somebody - Romaji,,0,0,0,karaoke,{\k21}{\k19}{\fad(120,400)}do{\k20}ko {\k38}e{\frx90} {\k65\-hide}nagasarete ikeba ii
+Comment: 0,0:22:47.67,0:22:51.05,Somebody - Romaji,,0,0,0,karaoke,{\k18\-hide}{\fad(400,0)\frx90}doko e {\k39\-none}{\frx0}na{\k22}ga{\k24}sa{\k45}re{\k31}te {\k35}i{\k33}ke{\k32}ba {\k27}i{\k32}i
+Comment: 0,0:22:51.18,0:22:56.06,Somebody - Romaji - Black,,0,0,0,karaoke,{\k0}{\k7}{\fad(400,120)}i{\k48}tsu{\k32}ka {\k34}ko{\k17}no {\k34}te {\k46}ni{\k30} {\k17}ya{\k46}su{\k35}ra{\k33}gi {\k14}no {\k32}ji{\k63}kan{\k0}
+Comment: 0,0:22:56.06,0:23:00.48,Somebody - Romaji - Black,,0,0,0,karaoke,{\k19}{\k15}{\fad(180,120)}ku{\k14}tsu{\k30}jo{\k32}ku {\k33}ni {\k33}sae {\k32}mi{\k31}ryou{\k34}sa{\k30}re{\k49}ta {\k30}mi{\k19}ra{\k41}i{\k0}
+Comment: 0,0:23:00.48,0:23:06.11,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k21}{\k24}{\fad(0,0)}se{\k31}tsu{\k17}na {\k16}ga {\k15}u{\k33}goki{\k53}da{\k48}su{\k26} {\k15}ka{\k15}na{\k17}shi{\k16}mi {\k13}wa {\k16}ka{\k24}soku {\k71}su{\k92}ru{\k0}
+Comment: 0,0:23:06.11,0:23:10.86,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k58}{\k14}{\fad(0,120)}to{\k27}za{\k34}sa{\k35}re{\k28}ta {\k38}ko{\k17}ko{\k15}ro {\k27}wo{\k19} {\k17}tsu{\k16}ra{\k16}nu{\k14}ku {\k51}you {\k40}ni{\k9}
+Comment: 0,0:23:10.86,0:23:17.10,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k19}{\k16}{\fad(180,120)}e{\k15}i{\k16}e{\k15}n {\k13}ga {\k22}u{\k28}ma{\k59}re{\k43}ru{\k23} {\k19}shu{\k18}ku{\k31}mei {\k14}ni {\k15}a{\k30}ya{\k32}tsu{\k34}ra{\k155}re{\k7}
+Comment: 0,0:23:17.10,0:23:22.13,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k31}{\k18}{\fad(180,0)}na{\k17}mi{\k32}da {\k13}wo {\k13}ka{\k25}sa{\k29}ne{\k48}te{\k24} {\k35}some{\k21}bo{\k30}dy {\k18}to {\k137}love{\k12}
+Comment: 0,0:22:20.73,0:22:30.99,Somebody - Translation,,0,0,0,karaoke,{\fad(0,0)}Someday there will be a light in this nightmarish place
+Comment: 0,0:22:30.99,0:22:36.20,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(0,120)}that will bait and lure me in
+Comment: 0,0:22:36.20,0:22:40.92,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(180,0)}like an innocent soul that knows no sin
+Comment: 0,0:22:40.92,0:22:42.21,Somebody - Translation,,0,0,0,karaoke,{\fad(0,400)}I don't know{\frx90} what I should believe in
+Comment: 1,0:22:42.34,0:22:45.41,Somebody - Translation,,0,0,0,karaoke,{\fad(400,120)\frx90}I don't know {\frx0}what I should believe in
+Comment: 0,0:22:45.92,0:22:47.55,Somebody - Translation,,0,0,0,karaoke,{\fad(120,400)}I don't know{\frx90} where I should end up
+Comment: 0,0:22:47.67,0:22:51.05,Somebody - Translation,,0,0,0,karaoke,{\fad(400,0)\frx90}I don't know {\frx0}where I should end up
+Comment: 0,0:22:51.18,0:22:56.06,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(400,120)}My path is bound to be disgraceful
+Comment: 0,0:22:56.06,0:23:00.48,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(180,120)}But one day, I know I'll find peace
+Comment: 0,0:23:00.48,0:23:06.11,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,0)}The painful passing of time grows into sorrow
+Comment: 0,0:23:06.11,0:23:10.86,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,120)}and forces its way into my desolate heart
+Comment: 0,0:23:10.86,0:23:17.10,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)}When not even eternity can break free from the chains of fate,
+Comment: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,0)}my tears call out for somebody to love
+Comment: 0,0:23:35.01,0:23:35.06,Default,,0,0,0,END FRAME,ed end frame
 Dialogue: 0,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,fx,{\an2\pos(301.1640625, 69)\fad(0,0)\1a&HFE&\3a&HFE&\blur4\t(500,788,0.5,\fscx105\fscy112)\t(788,860,\fscx100\fscy100)}ya
 Dialogue: 1,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,fx,{\an2\pos(301.1640625, 69)\fad(0,0)\shad0\1c&H5C5C7F&\t(500,860,0.5,\1c&H3532DA&)\t(500,788,0.5,\fscx105\fscy112)\t(788,860,\fscx100\fscy100)}ya
 Dialogue: 0,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,fx,{\an2\pos(332.953125, 69)\fad(0,0)\1a&HFE&\3a&HFE&\blur4\t(860,1116,0.5,\fscx105\fscy112)\t(1116,1180,\fscx100\fscy100)}ga
@@ -2470,3 +2468,4 @@ Dialogue: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,fx,{\fa
 Dialogue: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(856.109375, 674.5)\3c&H482910&\t(-17.00,-6.50,\3c&H492A11&)\t(67.00,77.25,\3c&H4A2B12&)\t(108.00,118.50,\3c&H4A2C13&)\t(150.00,160.50,\3c&H4B2C14&)\t(192.00,202.50,\3c&H4C2C13&)\t(234.00,244.25,\3c&H4D2D13&)\t(275.00,285.50,\3c&H4E2E14&)\t(317.00,327.50,\3c&H4F2F14&)\t(359.00,369.25,\3c&H4F2F15&)\t(400.00,410.50,\3c&H4F3015&)\t(442.00,452.50,\3c&H503016&)\t(526.00,536.25,\3c&H513016&)\t(567.00,577.50,\3c&H503016&)\t(609.00,619.50,\3c&H503117&)\t(651.00,661.25,\3c&H503016&)\t(692.00,702.50,\3c&H513116&)\t(734.00,744.50,\3c&H503116&)\t(776.00,786.50,\3c&H503015&)\t(859.00,869.50,\3c&H503014&)\t(901.00,911.50,\3c&H502F13&)\t(943.00,953.25,\3c&H502F11&)\t(984.00,994.50,\3c&H502E0F&)\t(1026.00,1036.50,\3c&H4F2D0E&)\t(1068.00,1078.25,\3c&H4E2C0C&)\t(1109.00,1119.50,\3c&H4D2A0B&)\t(1151.00,1161.50,\3c&H4C2A0A&)\t(1193.00,1203.50,\3c&H4B2809&)\t(1235.00,1245.25,\3c&H492609&)\t(1276.00,1286.50,\3c&H482508&)\t(1318.00,1328.50,\3c&H472407&)\t(1360.00,1370.25,\3c&H452207&)\t(1401.00,1411.50,\3c&H432107&)\t(1443.00,1453.50,\3c&H421F07&)\t(1485.00,1495.50,\3c&H411E07&)\t(1527.00,1537.25,\3c&H401D07&)\t(1568.00,1578.50,\3c&H3F1C08&)\t(1610.00,1620.50,\3c&H3F1A08&)\t(1652.00,1662.25,\3c&H3E1909&)\t(1693.00,1703.50,\3c&H3D190A&)\t(1735.00,1745.50,\3c&H3C190B&)\t(1777.00,1787.50,\3c&H3C180B&)\t(1819.00,1829.25,\3c&H3C190B&)\t(2110.00,2120.50,\3c&H3C180B&)\t(2152.00,2162.50,\3c&H3B180B&)\t(2194.00,2204.50,\3c&H3B170C&)\t(2236.00,2246.25,\3c&H3A160C&)\t(2277.00,2287.50,\3c&H3A150C&)\t(2319.00,2329.50,\3c&H39150C&)\t(2361.00,2371.25,\3c&H66573A&)\t(2653.00,2663.25,\3c&H4D4328&)\t(2861.00,2871.50,\3c&H4C4328&)\t(2903.00,2913.50,\3c&H4D4328&)\t(3070.00,3080.25,\3c&H665B5C&)\t(3111.00,3121.50,\3c&H665B5D&)\t(3153.00,3163.50,\3c&H665B5C&)\t(3320.00,3330.50,\3c&H665B5B&)\t(3362.00,3372.25,\3c&H4D4328&)\t(3987.00,3997.50,\3c&H001B28&)\t(4488.00,4498.50,\3c&H665A5D&)\t(4655.00,4665.25,\3c&H354D57&)\t(4696.00,4706.50,\3c&H354C57&)\blur3}o
 Dialogue: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(872.34375, 674.5)\3c&H4D2B09&\t(-17.00,-6.50,\3c&H4D2C09&)\t(25.00,35.50,\3c&H4D2C0A&)\t(67.00,77.25,\3c&H4D2C0B&)\t(108.00,118.50,\3c&H4E2D0C&)\t(150.00,160.50,\3c&H4E2D0D&)\t(192.00,202.50,\3c&H4F2D0D&)\t(234.00,244.25,\3c&H502D0D&)\t(275.00,285.50,\3c&H502E0E&)\t(317.00,327.50,\3c&H502F0F&)\t(359.00,369.25,\3c&H512F0F&)\t(400.00,410.50,\3c&H512F10&)\t(442.00,452.50,\3c&H512F11&)\t(484.00,494.50,\3c&H512F12&)\t(526.00,536.25,\3c&H522F12&)\t(567.00,577.50,\3c&H513012&)\t(609.00,619.50,\3c&H513112&)\t(651.00,661.25,\3c&H523012&)\t(734.00,744.50,\3c&H523112&)\t(776.00,786.50,\3c&H523111&)\t(859.00,869.50,\3c&H523110&)\t(901.00,911.50,\3c&H52310F&)\t(943.00,953.25,\3c&H52310D&)\t(984.00,994.50,\3c&H52300C&)\t(1026.00,1036.50,\3c&H52300B&)\t(1068.00,1078.25,\3c&H522F0A&)\t(1109.00,1119.50,\3c&H522F09&)\t(1151.00,1161.50,\3c&H512E09&)\t(1193.00,1203.50,\3c&H502E08&)\t(1235.00,1245.25,\3c&H502D07&)\t(1276.00,1286.50,\3c&H4F2C07&)\t(1360.00,1370.25,\3c&H4E2B07&)\t(1401.00,1411.50,\3c&H4D2A07&)\t(1443.00,1453.50,\3c&H4C2907&)\t(1485.00,1495.50,\3c&H4B2908&)\t(1568.00,1578.50,\3c&H4A2809&)\t(1610.00,1620.50,\3c&H4A2709&)\t(1652.00,1662.25,\3c&H4A2609&)\t(1693.00,1703.50,\3c&H49260A&)\t(1735.00,1745.50,\3c&H48260A&)\t(1777.00,1787.50,\3c&H48250A&)\t(1819.00,1829.25,\3c&H482609&)\t(1985.00,1995.50,\3c&H482608&)\t(2027.00,2037.50,\3c&H492508&)\t(2110.00,2120.50,\3c&H492507&)\t(2152.00,2162.50,\3c&H492407&)\t(2194.00,2204.50,\3c&H482307&)\t(2236.00,2246.25,\3c&H482207&)\t(2277.00,2287.50,\3c&H472208&)\t(2319.00,2329.50,\3c&H472108&)\t(2361.00,2371.25,\3c&H66573A&)\t(2402.00,2412.50,\3c&H66563A&)\t(2653.00,2663.25,\3c&H544723&)\t(2694.00,2704.50,\3c&H544623&)\t(3070.00,3080.25,\3c&H665A5A&)\t(3111.00,3121.50,\3c&H665A5B&)\t(3153.00,3163.50,\3c&H665A5A&)\t(3278.00,3288.50,\3c&H665A5B&)\t(3320.00,3330.50,\3c&H665A5A&)\t(3362.00,3372.25,\3c&H544723&)\t(3904.00,3914.50,\3c&H544623&)\t(3946.00,3956.25,\3c&H544723&)\t(3987.00,3997.50,\3c&H001A27&)\t(4488.00,4498.50,\3c&H66595B&)\t(4655.00,4665.25,\3c&H424851&)\t(4696.00,4706.50,\3c&H424751&)\blur3}v
 Dialogue: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(888.0234375, 674.5)\3c&H502D06&\t(-17.00,-6.50,\3c&H512E07&)\t(25.00,35.50,\3c&H512E08&)\t(67.00,77.25,\3c&H512E0A&)\t(108.00,118.50,\3c&H502E0B&)\t(150.00,160.50,\3c&H512F0C&)\t(192.00,202.50,\3c&H522F0D&)\t(234.00,244.25,\3c&H522F0E&)\t(275.00,285.50,\3c&H52300E&)\t(317.00,327.50,\3c&H522F10&)\t(359.00,369.25,\3c&H523010&)\t(400.00,410.50,\3c&H523011&)\t(442.00,452.50,\3c&H533012&)\t(484.00,494.50,\3c&H523013&)\t(526.00,536.25,\3c&H532F13&)\t(567.00,577.50,\3c&H533013&)\t(609.00,619.50,\3c&H533213&)\t(651.00,661.25,\3c&H533013&)\t(692.00,702.50,\3c&H543013&)\t(776.00,786.50,\3c&H543212&)\t(818.00,828.25,\3c&H533113&)\t(859.00,869.50,\3c&H543211&)\t(901.00,911.50,\3c&H533111&)\t(943.00,953.25,\3c&H53300F&)\t(984.00,994.50,\3c&H53300E&)\t(1026.00,1036.50,\3c&H53300D&)\t(1109.00,1119.50,\3c&H532F0C&)\t(1151.00,1161.50,\3c&H53300B&)\t(1193.00,1203.50,\3c&H52300B&)\t(1318.00,1328.50,\3c&H52300A&)\t(1360.00,1370.25,\3c&H52300B&)\t(1443.00,1453.50,\3c&H52300C&)\t(1485.00,1495.50,\3c&H51300D&)\t(1527.00,1537.25,\3c&H51300E&)\t(1610.00,1620.50,\3c&H512F0F&)\t(1693.00,1703.50,\3c&H512F10&)\t(1735.00,1745.50,\3c&H502F10&)\t(1777.00,1787.50,\3c&H502F0F&)\t(1819.00,1829.25,\3c&H512F0E&)\t(1944.00,1954.25,\3c&H512F0D&)\t(2027.00,2037.50,\3c&H512E0D&)\t(2069.00,2079.25,\3c&H512E0C&)\t(2110.00,2120.50,\3c&H522E0C&)\t(2152.00,2162.50,\3c&H522E0B&)\t(2194.00,2204.50,\3c&H512E0C&)\t(2236.00,2246.25,\3c&H522D0C&)\t(2277.00,2287.50,\3c&H512D0C&)\t(2319.00,2329.50,\3c&H512D0D&)\t(2361.00,2371.25,\3c&H66563A&)\t(2653.00,2663.25,\3c&H604D22&)\t(2736.00,2746.50,\3c&H604C22&)\t(2861.00,2871.50,\3c&H5F4C23&)\t(2903.00,2913.50,\3c&H604C23&)\t(2945.00,2955.25,\3c&H604C22&)\t(3070.00,3080.25,\3c&H665A59&)\t(3278.00,3288.50,\3c&H665959&)\t(3320.00,3330.50,\3c&H665A59&)\t(3362.00,3372.25,\3c&H5F4D22&)\t(3403.00,3413.50,\3c&H604E22&)\t(3487.00,3497.50,\3c&H604D22&)\t(3987.00,3997.50,\3c&H001925&)\t(4488.00,4498.50,\3c&H665858&)\t(4655.00,4665.25,\3c&H544A54&)\t(4696.00,4706.50,\3c&H554953&)\blur3}e
+Comment: 0,0:22:05.05,0:22:07.05,Default,,0,0,0,,

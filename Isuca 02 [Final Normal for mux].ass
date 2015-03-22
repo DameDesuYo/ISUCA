@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Isuca
-Audio File: Final Encode - Isuca 02v2 720p [C824E01B].mkv
-Video File: Final Encode - Isuca 02v2 720p [C824E01B].mkv
+Audio File: Workraw - Isuca 02 [4B040EF1].mkv
+Video File: Workraw - Isuca 02 [4B040EF1].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 819
-Active Line: 840
-Video Position: 31026
+Scroll Position: 377
+Active Line: 395
+Video Position: 29891
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,76 +60,8 @@ Comment: 0,0:01:17.01,0:01:17.05,TrueName,chapter,0,0,0,,{OP}
 Comment: 0,0:02:47.06,0:02:47.10,TrueName,chapter,0,0,0,,{Part A}
 Comment: 0,0:11:36.05,0:11:36.09,TrueName,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:05.01,0:22:05.05,TrueName,chapter,0,0,0,,{ED}
-Comment: 21,0:06:36.93,0:06:37.46,TrueName,,0,0,25,,{\an8}
-Comment: 21,0:08:22.66,0:08:23.31,TrueName,Shinichirou,0,0,0,,Oh...
-Comment: 22,0:06:36.93,0:06:37.46,TrueNamePink,,0,0,25,,{\an8}
-Comment: 22,0:08:22.66,0:08:23.31,TrueNamePink,Shinichirou,0,0,0,,Oh...
-Comment: 0,0:21:58.36,0:22:00.36,Default,,0,0,0,,SUBS|SIGNS gate
-Comment: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H403B20&\pos(555.114,366.572)}Chemistry Lab
-Comment: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H1D1B18&\pos(555.114,366.572)\clip(344.8,332.8,763.2,464)}Chemistry Lab
-Comment: 0,0:11:36.05,0:11:37.30,Signs-Dstyle,,0,0,0,,{\blur0.9\fay0.2\fax-0.05\fs35\fnFat Daddy Expanded\c&HB3B1AD&\pos(525.4,216.858)}Girl's Locker Room
-Comment: 0,0:11:36.05,0:11:37.30,Signs-Dstyle,,0,0,0,,{\blur0.9\fay0.2\fax-0.05\fs35\fnFat Daddy Expanded\c&H75726F&\pos(525.4,216.858)\clip(349.714,192,697.143,305.143)}Girl's Locker Room
-Comment: 0,0:21:58.36,0:22:00.36,Default,,0,0,0,,SIGNS|KFX gate
-Comment: 0,0:01:17.01,0:01:17.05,Default,Isuca OP,0,0,0,START FRAME,op start frame
-Comment: 0,0:01:34.99,0:01:40.20,Never - Romaji,,0,0,0,karaoke,{\ko55}{\ko32}{\fad(180,120)\blur2}i{\ko26}ma{\ko25} {\ko34}ka{\ko32}n{\ko33}ji{\ko32}te{\ko25}ru{\ko21} {\ko31}te {\ko24}wo{\ko25} {\ko36}no{\ko30}ba{\ko32}shi{\ko28}ta{\ko1}ra{\ko0}
-Comment: 0,0:01:40.20,0:01:45.42,Never - Romaji,shine_out,0,0,0,karaoke,{\ko53}{\ko31}{\fad(180,120)\blur2}so{\ko22}ra{\ko26} {\ko34}ta{\ko34}ka{\ko31}ku {\ko15}ki{\ko17}ra{\ko16}me{\ko67}ku {\ko61}ryuu{\ko66}se{\ko49}i{\ko0}
-Comment: 0,0:01:45.42,0:01:50.67,Never - Romaji,,0,0,0,karaoke,{\ko50}{\ko34}{\fad(180,120)\blur2}zut{\ko28}to{\ko18} {\ko34}o{\ko32}i{\ko32}ka{\ko34}ke{\ko31}te{\ko16} {\ko33}nan{\ko28}do{\ko20} {\ko33}ko{\ko33}ro{\ko32}n{\ko37}de{\ko1}mo{\ko0}
-Comment: 0,0:01:50.67,0:01:56.38,Never - Romaji,shine_out,0,0,0,karaoke,{\ko43}{\ko34}{\fad(180,120)\blur2}mo{\ko30}u{\ko17} {\ko34}to{\ko32}me{\ko31}ra{\ko15}re{\ko18}na{\ko17}i {\ko65}shou{\ko65}dou {\ko63}nan{\ko64}da{\ko43}
-Comment: 0,0:01:56.38,0:02:01.39,Never - Romaji,shine_out,0,0,0,karaoke,{\ko22}{\ko35}{\fad(180,120)\blur2}yo{\ko17}zo{\ko47}ra {\ko34}ni {\ko17}bo{\ko31}ku{\ko17}ta{\ko65}chi {\ko53}no {\ko13}su{\ko46}to{\ko17}o{\ko64}ri{\ko23}
-Comment: 0,0:02:01.39,0:02:07.94,Never - Romaji,,0,0,0,karaoke,{\ko41}{\ko31}{\fad(180,120)\blur2}sa{\ko17}i{\ko49}sho {\ko35}no {\ko17}i{\ko29}chi {\ko18}pe{\ko32}e{\ko34}ji {\ko32}me{\ko16}ku{\ko38}ri{\ko26} {\ko18}yu{\ko16}u{\ko15}ki {\ko16}da{\ko144}su{\ko31}
-Comment: 0,0:02:07.94,0:02:13.11,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko6}{\ko16}{\fad(180,120)\blur2}me{\ko16}gu{\ko15}ri {\ko16}me{\ko16}gu{\ko16}ru {\ko33}mi{\ko32}ra{\ko32}i {\ko33}e {\ko33}to{\ko15} {\ko17}bo{\ko16}ku{\ko16}ra {\ko14}i{\ko16}ma {\ko34}ka{\ko34}ke{\ko32}da{\ko32}shi{\ko27}te{\ko0}
-Comment: 0,0:02:13.11,0:02:18.24,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko20}{\fad(180,120)\blur2}na{\ko13}n{\ko17}ju{\ko13}u {\ko15}o{\ko68}ku {\ko62}nen {\ko48}sa{\ko16}ki {\ko33}e{\ko17} {\ko18}to{\ko32}do{\ko16}ku {\ko32}yo{\ko33}u {\ko37}ni{\ko0}
-Comment: 0,0:02:18.24,0:02:20.99,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko27}{\ko17}{\fad(180,120)\blur2}ha{\ko16}ru{\ko17}ka {\ko17}ka{\ko15}na{\ko32}ta {\ko33}no {\ko32}so{\ko32}ra {\ko30}e{\ko7}
-Comment: 1,0:02:20.78,0:02:25.00,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko35}{\ko17}{\fad(180,120)\blur2}u{\ko15}tsu{\ko15}tsu {\ko16}yu{\ko17}me {\ko32}no {\ko33}ka{\ko32}ke{\ko33}ra {\ko31}wo {\ko32}tsu{\ko16}ka{\ko32}n{\ko47}de{\ko19}
-Comment: 0,0:02:25.00,0:02:29.79,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko17}{\ko33}{\fad(180,120)\blur2}se{\ko30}i{\ko35}ja{\ko32}ku {\ko32}no {\ko34}ya{\ko43}mi {\ko22}sa{\ko23}e{\ko24} {\ko17}i{\ko46}nu{\ko17}ku {\ko74}yo{\ko0}
-Comment: 0,0:02:29.79,0:02:32.55,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko34}{\fad(180,120)\blur2}tsu{\ko33}yo{\ko31}ku {\ko34}ne{\ko32}ga{\ko31}u{\ko17}n{\ko41}da{\ko0}
-Comment: 0,0:02:32.55,0:02:39.89,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko69}{\ko35}{\fad(180,120)\blur2}just {\ko22}ne{\ko25}ver {\ko35}say {\ko29}ne{\ko282}ver{\ko237}
-Comment: 0,0:01:34.99,0:01:40.20,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I throw out my hands
-Comment: 0,0:01:40.20,0:01:45.42,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}trying to catch a star falling from the sky
-Comment: 0,0:01:45.42,0:01:50.67,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I don't care how much I stumble chasing it,{I always chase after it, but I don't care if I trip and fall}
-Comment: 0,0:01:50.67,0:01:56.38,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}nothing can extinguish my passion
-Comment: 0,0:01:56.38,0:02:01.39,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}Our story is written on the night sky
-Comment: 0,0:02:01.39,0:02:07.94,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}Let's gather our courage and turn the first page
-Comment: 0,0:02:07.94,0:02:13.11,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We leap toward our bright future
-Comment: 0,0:02:13.11,0:02:18.24,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}Together we can overcome any distance
-Comment: 0,0:02:18.24,0:02:20.99,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,200)\blur2}To faraway skies
-Comment: 1,0:02:20.78,0:02:25.00,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(200,120)\blur2}where we'll piece together our dreams
-Comment: 0,0:02:25.00,0:02:29.79,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We'll pierce through the silent darkness,
-Comment: 0,0:02:29.79,0:02:32.55,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}as we vow to
-Comment: 0,0:02:46.94,0:02:46.98,Default,,0,0,0,END FRAME,op end frame
-Comment: 0,0:22:05.51,0:22:05.55,Default,,0,0,0,,fingerplay
-Comment: 0,0:22:05.01,0:22:05.05,Default,Isuca ED,0,0,0,START FRAME,ed start frame
-Comment: 0,0:22:20.69,0:22:30.95,Somebody - Romaji,,0,0,0,karaoke,{\k50}{\k36}{\fad(0,0)}ya{\k32}ga{\k31}te {\k29}a{\k33}ku{\k35}mu {\k49}ni{\k61} {\k20}shi{\k31}ha{\k22}i{\k31}sa{\k30}re{\k61}ta{\k32} {\k19}ya{\k10}mi {\k19}sa{\k23}e {\k37}hi{\k37}ka{\k33}ri {\k33}ga {\k10}sa{\k150}su{\k72}
-Comment: 0,0:22:30.95,0:22:36.16,Somebody - Romaji - Right,,0,0,0,karaoke,{\k21}{\k35}{\fad(0,120)}shi{\k33}ra{\k14}zu {\k14}shi{\k22}ra{\k28}zu {\k107}ni{\k32} {\k37}hi{\k36}ki{\k13}yo{\k33}se{\k96}au{\k0}
-Comment: 0,0:22:36.16,0:22:40.88,Somebody - Romaji - Right,,0,0,0,karaoke,{\k12}{\k21}{\fad(180,0)}ke{\k17}ga{\k15}re {\k19}wo {\k27}shi{\k17}ra{\k27}nu {\k29}ta{\k34}ma{\k124}shii{\k130}
-Comment: 0,0:22:40.88,0:22:42.17,Somebody - Romaji,,0,0,0,karaoke,{\k10}{\k18}{\fad(0,400)}na{\k17}ni {\k37}wo{\k47\-hide}{\frx90} shinjireba ii
-Comment: 1,0:22:42.30,0:22:45.37,Somebody - Romaji,,0,0,0,karaoke,{\k31\-hide}{\fad(400,120)\frx90}nani wo {\k37\-none}{\frx0}shi{\k35}n{\k18}ji{\k49}re{\k31}ba {\k31}i{\k59}i{\k16}
-Comment: 0,0:22:45.88,0:22:47.51,Somebody - Romaji,,0,0,0,karaoke,{\k21}{\k19}{\fad(120,400)}do{\k20}ko {\k38}e{\frx90} {\k65\-hide}nagasarete yukeba ii
-Comment: 0,0:22:47.63,0:22:51.01,Somebody - Romaji,,0,0,0,karaoke,{\k18\-hide}{\fad(400,0)\frx90}doko e {\k39\-none}{\frx0}na{\k22}ga{\k24}sa{\k45}re{\k31}te {\k35}yu{\k33}ke{\k32}ba {\k27}i{\k32}i
-Comment: 0,0:22:51.14,0:22:56.02,Somebody - Romaji - Black,,0,0,0,karaoke,{\k0}{\k7}{\fad(400,120)}i{\k48}tsu{\k32}ka {\k34}ko{\k17}no {\k34}te {\k46}ni{\k30} {\k17}ya{\k46}su{\k35}ra{\k33}gi {\k14}no {\k32}ji{\k63}kan{\k0}
-Comment: 0,0:22:56.02,0:23:00.44,Somebody - Romaji - Black,,0,0,0,karaoke,{\k19}{\k15}{\fad(180,120)}ku{\k14}tsu{\k30}jo{\k32}ku {\k33}ni {\k33}sa{\k32}ki{\k31}ko{\k34}sa{\k30}re{\k49}ta {\k30}mi{\k19}ra{\k41}i{\k0}
-Comment: 0,0:23:00.44,0:23:06.07,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k21}{\k24}{\fad(0,0)}se{\k31}tsu{\k17}na {\k16}ga {\k15}u{\k33}goki{\k53}da{\k48}su{\k26} {\k15}ka{\k15}na{\k17}shi{\k16}mi {\k13}wa {\k16}ka{\k24}soku {\k71}su{\k92}ru{\k0}
-Comment: 0,0:23:06.07,0:23:10.82,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k58}{\k14}{\fad(0,120)}to{\k27}za{\k34}sa{\k35}re{\k28}ta {\k38}ko{\k17}ko{\k15}ro {\k27}wo{\k19} {\k17}tsu{\k16}ra{\k16}nu{\k14}ku {\k51}you {\k40}ni{\k9}
-Comment: 0,0:23:10.82,0:23:17.06,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k19}{\k16}{\fad(180,120)}e{\k15}i{\k16}e{\k15}n {\k13}ga {\k22}u{\k28}ma{\k59}re{\k43}ru{\k23} {\k19}shu{\k18}ku{\k31}mei {\k14}ni {\k15}a{\k30}ya{\k32}tsu{\k34}ra{\k155}re{\k7}
-Comment: 0,0:23:17.06,0:23:22.09,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k31}{\k18}{\fad(180,0)}na{\k17}mi{\k32}da {\k13}wo {\k13}ka{\k25}sa{\k29}ne{\k48}te{\k24} {\k35}some{\k21}bo{\k30}dy {\k18}to {\k137}love{\k12}
-Comment: 0,0:22:20.69,0:22:30.95,Somebody - Translation,,0,0,0,karaoke,{\fad(0,0)}Someday there will be a light in this nightmarish place
-Comment: 0,0:22:30.95,0:22:36.16,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(0,120)}that will bait and lure me in
-Comment: 0,0:22:36.16,0:22:40.88,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(180,0)}like an innocent soul that knows no sin
-Comment: 0,0:22:40.88,0:22:42.17,Somebody - Translation,,0,0,0,karaoke,{\fad(0,400)}I don't know{\frx90} what I should believe in
-Comment: 1,0:22:42.30,0:22:45.37,Somebody - Translation,,0,0,0,karaoke,{\fad(400,120)\frx90}I don't know {\frx0}what I should believe in
-Comment: 0,0:22:45.88,0:22:47.51,Somebody - Translation,,0,0,0,karaoke,{\fad(120,400)}I don't know{\frx90} where I should end up
-Comment: 0,0:22:47.63,0:22:51.01,Somebody - Translation,,0,0,0,karaoke,{\fad(400,0)\frx90}I don't know {\frx0}where I should end up
-Comment: 0,0:22:51.14,0:22:56.02,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(400,120)}My path is bound to be disgraceful
-Comment: 0,0:22:56.02,0:23:00.44,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(180,120)}But one day, I know I'll find peace
-Comment: 0,0:23:00.44,0:23:06.07,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,0)}The painful passing of time grows into sorrow
-Comment: 0,0:23:06.07,0:23:10.82,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,120)}and forces its way into my desolate heart
-Comment: 0,0:23:10.82,0:23:17.06,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)}When not even eternity can break free from the chains of fate,
-Comment: 0,0:23:17.06,0:23:22.09,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,0)}my tears call out for somebody to love
-Comment: 0,0:23:34.97,0:23:35.02,Default,,0,0,0,END FRAME,ed end frame
-Comment: 0,0:22:00.36,0:22:02.36,Default,,0,0,0,,{EOF}
-
 Dialogue: 21,0:00:03.25,0:00:04.85,TrueName,Shinichirou,0,0,0,,H-Hey! What are you doing!?
-Dialogue: 21,0:00:05.33,0:00:07.73,TrueName,Sakuya,0,0,0,,I'm going to seal away that twin-tailed cat.
+Dialogue: 21,0:00:05.33,0:00:07.73,TrueName,Sakuya,0,0,0,,I'm going to seal away that nekomata.
 Dialogue: 21,0:00:07.73,0:00:09.26,TrueName,Shinichirou,0,0,0,,Why?
 Dialogue: 21,0:00:09.26,0:00:11.17,TrueName,Shinichirou,0,0,0,,She hasn't done anything wrong!
 Dialogue: 21,0:00:11.17,0:00:12.90,TrueName,Sakuya,0,0,0,,Specters are the enemy of mankind.
@@ -208,7 +140,7 @@ Dialogue: 21,0:04:55.87,0:04:58.09,TrueName,Sakuya,0,0,0,,Your master is {\i1}me
 Dialogue: 21,0:04:58.09,0:04:59.77,TrueName,Sakuya,0,0,0,,{\ko58}Yours {\ko44}tru{\ko66}ly!
 Dialogue: 21,0:05:01.67,0:05:02.86,TrueName,Sakuya,0,0,0,,Now I'm pissed.
 Dialogue: 21,0:05:02.86,0:05:04.11,TrueName,Nadeshiko,0,0,0,,Okay, enough of that.
-Dialogue: 21,0:05:04.11,0:05:05.37,TrueName,Shinichirou,0,0,0,,Teacher.
+Dialogue: 21,0:05:04.11,0:05:05.37,TrueName,Shinichirou,0,0,0,,Sensei.
 Dialogue: 21,0:05:05.37,0:05:06.86,TrueName,Sakuya,0,0,0,,Stay out of this, Nadeshiko.
 Dialogue: 21,0:05:07.29,0:05:10.35,TrueName,Nadeshiko,0,0,0,,You aren't exactly intimidating, dressed like that.
 Dialogue: 21,0:05:10.35,0:05:12.71,TrueName,Nadeshiko,0,0,0,,How about you go get dressed first?
@@ -223,7 +155,7 @@ Dialogue: 21,0:05:42.97,0:05:46.65,TrueName,Nadeshiko,0,0,0,,At least you've sav
 Dialogue: 21,0:05:46.65,0:05:50.63,TrueName,Nadeshiko,0,0,0,,You might have a connection with her too.
 Dialogue: 21,0:05:50.63,0:05:52.41,TrueName,Shinichirou,0,0,0,,What do you mean?
 Dialogue: 21,0:05:53.32,0:05:56.24,TrueName,Nadeshiko,0,0,0,,Sakuya, about the housekeeper I was looking for...
-Dialogue: 21,0:05:56.24,0:05:58.54,TrueName,Nadeshiko,0,0,0,,I've decided to hire Asano{-kun} for the position.
+Dialogue: 21,0:05:56.24,0:05:58.54,TrueName,Nadeshiko,0,0,0,,I've decided to hire Asano-kun for the position.
 Dialogue: 21,0:05:58.54,0:05:59.17,TrueName,Both,0,0,0,,Huh!?
 Dialogue: 21,0:05:59.17,0:06:02.63,TrueName,Nadeshiko,0,0,0,,He likes to cook, and isn't bad at cleaning either.
 Dialogue: 21,0:06:03.14,0:06:05.07,TrueName,Nadeshiko,0,0,0,,He has my seal of approval.
@@ -231,7 +163,7 @@ Dialogue: 21,0:06:05.07,0:06:05.93,TrueName,Nadeshiko,0,0,0,,He's a catch.
 Dialogue: 21,0:06:05.93,0:06:07.59,TrueName,Sakuya,0,0,0,,Y-You're joking me!
 Dialogue: 21,0:06:08.01,0:06:09.69,TrueName,Sakuya,0,0,0,,Why does {\i1}he{\fsp6} {\r}have to {come to}take care of {\i1}my{\fsp8} {\r}house{?!}!?
 Dialogue: 21,0:06:09.69,0:06:11.66,TrueName,Nadeshiko,0,0,0,,You'd rather live in this dump?
-Dialogue: 21,0:06:12.25,0:06:16.20,TrueName,Nadeshiko,0,0,0,,You're going to need Asano{-kun} if you want to live normally.
+Dialogue: 21,0:06:12.25,0:06:16.20,TrueName,Nadeshiko,0,0,0,,You're going to need Asano-kun if you want to live normally.
 Dialogue: 21,0:06:16.20,0:06:17.98,TrueName,Sakuya,0,0,0,,But... what about...
 Dialogue: 21,0:06:18.29,0:06:21.31,TrueName,Shinichirou,0,0,0,,Uh, let's forget about the part-time job for a second,
 Dialogue: 21,0:06:21.31,0:06:23.32,TrueName,Shinichirou,0,0,0,,do you mind if I tidy up this place a bit?
@@ -243,6 +175,7 @@ Dialogue: 21,0:06:32.42,0:06:33.84,TrueName,Tamako,0,0,0,,You got it.
 Dialogue: 21,0:06:33.54,0:06:35.12,TrueName,,0,0,25,,{\an8}You can't throw that away.
 Dialogue: 21,0:06:35.12,0:06:36.12,TrueName,,0,0,25,,{\an8}What?
 Dialogue: 21,0:06:36.12,0:06:36.93,TrueName,,0,0,25,,{\an8}Or that.
+Comment: 21,0:06:36.93,0:06:37.46,TrueName,,0,0,25,,{\an8}
 Dialogue: 21,0:06:39.18,0:06:40.92,TrueName,Isuca,0,0,0,,Ma. Barlaio.
 Dialogue: 21,0:06:40.92,0:06:42.91,TrueName,Isuca,0,0,0,,Ioel. Corsa.
 Dialogue: 21,0:06:42.91,0:06:45.26,TrueName,Isuca,0,0,0,,Asorebalo. Agtheos.
@@ -250,9 +183,9 @@ Dialogue: 21,0:06:49.02,0:06:50.13,TrueName,Shinichirou,0,0,0,,I'm exhausted...
 Dialogue: 21,0:06:50.13,0:06:51.59,TrueName,Okubo,0,0,0,,Yo, Asano.
 Dialogue: 21,0:06:51.95,0:06:54.55,TrueName,Okubo,0,0,0,,Looks like your new job's really wearing you out, huh?
 Dialogue: 21,0:06:54.55,0:06:56.68,TrueName,Shinichirou,0,0,0,,It's just service work.
-Dialogue: 21,0:06:56.68,0:06:59.00,TrueName,Fuzuki,0,0,0,,Asano{-kun}, thanks for yesterday.
+Dialogue: 21,0:06:56.68,0:06:59.00,TrueName,Fuzuki,0,0,0,,Asano-kun, thanks for yesterday.
 Dialogue: 21,0:06:59.00,0:07:00.60,TrueName,Shinichirou,0,0,0,,Oh, no, I didn't do a thing.
-Dialogue: 21,0:07:00.91,0:07:03.84,TrueName,Kanae,0,0,0,,Nadeshiko{-sensei} showed up after that.
+Dialogue: 21,0:07:00.91,0:07:03.84,TrueName,Kanae,0,0,0,,Nadeshiko-sensei showed up after that.
 Dialogue: 21,0:07:03.84,0:07:05.52,TrueName,Kanae,0,0,0,,They're saying she's going to be fine.
 Dialogue: 21,0:07:05.52,0:07:07.69,TrueName,Shinichirou,0,0,0,,Really? That's great.
 Dialogue: 21,0:07:07.69,0:07:09.71,TrueName,Fuzuki,0,0,0,,All thanks to you.
@@ -265,12 +198,12 @@ Dialogue: 21,0:07:20.33,0:07:22.75,TrueName,Fuzuki,0,0,0,,Oh, Sakuya, how's it g
 Dialogue: 21,0:07:22.75,0:07:25.67,TrueName,Sakuya,0,0,0,,Good morning, Fuzuki, Kanae.
 Dialogue: 21,0:07:25.67,0:07:27.38,TrueName,Shinichirou,0,0,0,,Huh? You know her?
 Dialogue: 21,0:07:27.69,0:07:30.30,TrueName,Kanae,0,0,0,,We were in the same class in our first year.
-Dialogue: 21,0:07:30.64,0:07:32.65,TrueName,Sakuya,0,0,0,,Asano{-kun}, do you have a moment?
+Dialogue: 21,0:07:30.64,0:07:32.65,TrueName,Sakuya,0,0,0,,Asano-kun, do you have a moment?
 Dialogue: 21,0:07:33.24,0:07:34.65,TrueName,Shinichirou,0,0,0,,Y-Yeah.
 Dialogue: 21,0:07:35.83,0:07:37.47,TrueName,Okubo,0,0,0,,Huh? Why is he...
 Dialogue: 21,0:07:37.89,0:07:40.52,TrueName,Kanae,0,0,0,,Do they know each other?
 Dialogue: 21,0:07:40.52,0:07:41.96,TrueName,Fuzuki,0,0,0,,Who knows...
-Dialogue: 21,0:07:42.84,0:07:45.27,TrueName,Shinichirou,0,0,0,,So you're friends with Matsuura{-san} and Tachibana{-san}?
+Dialogue: 21,0:07:42.84,0:07:45.27,TrueName,Shinichirou,0,0,0,,So you're friends with Matsuura-san and Tachibana-san?
 Dialogue: 21,0:07:45.58,0:07:47.53,TrueName,Sakuya,0,0,0,,You can drop the act.
 Dialogue: 21,0:07:47.53,0:07:50.15,TrueName,Sakuya,0,0,0,,It's not like we're friends or anything.
 Dialogue: 21,0:07:50.56,0:07:51.53,TrueName,A,0,0,0,,Sakuya.
@@ -282,12 +215,13 @@ Dialogue: 21,0:08:03.56,0:08:05.63,TrueName,Sakuya,0,0,0,,A new gate has opened.
 Dialogue: 21,0:08:05.98,0:08:07.06,TrueName,Shinichirou,0,0,0,,Gate?
 Dialogue: 21,0:08:07.06,0:08:09.32,TrueName,Sakuya,0,0,0,,A gate that connects this world to the other.
 Dialogue: 21,0:08:09.32,0:08:11.49,TrueName,Sakuya,0,0,0,,That's how the specters get here.
-Dialogue: 21,0:08:11.49,0:08:14.22,TrueName,Shinichirou,0,0,0,,What? You mean like that lightning beast?
+Dialogue: 21,0:08:11.49,0:08:14.22,TrueName,Shinichirou,0,0,0,,What? You mean like that raijuu?
 Dialogue: 21,0:08:14.22,0:08:15.89,TrueName,Sakuya,0,0,0,,We're going to close it.
 Dialogue: 21,0:08:15.89,0:08:17.12,TrueName,Shinichirou,0,0,0,,H-Hang on.
 Dialogue: 21,0:08:17.12,0:08:18.39,TrueName,Shinichirou,0,0,0,,I'm not getting involved in this.
 Dialogue: 21,0:08:18.39,0:08:20.29,TrueName,Sakuya,0,0,0,,You think I'll let you off?
 Dialogue: 21,0:08:20.29,0:08:21.85,TrueName,Sakuya,0,0,0,,Especially after what you did to me?
+Comment: 21,0:08:22.66,0:08:23.31,TrueName,Shinichirou,0,0,0,,Oh...
 Dialogue: 21,0:08:23.31,0:08:24.80,TrueName,Sakuya,0,0,0,,Don't remember it now!
 Dialogue: 21,0:08:24.80,0:08:26.80,TrueName,Shinichirou,0,0,0,,You're the one who brought it up!
 Dialogue: 21,0:08:26.80,0:08:27.98,TrueName,Sakuya,0,0,0,,Shut up!
@@ -337,7 +271,7 @@ Dialogue: 21,0:10:14.47,0:10:16.92,TrueName,Nadeshiko,0,0,0,,How about we go do 
 Dialogue: 21,0:10:16.92,0:10:18.88,TrueName,Nadeshiko,0,0,0,,Just the two of us?
 Dialogue: 21,0:10:18.88,0:10:20.68,TrueName,Shinichirou,0,0,0,,S-Sure.
 Dialogue: 21,0:10:21.30,0:10:25.50,TrueName,Sakuya,0,0,0,,Just order the dumb cat to go home already!
-Dialogue: 21,0:10:27.25,0:10:30.51,TrueName,Shinichirou,0,0,0,,What's the problem? Teacher's here too.
+Dialogue: 21,0:10:27.25,0:10:30.51,TrueName,Shinichirou,0,0,0,,What's the problem? Sensei's here too.
 Dialogue: 21,0:10:30.51,0:10:32.80,TrueName,Sakuya,0,0,0,,Shinichirou, you see here...
 Dialogue: 21,0:10:32.80,0:10:34.94,TrueName,Tamako,0,0,0,,Thank you, Master!
 Dialogue: 21,0:10:34.94,0:10:38.20,TrueName,Tamako,0,0,0,,You were the first one to say my true name.
@@ -370,7 +304,7 @@ Dialogue: 21,0:12:16.31,0:12:20.42,TrueName,Nadeshiko,0,0,0,,They see themselves
 Dialogue: 21,0:12:20.42,0:12:22.59,TrueName,Shinichirou,0,0,0,,Who would do something like this?
 Dialogue: 21,0:12:26.26,0:12:28.06,TrueName,Sakuya,0,0,0,,Ew! Rats!
 Dialogue: 21,0:12:28.42,0:12:30.00,TrueName,Tamako,0,0,0,,They did this!
-Dialogue: 21,0:12:34.13,0:12:35.26,TrueName,Nadeshiko,0,0,0,,A rat monster!
+Dialogue: 21,0:12:34.13,0:12:35.26,TrueName,Nadeshiko,0,0,0,,A kodama nezumi!
 Dialogue: 21,0:12:35.75,0:12:36.48,TrueName,Shinichirou,0,0,0,,Shimazu!
 Dialogue: 21,0:12:37.53,0:12:38.97,TrueName,Shinichirou,0,0,0,,What are you doing?
 Dialogue: 21,0:12:39.11,0:12:43.57,TrueName,Sakuya,0,0,0,,I-I can't stand gross things like rats and cockroaches!
@@ -439,7 +373,7 @@ Dialogue: 21,0:15:59.24,0:16:00.49,TrueName,Sakuya,0,0,0,,You don't know!?
 Dialogue: 21,0:16:00.49,0:16:01.77,TrueName,Shinichirou,0,0,0,,How am I supposed to know that!?
 Dialogue: 21,0:16:03.48,0:16:07.61,TrueName,Sakuya,0,0,0,,You're just a rat. You can't defy me!
 Dialogue: 21,0:16:07.61,0:16:09.94,TrueName,,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 21,0:16:09.94,0:16:10.69,TrueName,,0,0,0,,Falling rain shot!
+Dialogue: 21,0:16:09.94,0:16:10.69,TrueName,,0,0,0,,Murasame!
 Dialogue: 21,0:16:17.54,0:16:18.70,TrueName,Shinichirou,0,0,0,,Shimazu!
 Dialogue: 21,0:16:18.70,0:16:20.65,TrueName,Shinichirou,0,0,0,,Hey, Shimazu!
 Dialogue: 21,0:16:29.94,0:16:30.71,TrueName,Shinichirou,0,0,0,,Tama!?
@@ -481,10 +415,10 @@ Dialogue: 21,0:18:51.81,0:18:54.23,TrueName,Nadeshiko,0,0,0,,That would normally
 Dialogue: 21,0:18:54.71,0:18:55.98,TrueName,Nadeshiko,0,0,0,,What could this mean?
 Dialogue: 21,0:18:55.98,0:18:58.31,TrueName,Shinichirou,0,0,0,,Don't ask me...
 Dialogue: 21,0:18:58.31,0:18:59.51,TrueName,Nadeshiko,0,0,0,,Come to think of it,
-Dialogue: 21,0:18:59.51,0:19:03.11,TrueName,Nadeshiko,0,0,0,,Sakuya, you got a lot stronger when Asano{-kun} kissed you too, right?
+Dialogue: 21,0:18:59.51,0:19:03.11,TrueName,Nadeshiko,0,0,0,,Sakuya, you got a lot stronger when Asano-kun kissed you too, right?
 Dialogue: 21,0:19:03.11,0:19:05.05,TrueName,Sakuya,0,0,0,,That wasn't a kiss! That was an accident!
 Dialogue: 21,0:19:05.05,0:19:07.00,TrueName,Sakuya,0,0,0,,Our lips just happened to touch.
-Dialogue: 21,0:19:07.31,0:19:11.33,TrueName,Nadeshiko,0,0,0,,It seems Asano{-kun} has an immense amount of spiritual power.
+Dialogue: 21,0:19:07.31,0:19:11.33,TrueName,Nadeshiko,0,0,0,,It seems Asano-kun has an immense amount of spiritual power.
 Dialogue: 21,0:19:12.20,0:19:13.21,TrueName,Shinichirou,0,0,0,,Huh? Me?
 Dialogue: 21,0:19:13.21,0:19:14.86,TrueName,Nadeshiko,0,0,0,,I can only hypothesize,
 Dialogue: 21,0:19:14.86,0:19:18.43,TrueName,Nadeshiko,0,0,0,,but you may have the ability to share that power with others.
@@ -498,7 +432,7 @@ Dialogue: 21,0:19:41.19,0:19:43.46,TrueName,Sakuya,0,0,0,,Hurry up and clean the
 Dialogue: 21,0:19:43.46,0:19:45.98,TrueName,Sakuya,0,0,0,,You have tons of work to do.
 Dialogue: 21,0:19:46.41,0:19:46.95,TrueName,Shinichirou,0,0,0,,But...
 Dialogue: 21,0:19:46.95,0:19:48.37,TrueName,Sakuya,0,0,0,,Complaining already?
-Dialogue: 21,0:19:48.90,0:19:52.12,TrueName,Nadeshiko,0,0,0,,It's great that you found a job, Asano{-kun}.
+Dialogue: 21,0:19:48.90,0:19:52.12,TrueName,Nadeshiko,0,0,0,,It's great that you found a job, Asano-kun.
 Dialogue: 21,0:19:52.12,0:19:54.04,TrueName,Shinichirou,0,0,0,,Y-Yeah...
 Dialogue: 21,0:19:54.88,0:19:56.08,TrueName,Sakuya,0,0,0,,W-What?
 Dialogue: 21,0:20:00.73,0:20:04.01,TrueName,Shinichirou,0,0,0,,Should I make dinner before I start cleaning?
@@ -507,7 +441,7 @@ Dialogue: 21,0:20:05.59,0:20:06.26,TrueName,Sakuya,0,0,0,,Meat!
 Dialogue: 21,0:20:06.26,0:20:06.96,TrueName,Tamako,0,0,0,,I want fish!
 Dialogue: 21,0:20:06.96,0:20:08.03,TrueName,Tamako,0,0,0,,It has to be fish!
 Dialogue: 21,0:20:08.03,0:20:09.52,TrueName,Sakuya,0,0,0,,No, meat!
-Dialogue: 21,0:20:21.44,0:20:22.65,TrueName,Shinichirou,0,0,0,,Where's the teacher?
+Dialogue: 21,0:20:21.44,0:20:22.65,TrueName,Shinichirou,0,0,0,,Where's Sensei?
 Dialogue: 21,0:20:22.65,0:20:24.38,TrueName,Sakuya,0,0,0,,She's probably on the phone.
 Dialogue: 21,0:20:24.38,0:20:27.36,TrueName,Sakuya,0,0,0,,She has to care for the girls who were attacked.
 Dialogue: 21,0:20:27.36,0:20:29.45,TrueName,Shinichirou,0,0,0,,How are those girls doing?
@@ -540,15 +474,15 @@ Dialogue: 21,0:21:24.79,0:21:26.01,TrueName,Tamako,0,0,0,,Tamako, huh?
 Dialogue: 21,0:21:26.43,0:21:28.01,TrueName,Tamako,0,0,0,,Thank you, Shinichirou.
 Dialogue: 21,0:21:28.01,0:21:31.52,TrueName,Tamako,0,0,0,,I'll treasure my new name forever!
 Dialogue: 21,0:21:32.02,0:21:34.02,TrueName,Nadeshiko,0,0,0,,That's what happened.
-Dialogue: 21,0:21:34.02,0:21:36.48,TrueName,Nadeshiko,0,0,0,,He figured out the twin-tailed cat's true name, too...
+Dialogue: 21,0:21:34.02,0:21:36.48,TrueName,Nadeshiko,0,0,0,,He figured out the nekomata's true name, too...
 Dialogue: 21,0:21:36.93,0:21:39.98,TrueName,Nadeshiko,0,0,0,,There's definitely more to him than what meets the eye.
 Dialogue: 21,0:21:40.48,0:21:42.66,TrueName,Nadeshiko,0,0,25,,{\an8}We'll discuss this in more detail later.
 Dialogue: 21,0:21:42.66,0:21:44.29,TrueName,Nadeshiko,0,0,25,,{\an8}Good night, Suseri.
-Dialogue: 21,0:21:51.99,0:21:54.16,TrueName,Suseri,0,0,0,,Shinichirou Asano...
+Dialogue: 21,0:21:51.99,0:21:54.16,TrueName,Suseri,0,0,0,,Asano Shinichirou...
 Dialogue: 21,0:21:54.16,0:21:56.50,TrueName,Suseri,0,0,0,,It seems you've encountered quite the interesting person,
-Dialogue: 21,0:21:56.97,0:21:58.36,TrueName,Suseri,0,0,0,,Sakuya{-neesama}.
+Dialogue: 21,0:21:56.97,0:21:58.36,TrueName,Suseri,0,0,0,,Sakuya-neesama.
 Dialogue: 22,0:00:03.25,0:00:04.85,TrueNamePink,Shinichirou,0,0,0,,H-Hey! What are you doing!?
-Dialogue: 22,0:00:05.33,0:00:07.73,TrueNamePink,Sakuya,0,0,0,,I'm going to seal away that twin-tailed cat.
+Dialogue: 22,0:00:05.33,0:00:07.73,TrueNamePink,Sakuya,0,0,0,,I'm going to seal away that nekomata.
 Dialogue: 22,0:00:07.73,0:00:09.26,TrueNamePink,Shinichirou,0,0,0,,Why?
 Dialogue: 22,0:00:09.26,0:00:11.17,TrueNamePink,Shinichirou,0,0,0,,She hasn't done anything wrong!
 Dialogue: 22,0:00:11.17,0:00:12.90,TrueNamePink,Sakuya,0,0,0,,Specters are the enemy of mankind.
@@ -627,7 +561,7 @@ Dialogue: 22,0:04:55.87,0:04:58.09,TrueNamePink,Sakuya,0,0,0,,Your master is {\i
 Dialogue: 22,0:04:58.09,0:04:59.77,TrueNamePink,Sakuya,0,0,0,,{\ko58}Yours {\ko44}tru{\ko66}ly!
 Dialogue: 22,0:05:01.67,0:05:02.86,TrueNamePink,Sakuya,0,0,0,,Now I'm pissed.
 Dialogue: 22,0:05:02.86,0:05:04.11,TrueNamePink,Nadeshiko,0,0,0,,Okay, enough of that.
-Dialogue: 22,0:05:04.11,0:05:05.37,TrueNamePink,Shinichirou,0,0,0,,Teacher.
+Dialogue: 22,0:05:04.11,0:05:05.37,TrueNamePink,Shinichirou,0,0,0,,Sensei.
 Dialogue: 22,0:05:05.37,0:05:06.86,TrueNamePink,Sakuya,0,0,0,,Stay out of this, Nadeshiko.
 Dialogue: 22,0:05:07.29,0:05:10.35,TrueNamePink,Nadeshiko,0,0,0,,You aren't exactly intimidating, dressed like that.
 Dialogue: 22,0:05:10.35,0:05:12.71,TrueNamePink,Nadeshiko,0,0,0,,How about you go get dressed first?
@@ -642,7 +576,7 @@ Dialogue: 22,0:05:42.97,0:05:46.65,TrueNamePink,Nadeshiko,0,0,0,,At least you've
 Dialogue: 22,0:05:46.65,0:05:50.63,TrueNamePink,Nadeshiko,0,0,0,,You might have a connection with her too.
 Dialogue: 22,0:05:50.63,0:05:52.41,TrueNamePink,Shinichirou,0,0,0,,What do you mean?
 Dialogue: 22,0:05:53.32,0:05:56.24,TrueNamePink,Nadeshiko,0,0,0,,Sakuya, about the housekeeper I was looking for...
-Dialogue: 22,0:05:56.24,0:05:58.54,TrueNamePink,Nadeshiko,0,0,0,,I've decided to hire Asano{-kun} for the position.
+Dialogue: 22,0:05:56.24,0:05:58.54,TrueNamePink,Nadeshiko,0,0,0,,I've decided to hire Asano-kun for the position.
 Dialogue: 22,0:05:58.54,0:05:59.17,TrueNamePink,Both,0,0,0,,Huh!?
 Dialogue: 22,0:05:59.17,0:06:02.63,TrueNamePink,Nadeshiko,0,0,0,,He likes to cook, and isn't bad at cleaning either.
 Dialogue: 22,0:06:03.14,0:06:05.07,TrueNamePink,Nadeshiko,0,0,0,,He has my seal of approval.
@@ -650,7 +584,7 @@ Dialogue: 22,0:06:05.07,0:06:05.93,TrueNamePink,Nadeshiko,0,0,0,,He's a catch.
 Dialogue: 22,0:06:05.93,0:06:07.59,TrueNamePink,Sakuya,0,0,0,,Y-You're joking me!
 Dialogue: 22,0:06:08.01,0:06:09.69,TrueNamePink,Sakuya,0,0,0,,Why does {\i1}he{\fsp6} {\r}have to {come to}take care of {\i1}my{\fsp8} {\r}house{?!}!?
 Dialogue: 22,0:06:09.69,0:06:11.66,TrueNamePink,Nadeshiko,0,0,0,,You'd rather live in this dump?
-Dialogue: 22,0:06:12.25,0:06:16.20,TrueNamePink,Nadeshiko,0,0,0,,You're going to need Asano{-kun} if you want to live normally.
+Dialogue: 22,0:06:12.25,0:06:16.20,TrueNamePink,Nadeshiko,0,0,0,,You're going to need Asano-kun if you want to live normally.
 Dialogue: 22,0:06:16.20,0:06:17.98,TrueNamePink,Sakuya,0,0,0,,But... what about...
 Dialogue: 22,0:06:18.29,0:06:21.31,TrueNamePink,Shinichirou,0,0,0,,Uh, let's forget about the part-time job for a second,
 Dialogue: 22,0:06:21.31,0:06:23.32,TrueNamePink,Shinichirou,0,0,0,,do you mind if I tidy up this place a bit?
@@ -662,6 +596,7 @@ Dialogue: 22,0:06:32.42,0:06:33.84,TrueNamePink,Tamako,0,0,0,,You got it.
 Dialogue: 22,0:06:33.54,0:06:35.12,TrueNamePink,,0,0,25,,{\an8}You can't throw that away.
 Dialogue: 22,0:06:35.12,0:06:36.12,TrueNamePink,,0,0,25,,{\an8}What?
 Dialogue: 22,0:06:36.12,0:06:36.93,TrueNamePink,,0,0,25,,{\an8}Or that.
+Comment: 22,0:06:36.93,0:06:37.46,TrueNamePink,,0,0,25,,{\an8}
 Dialogue: 22,0:06:39.18,0:06:40.92,TrueNamePink,Isuca,0,0,0,,Ma. Barlaio.
 Dialogue: 22,0:06:40.92,0:06:42.91,TrueNamePink,Isuca,0,0,0,,Ioel. Corsa.
 Dialogue: 22,0:06:42.91,0:06:45.26,TrueNamePink,Isuca,0,0,0,,Asorebalo. Agtheos.
@@ -669,9 +604,9 @@ Dialogue: 22,0:06:49.02,0:06:50.13,TrueNamePink,Shinichirou,0,0,0,,I'm exhausted
 Dialogue: 22,0:06:50.13,0:06:51.59,TrueNamePink,Okubo,0,0,0,,Yo, Asano.
 Dialogue: 22,0:06:51.95,0:06:54.55,TrueNamePink,Okubo,0,0,0,,Looks like your new job's really wearing you out, huh?
 Dialogue: 22,0:06:54.55,0:06:56.68,TrueNamePink,Shinichirou,0,0,0,,It's just service work.
-Dialogue: 22,0:06:56.68,0:06:59.00,TrueNamePink,Fuzuki,0,0,0,,Asano{-kun}, thanks for yesterday.
+Dialogue: 22,0:06:56.68,0:06:59.00,TrueNamePink,Fuzuki,0,0,0,,Asano-kun, thanks for yesterday.
 Dialogue: 22,0:06:59.00,0:07:00.60,TrueNamePink,Shinichirou,0,0,0,,Oh, no, I didn't do a thing.
-Dialogue: 22,0:07:00.91,0:07:03.84,TrueNamePink,Kanae,0,0,0,,Nadeshiko{-sensei} showed up after that.
+Dialogue: 22,0:07:00.91,0:07:03.84,TrueNamePink,Kanae,0,0,0,,Nadeshiko-sensei showed up after that.
 Dialogue: 22,0:07:03.84,0:07:05.52,TrueNamePink,Kanae,0,0,0,,They're saying she's going to be fine.
 Dialogue: 22,0:07:05.52,0:07:07.69,TrueNamePink,Shinichirou,0,0,0,,Really? That's great.
 Dialogue: 22,0:07:07.69,0:07:09.71,TrueNamePink,Fuzuki,0,0,0,,All thanks to you.
@@ -684,12 +619,12 @@ Dialogue: 22,0:07:20.33,0:07:22.75,TrueNamePink,Fuzuki,0,0,0,,Oh, Sakuya, how's 
 Dialogue: 22,0:07:22.75,0:07:25.67,TrueNamePink,Sakuya,0,0,0,,Good morning, Fuzuki, Kanae.
 Dialogue: 22,0:07:25.67,0:07:27.38,TrueNamePink,Shinichirou,0,0,0,,Huh? You know her?
 Dialogue: 22,0:07:27.69,0:07:30.30,TrueNamePink,Kanae,0,0,0,,We were in the same class in our first year.
-Dialogue: 22,0:07:30.64,0:07:32.65,TrueNamePink,Sakuya,0,0,0,,Asano{-kun}, do you have a moment?
+Dialogue: 22,0:07:30.64,0:07:32.65,TrueNamePink,Sakuya,0,0,0,,Asano-kun, do you have a moment?
 Dialogue: 22,0:07:33.24,0:07:34.65,TrueNamePink,Shinichirou,0,0,0,,Y-Yeah.
 Dialogue: 22,0:07:35.83,0:07:37.47,TrueNamePink,Okubo,0,0,0,,Huh? Why is he...
 Dialogue: 22,0:07:37.89,0:07:40.52,TrueNamePink,Kanae,0,0,0,,Do they know each other?
 Dialogue: 22,0:07:40.52,0:07:41.96,TrueNamePink,Fuzuki,0,0,0,,Who knows...
-Dialogue: 22,0:07:42.84,0:07:45.27,TrueNamePink,Shinichirou,0,0,0,,So you're friends with Matsuura{-san} and Tachibana{-san}?
+Dialogue: 22,0:07:42.84,0:07:45.27,TrueNamePink,Shinichirou,0,0,0,,So you're friends with Matsuura-san and Tachibana-san?
 Dialogue: 22,0:07:45.58,0:07:47.53,TrueNamePink,Sakuya,0,0,0,,You can drop the act.
 Dialogue: 22,0:07:47.53,0:07:50.15,TrueNamePink,Sakuya,0,0,0,,It's not like we're friends or anything.
 Dialogue: 22,0:07:50.56,0:07:51.53,TrueNamePink,A,0,0,0,,Sakuya.
@@ -701,12 +636,13 @@ Dialogue: 22,0:08:03.56,0:08:05.63,TrueNamePink,Sakuya,0,0,0,,A new gate has ope
 Dialogue: 22,0:08:05.98,0:08:07.06,TrueNamePink,Shinichirou,0,0,0,,Gate?
 Dialogue: 22,0:08:07.06,0:08:09.32,TrueNamePink,Sakuya,0,0,0,,A gate that connects this world to the other.
 Dialogue: 22,0:08:09.32,0:08:11.49,TrueNamePink,Sakuya,0,0,0,,That's how the specters get here.
-Dialogue: 22,0:08:11.49,0:08:14.22,TrueNamePink,Shinichirou,0,0,0,,What? You mean like that lightning beast?
+Dialogue: 22,0:08:11.49,0:08:14.22,TrueNamePink,Shinichirou,0,0,0,,What? You mean like that raijuu?
 Dialogue: 22,0:08:14.22,0:08:15.89,TrueNamePink,Sakuya,0,0,0,,We're going to close it.
 Dialogue: 22,0:08:15.89,0:08:17.12,TrueNamePink,Shinichirou,0,0,0,,H-Hang on.
 Dialogue: 22,0:08:17.12,0:08:18.39,TrueNamePink,Shinichirou,0,0,0,,I'm not getting involved in this.
 Dialogue: 22,0:08:18.39,0:08:20.29,TrueNamePink,Sakuya,0,0,0,,You think I'll let you off?
 Dialogue: 22,0:08:20.29,0:08:21.85,TrueNamePink,Sakuya,0,0,0,,Especially after what you did to me?
+Comment: 22,0:08:22.66,0:08:23.31,TrueNamePink,Shinichirou,0,0,0,,Oh...
 Dialogue: 22,0:08:23.31,0:08:24.80,TrueNamePink,Sakuya,0,0,0,,Don't remember it now!
 Dialogue: 22,0:08:24.80,0:08:26.80,TrueNamePink,Shinichirou,0,0,0,,You're the one who brought it up!
 Dialogue: 22,0:08:26.80,0:08:27.98,TrueNamePink,Sakuya,0,0,0,,Shut up!
@@ -756,7 +692,7 @@ Dialogue: 22,0:10:14.47,0:10:16.92,TrueNamePink,Nadeshiko,0,0,0,,How about we go
 Dialogue: 22,0:10:16.92,0:10:18.88,TrueNamePink,Nadeshiko,0,0,0,,Just the two of us?
 Dialogue: 22,0:10:18.88,0:10:20.68,TrueNamePink,Shinichirou,0,0,0,,S-Sure.
 Dialogue: 22,0:10:21.30,0:10:25.50,TrueNamePink,Sakuya,0,0,0,,Just order the dumb cat to go home already!
-Dialogue: 22,0:10:27.25,0:10:30.51,TrueNamePink,Shinichirou,0,0,0,,What's the problem? Teacher's here too.
+Dialogue: 22,0:10:27.25,0:10:30.51,TrueNamePink,Shinichirou,0,0,0,,What's the problem? Sensei's here too.
 Dialogue: 22,0:10:30.51,0:10:32.80,TrueNamePink,Sakuya,0,0,0,,Shinichirou, you see here...
 Dialogue: 22,0:10:32.80,0:10:34.94,TrueNamePink,Tamako,0,0,0,,Thank you, Master!
 Dialogue: 22,0:10:34.94,0:10:38.20,TrueNamePink,Tamako,0,0,0,,You were the first one to say my true name.
@@ -789,7 +725,7 @@ Dialogue: 22,0:12:16.31,0:12:20.42,TrueNamePink,Nadeshiko,0,0,0,,They see themse
 Dialogue: 22,0:12:20.42,0:12:22.59,TrueNamePink,Shinichirou,0,0,0,,Who would do something like this?
 Dialogue: 22,0:12:26.26,0:12:28.06,TrueNamePink,Sakuya,0,0,0,,Ew! Rats!
 Dialogue: 22,0:12:28.42,0:12:30.00,TrueNamePink,Tamako,0,0,0,,They did this!
-Dialogue: 22,0:12:34.13,0:12:35.26,TrueNamePink,Nadeshiko,0,0,0,,A rat monster!
+Dialogue: 22,0:12:34.13,0:12:35.26,TrueNamePink,Nadeshiko,0,0,0,,A kodama nezumi!
 Dialogue: 22,0:12:35.75,0:12:36.48,TrueNamePink,Shinichirou,0,0,0,,Shimazu!
 Dialogue: 22,0:12:37.53,0:12:38.97,TrueNamePink,Shinichirou,0,0,0,,What are you doing?
 Dialogue: 22,0:12:39.11,0:12:43.57,TrueNamePink,Sakuya,0,0,0,,I-I can't stand gross things like rats and cockroaches!
@@ -858,7 +794,7 @@ Dialogue: 22,0:15:59.24,0:16:00.49,TrueNamePink,Sakuya,0,0,0,,You don't know!?
 Dialogue: 22,0:16:00.49,0:16:01.77,TrueNamePink,Shinichirou,0,0,0,,How am I supposed to know that!?
 Dialogue: 22,0:16:03.48,0:16:07.61,TrueNamePink,Sakuya,0,0,0,,You're just a rat. You can't defy me!
 Dialogue: 22,0:16:07.61,0:16:09.94,TrueNamePink,,0,0,0,,Shimazu Style Spirit Bow Technique:
-Dialogue: 22,0:16:09.94,0:16:10.69,TrueNamePink,,0,0,0,,Falling rain shot!
+Dialogue: 22,0:16:09.94,0:16:10.69,TrueNamePink,,0,0,0,,Murasame!
 Dialogue: 22,0:16:17.54,0:16:18.70,TrueNamePink,Shinichirou,0,0,0,,Shimazu!
 Dialogue: 22,0:16:18.70,0:16:20.65,TrueNamePink,Shinichirou,0,0,0,,Hey, Shimazu!
 Dialogue: 22,0:16:29.94,0:16:30.71,TrueNamePink,Shinichirou,0,0,0,,Tama!?
@@ -900,10 +836,10 @@ Dialogue: 22,0:18:51.81,0:18:54.23,TrueNamePink,Nadeshiko,0,0,0,,That would norm
 Dialogue: 22,0:18:54.71,0:18:55.98,TrueNamePink,Nadeshiko,0,0,0,,What could this mean?
 Dialogue: 22,0:18:55.98,0:18:58.31,TrueNamePink,Shinichirou,0,0,0,,Don't ask me...
 Dialogue: 22,0:18:58.31,0:18:59.51,TrueNamePink,Nadeshiko,0,0,0,,Come to think of it,
-Dialogue: 22,0:18:59.51,0:19:03.11,TrueNamePink,Nadeshiko,0,0,0,,Sakuya, you got a lot stronger when Asano{-kun} kissed you too, right?
+Dialogue: 22,0:18:59.51,0:19:03.11,TrueNamePink,Nadeshiko,0,0,0,,Sakuya, you got a lot stronger when Asano-kun kissed you too, right?
 Dialogue: 22,0:19:03.11,0:19:05.05,TrueNamePink,Sakuya,0,0,0,,That wasn't a kiss! That was an accident!
 Dialogue: 22,0:19:05.05,0:19:07.00,TrueNamePink,Sakuya,0,0,0,,Our lips just happened to touch.
-Dialogue: 22,0:19:07.31,0:19:11.33,TrueNamePink,Nadeshiko,0,0,0,,It seems Asano{-kun} has an immense amount of spiritual power.
+Dialogue: 22,0:19:07.31,0:19:11.33,TrueNamePink,Nadeshiko,0,0,0,,It seems Asano-kun has an immense amount of spiritual power.
 Dialogue: 22,0:19:12.20,0:19:13.21,TrueNamePink,Shinichirou,0,0,0,,Huh? Me?
 Dialogue: 22,0:19:13.21,0:19:14.86,TrueNamePink,Nadeshiko,0,0,0,,I can only hypothesize,
 Dialogue: 22,0:19:14.86,0:19:18.43,TrueNamePink,Nadeshiko,0,0,0,,but you may have the ability to share that power with others.
@@ -917,7 +853,7 @@ Dialogue: 22,0:19:41.19,0:19:43.46,TrueNamePink,Sakuya,0,0,0,,Hurry up and clean
 Dialogue: 22,0:19:43.46,0:19:45.98,TrueNamePink,Sakuya,0,0,0,,You have tons of work to do.
 Dialogue: 22,0:19:46.41,0:19:46.95,TrueNamePink,Shinichirou,0,0,0,,But...
 Dialogue: 22,0:19:46.95,0:19:48.37,TrueNamePink,Sakuya,0,0,0,,Complaining already?
-Dialogue: 22,0:19:48.90,0:19:52.12,TrueNamePink,Nadeshiko,0,0,0,,It's great that you found a job, Asano{-kun}.
+Dialogue: 22,0:19:48.90,0:19:52.12,TrueNamePink,Nadeshiko,0,0,0,,It's great that you found a job, Asano-kun.
 Dialogue: 22,0:19:52.12,0:19:54.04,TrueNamePink,Shinichirou,0,0,0,,Y-Yeah...
 Dialogue: 22,0:19:54.88,0:19:56.08,TrueNamePink,Sakuya,0,0,0,,W-What?
 Dialogue: 22,0:20:00.73,0:20:04.01,TrueNamePink,Shinichirou,0,0,0,,Should I make dinner before I start cleaning?
@@ -926,7 +862,7 @@ Dialogue: 22,0:20:05.59,0:20:06.26,TrueNamePink,Sakuya,0,0,0,,Meat!
 Dialogue: 22,0:20:06.26,0:20:06.96,TrueNamePink,Tamako,0,0,0,,I want fish!
 Dialogue: 22,0:20:06.96,0:20:08.03,TrueNamePink,Tamako,0,0,0,,It has to be fish!
 Dialogue: 22,0:20:08.03,0:20:09.52,TrueNamePink,Sakuya,0,0,0,,No, meat!
-Dialogue: 22,0:20:21.44,0:20:22.65,TrueNamePink,Shinichirou,0,0,0,,Where's the teacher?
+Dialogue: 22,0:20:21.44,0:20:22.65,TrueNamePink,Shinichirou,0,0,0,,Where's Sensei?
 Dialogue: 22,0:20:22.65,0:20:24.38,TrueNamePink,Sakuya,0,0,0,,She's probably on the phone.
 Dialogue: 22,0:20:24.38,0:20:27.36,TrueNamePink,Sakuya,0,0,0,,She has to care for the girls who were attacked.
 Dialogue: 22,0:20:27.36,0:20:29.45,TrueNamePink,Shinichirou,0,0,0,,How are those girls doing?
@@ -959,16 +895,19 @@ Dialogue: 22,0:21:24.79,0:21:26.01,TrueNamePink,Tamako,0,0,0,,Tamako, huh?
 Dialogue: 22,0:21:26.43,0:21:28.01,TrueNamePink,Tamako,0,0,0,,Thank you, Shinichirou.
 Dialogue: 22,0:21:28.01,0:21:31.52,TrueNamePink,Tamako,0,0,0,,I'll treasure my new name forever!
 Dialogue: 22,0:21:32.02,0:21:34.02,TrueNamePink,Nadeshiko,0,0,0,,That's what happened.
-Dialogue: 22,0:21:34.02,0:21:36.48,TrueNamePink,Nadeshiko,0,0,0,,He figured out the twin-tailed cat's true name, too...
+Dialogue: 22,0:21:34.02,0:21:36.48,TrueNamePink,Nadeshiko,0,0,0,,He figured out the nekomata's true name, too...
 Dialogue: 22,0:21:36.93,0:21:39.98,TrueNamePink,Nadeshiko,0,0,0,,There's definitely more to him than what meets the eye.
 Dialogue: 22,0:21:40.48,0:21:42.66,TrueNamePink,Nadeshiko,0,0,25,,{\an8}We'll discuss this in more detail later.
 Dialogue: 22,0:21:42.66,0:21:44.29,TrueNamePink,Nadeshiko,0,0,25,,{\an8}Good night, Suseri.
-Dialogue: 22,0:21:51.99,0:21:54.16,TrueNamePink,Suseri,0,0,0,,Shinichirou Asano...
+Dialogue: 22,0:21:51.99,0:21:54.16,TrueNamePink,Suseri,0,0,0,,Asano Shinichirou...
 Dialogue: 22,0:21:54.16,0:21:56.50,TrueNamePink,Suseri,0,0,0,,It seems you've encountered quite the interesting person,
-Dialogue: 22,0:21:56.97,0:21:58.36,TrueNamePink,Suseri,0,0,0,,Sakuya{-neesama}.
+Dialogue: 22,0:21:56.97,0:21:58.36,TrueNamePink,Suseri,0,0,0,,Sakuya-neesama.
+Comment: 0,0:21:58.36,0:22:00.36,Default,,0,0,0,,SUBS|SIGNS gate
 Dialogue: 0,0:02:47.56,0:02:52.56,Signs-Dstyle,,0,0,0,,{\4a&H90&\blur1\fs38\fad(375,375)\shad2\bord1.3\c&H13101B&\3c&H13101B&\4c&H13101B&\fnCambria\b1\pos(955,668)}Episode 2: True Name
 Dialogue: 0,0:02:47.56,0:02:52.56,Signs-Dstyle,,0,0,0,,{\1a&HFF&\blur0.4\fs38\fad(375,375)\shad0.2\bord1.3\c&HFFFFFE&\3c&H13101B&\4c&H7A7573&\fnCambria\b1\pos(955,668)}Episode 2: True Name
 Dialogue: 1,0:02:47.56,0:02:52.56,Signs-Dstyle,,0,0,0,,{\blur0.4\fs38\fad(375,375)\shad0.2\bord0\c&HFFFFFE&\3c&H13101B&\4c&H7A7573&\fnCambria\b1\pos(955,668)}Episode 2: True Name
+Comment: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H403B20&\pos(555.114,366.572)}Chemistry Lab
+Comment: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H1D1B18&\pos(555.114,366.572)\clip(344.8,332.8,763.2,464)}Chemistry Lab
 Dialogue: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\clip(345,333,348,464)\pos(555.114,366.572)\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H403B20&}Chemistry Lab
 Dialogue: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\clip(348,333,351,464)\pos(555.114,366.572)\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H403B20&}Chemistry Lab
 Dialogue: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\clip(351,333,354,464)\pos(555.114,366.572)\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H3F3B20&}Chemistry Lab
@@ -1109,6 +1048,8 @@ Dialogue: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\clip(753,333,756,464)\p
 Dialogue: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\clip(756,333,759,464)\pos(555.114,366.572)\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H1E1B18&}Chemistry Lab
 Dialogue: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\clip(759,333,762,464)\pos(555.114,366.572)\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H1D1B18&}Chemistry Lab
 Dialogue: 0,0:08:57.30,0:08:58.30,Signs-Dstyle,,0,0,0,,{\clip(762,333,765,464)\pos(555.114,366.572)\blur0.5\fay0.132\fs55\fnFat Daddy Expanded\c&H1D1B18&}Chemistry Lab
+Comment: 0,0:11:36.05,0:11:37.30,Signs-Dstyle,,0,0,0,,{\blur0.9\fay0.2\fax-0.05\fs35\fnFat Daddy Expanded\c&HB3B1AD&\pos(525.4,216.858)}Girl's Locker Room
+Comment: 0,0:11:36.05,0:11:37.30,Signs-Dstyle,,0,0,0,,{\blur0.9\fay0.2\fax-0.05\fs35\fnFat Daddy Expanded\c&H75726F&\pos(525.4,216.858)\clip(349.714,192,697.143,305.143)}Girl's Locker Room
 Dialogue: 0,0:11:36.05,0:11:37.30,Signs-Dstyle,,0,0,0,,{\clip(350,192,353,305)\pos(525.4,216.858)\blur0.9\fay0.2\fax-0.05\fs35\fnFat Daddy Expanded\c&HB3B1AD&}Girl's Locker Room
 Dialogue: 0,0:11:36.05,0:11:37.30,Signs-Dstyle,,0,0,0,,{\clip(353,192,356,305)\pos(525.4,216.858)\blur0.9\fay0.2\fax-0.05\fs35\fnFat Daddy Expanded\c&HB2B0AC&}Girl's Locker Room
 Dialogue: 0,0:11:36.05,0:11:37.30,Signs-Dstyle,,0,0,0,,{\clip(356,192,359,305)\pos(525.4,216.858)\blur0.9\fay0.2\fax-0.05\fs35\fnFat Daddy Expanded\c&HB2B0AC&}Girl's Locker Room
@@ -1229,6 +1170,34 @@ Dialogue: 0,0:22:00.00,0:22:05.01,Signs-Dstyle,,0,0,0,,{\fs65\c&HFFFFFF&\pos(920
 Dialogue: 0,0:23:35.01,0:23:40.02,Signs-Dstyle,,0,0,0,,{\blur1\4a&H20&\fnLucida Sans\fs47\fsp1\bord2.5\1a&HFE&\3a&HFE&\xshad1.5\yshad2\b1\3c&H8411B8&\4c&H8411B8&\pos(958.096,565.523)}See you next time!
 Dialogue: 1,0:23:35.01,0:23:40.02,Signs-Dstyle,,0,0,0,,{\blur0.4\fnLucida Sans\fs47\fsp1\bord2.5\1a&HFF&\shad0\b1\3c&H8411B8&\4c&H330A11&\pos(958.096,565.523)}See you next time!
 Dialogue: 2,0:23:35.01,0:23:40.02,Signs-Dstyle,,0,0,0,,{\blur0.4\fnLucida Sans\fs47\fsp1\bord0\shad0\b1\3c&H7D24AA&\4c&H541420&\pos(958.096,565.523)\c&HFCFFFB&}See you next time!
+Comment: 0,0:21:58.36,0:22:00.36,Default,,0,0,0,,SIGNS|KFX gate
+Comment: 0,0:01:17.01,0:01:17.05,Default,Isuca OP,0,0,0,START FRAME,op start frame
+Comment: 0,0:01:34.99,0:01:40.20,Never - Romaji,,0,0,0,karaoke,{\ko55}{\ko32}{\fad(180,120)\blur2}i{\ko26}ma{\ko25} {\ko34}ka{\ko32}n{\ko33}ji{\ko32}te{\ko25}ru{\ko21} {\ko31}te {\ko24}wo{\ko25} {\ko36}no{\ko30}ba{\ko32}shi{\ko28}ta{\ko1}ra{\ko0}
+Comment: 0,0:01:40.20,0:01:45.42,Never - Romaji,shine_out,0,0,0,karaoke,{\ko53}{\ko31}{\fad(180,120)\blur2}so{\ko22}ra{\ko26} {\ko34}ta{\ko34}ka{\ko31}ku {\ko15}ki{\ko17}ra{\ko16}me{\ko67}ku {\ko61}ryuu{\ko66}se{\ko49}i{\ko0}
+Comment: 0,0:01:45.42,0:01:50.67,Never - Romaji,,0,0,0,karaoke,{\ko50}{\ko34}{\fad(180,120)\blur2}zut{\ko28}to{\ko18} {\ko34}o{\ko32}i{\ko32}ka{\ko34}ke{\ko31}te{\ko16} {\ko33}nan{\ko28}do{\ko20} {\ko33}ko{\ko33}ro{\ko32}n{\ko37}de{\ko1}mo{\ko0}
+Comment: 0,0:01:50.67,0:01:56.38,Never - Romaji,shine_out,0,0,0,karaoke,{\ko43}{\ko34}{\fad(180,120)\blur2}mo{\ko30}u{\ko17} {\ko34}to{\ko32}me{\ko31}ra{\ko15}re{\ko18}na{\ko17}i {\ko65}shou{\ko65}dou {\ko63}nan{\ko64}da{\ko43}
+Comment: 0,0:01:56.38,0:02:01.39,Never - Romaji,shine_out,0,0,0,karaoke,{\ko22}{\ko35}{\fad(180,120)\blur2}yo{\ko17}zo{\ko47}ra {\ko34}ni {\ko17}bo{\ko31}ku{\ko17}ta{\ko65}chi {\ko53}no {\ko13}su{\ko46}to{\ko17}o{\ko64}ri{\ko23}
+Comment: 0,0:02:01.39,0:02:07.94,Never - Romaji,,0,0,0,karaoke,{\ko41}{\ko31}{\fad(180,120)\blur2}sa{\ko17}i{\ko49}sho {\ko35}no {\ko17}i{\ko29}chi {\ko18}pe{\ko32}e{\ko34}ji {\ko32}me{\ko16}ku{\ko38}ri{\ko26} {\ko18}yu{\ko16}u{\ko15}ki {\ko16}da{\ko144}su{\ko31}
+Comment: 0,0:02:07.94,0:02:13.11,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko6}{\ko16}{\fad(180,120)\blur2}me{\ko16}gu{\ko15}ri {\ko16}me{\ko16}gu{\ko16}ru {\ko33}mi{\ko32}ra{\ko32}i {\ko33}e {\ko33}to{\ko15} {\ko17}bo{\ko16}ku{\ko16}ra {\ko14}i{\ko16}ma {\ko34}ka{\ko34}ke{\ko32}da{\ko32}shi{\ko27}te{\ko0}
+Comment: 0,0:02:13.11,0:02:18.24,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko20}{\fad(180,120)\blur2}na{\ko13}n{\ko17}ju{\ko13}u {\ko15}o{\ko68}ku {\ko62}nen {\ko48}sa{\ko16}ki {\ko33}e{\ko17} {\ko18}to{\ko32}do{\ko16}ku {\ko32}yo{\ko33}u {\ko37}ni{\ko0}
+Comment: 0,0:02:18.24,0:02:20.99,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko27}{\ko17}{\fad(180,120)\blur2}ha{\ko16}ru{\ko17}ka {\ko17}ka{\ko15}na{\ko32}ta {\ko33}no {\ko32}so{\ko32}ra {\ko30}e{\ko7}
+Comment: 1,0:02:20.78,0:02:25.00,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko35}{\ko17}{\fad(180,120)\blur2}u{\ko15}tsu{\ko15}tsu {\ko16}yu{\ko17}me {\ko32}no {\ko33}ka{\ko32}ke{\ko33}ra {\ko31}wo {\ko32}tsu{\ko16}ka{\ko32}n{\ko47}de{\ko19}
+Comment: 0,0:02:25.00,0:02:29.79,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko17}{\ko33}{\fad(180,120)\blur2}se{\ko30}i{\ko35}ja{\ko32}ku {\ko32}no {\ko34}ya{\ko43}mi {\ko22}sa{\ko23}e{\ko24} {\ko17}i{\ko46}nu{\ko17}ku {\ko74}yo{\ko0}
+Comment: 0,0:02:29.79,0:02:32.55,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko34}{\fad(180,120)\blur2}tsu{\ko33}yo{\ko31}ku {\ko34}ne{\ko32}ga{\ko31}u{\ko17}n{\ko41}da{\ko0}
+Comment: 0,0:02:32.55,0:02:39.89,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko69}{\ko35}{\fad(180,120)\blur2}just {\ko22}ne{\ko25}ver {\ko35}say {\ko29}ne{\ko282}ver{\ko237}
+Comment: 0,0:01:34.99,0:01:40.20,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I throw out my hands
+Comment: 0,0:01:40.20,0:01:45.42,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}trying to catch a star falling from the sky
+Comment: 0,0:01:45.42,0:01:50.67,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I don't care how much I stumble chasing it,{I always chase after it, but I don't care if I trip and fall}
+Comment: 0,0:01:50.67,0:01:56.38,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}nothing can extinguish my passion
+Comment: 0,0:01:56.38,0:02:01.39,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}Our story is written on the night sky
+Comment: 0,0:02:01.39,0:02:07.94,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}Let's gather our courage and turn the first page
+Comment: 0,0:02:07.94,0:02:13.11,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We leap toward our bright future
+Comment: 0,0:02:13.11,0:02:18.24,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}Together we can overcome any distance
+Comment: 0,0:02:18.24,0:02:20.99,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,200)\blur2}To faraway skies
+Comment: 1,0:02:20.78,0:02:25.00,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(200,120)\blur2}where we'll piece together our dreams
+Comment: 0,0:02:25.00,0:02:29.79,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We'll pierce through the silent darkness,
+Comment: 0,0:02:29.79,0:02:32.55,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}as we vow to
+Comment: 0,0:02:46.94,0:02:46.98,Default,,0,0,0,END FRAME,op end frame
 Dialogue: 0,0:01:34.99,0:01:40.20,Never - Romaji,,0,0,0,fx,{\an5\pos(406.8828125, 42)\fad(180,120)\blur2\3c&HFFA999&\t(86.00,96.50,\3c&HFFAE99&)\t(378.00,388.50,\3c&HFFAD99&)\t(503.00,513.50,\3c&HFFAC99&)\t(587.00,582.00,0.60,\3c&HE47F67&)\t(587.00,597.50,\3c&HE47E67&)\t(712.00,870.00,1.67,\3c&HFF8266&)\t(962.00,972.50,\3c&HFF8366&)\t(1171.00,1181.25,\3c&HFF8266&)\t(1254.00,1264.50,\3c&HFF8166&)\t(1296.00,1306.50,\3c&HFF8066&)\t(1338.00,1348.25,\3c&HFF7E66&)\t(1379.00,1389.50,\3c&HFF7D66&)\t(1421.00,1431.50,\3c&HFF7B66&)\t(1463.00,1473.25,\3c&HFF7966&)\t(1504.00,1514.50,\3c&HFF7866&)\t(1546.00,1556.50,\3c&HFF7566&)\t(1588.00,1598.50,\3c&HFF7466&)\t(1630.00,1640.25,\3c&HFF7866&)\t(1671.00,1681.50,\3c&HFF7A66&)\t(1713.00,1723.50,\3c&HFF7B66&)\t(1755.00,1765.25,\3c&HFF7C66&)\t(1838.00,1848.50,\3c&HFF7D66&)\t(3381.00,3391.50,\3c&HFF7C66&)\t(3465.00,3475.25,\3c&HFF7B66&)\t(3548.00,3558.50,\3c&HFF7966&)\t(3757.00,3767.25,\3c&HFF7866&)\t(4007.00,4017.50,\3c&HFF7766&)\t(4215.00,4225.50,\3c&HFF7666&)\t(4883.00,4893.25,\3c&HFF7566&)\t(4924.00,4934.50,\3c&HFF7666&)\t(5008.00,5018.50,\3c&HFF7566&)\t(5050.00,5060.25,\3c&HFF7666&)\t(490,554,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HC789AA&)\t(730,870,\bord2\1c&H040203&)}i
 Dialogue: 0,0:01:34.99,0:01:40.20,Never - Romaji,,0,0,0,fx,{\an5\pos(433.6640625, 42)\fad(180,120)\blur2\3c&HFFA999&\t(86.00,96.50,\3c&HFFAE99&)\t(378.00,388.50,\3c&HFFAD99&)\t(503.00,513.50,\3c&HFFAC99&)\t(712.00,722.50,\3c&HFFAB99&)\t(754.00,764.25,\3c&HFFAC99&)\t(795.00,805.50,\3c&HFFAB99&)\t(879.00,896.00,0.60,\3c&HE47E67&)\t(962.00,972.50,\3c&HE47F67&)\t(1004.00,1130.00,1.67,\3c&HFF8366&)\t(1171.00,1181.25,\3c&HFF8266&)\t(1254.00,1264.50,\3c&HFF8166&)\t(1296.00,1306.50,\3c&HFF8066&)\t(1338.00,1348.25,\3c&HFF7E66&)\t(1379.00,1389.50,\3c&HFF7D66&)\t(1421.00,1431.50,\3c&HFF7B66&)\t(1463.00,1473.25,\3c&HFF7966&)\t(1504.00,1514.50,\3c&HFF7866&)\t(1546.00,1556.50,\3c&HFF7566&)\t(1588.00,1598.50,\3c&HFF7466&)\t(1630.00,1640.25,\3c&HFF7866&)\t(1671.00,1681.50,\3c&HFF7A66&)\t(1713.00,1723.50,\3c&HFF7B66&)\t(1755.00,1765.25,\3c&HFF7C66&)\t(1838.00,1848.50,\3c&HFF7D66&)\t(3381.00,3391.50,\3c&HFF7C66&)\t(3465.00,3475.25,\3c&HFF7B66&)\t(3548.00,3558.50,\3c&HFF7966&)\t(3757.00,3767.25,\3c&HFF7866&)\t(4007.00,4017.50,\3c&HFF7766&)\t(4215.00,4225.50,\3c&HFF7666&)\t(4883.00,4893.25,\3c&HFF7566&)\t(4924.00,4934.50,\3c&HFF7666&)\t(5008.00,5018.50,\3c&HFF7566&)\t(5050.00,5060.25,\3c&HFF7666&)\t(810,862,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HC889A5&)\t(1005,1130,\bord2\1c&H15090F&)}ma
 Dialogue: 0,0:01:34.99,0:01:40.20,Never - Romaji,,0,0,0,fx,{\an5\pos(481.8671875, 42)\fad(180,120)\blur2\3c&HFFA999&\t(86.00,96.50,\3c&HFFAE99&)\t(378.00,388.50,\3c&HFFAD99&)\t(503.00,513.50,\3c&HFFAC99&)\t(712.00,722.50,\3c&HFFAB99&)\t(754.00,764.25,\3c&HFFAC99&)\t(795.00,805.50,\3c&HFFAB99&)\t(879.00,889.25,\3c&HFFAC99&)\t(1087.00,1097.50,\3c&HFFAD99&)\t(1129.00,1139.50,\3c&HFFAC99&)\t(1254.00,1264.50,\3c&HFFAB99&)\t(1296.00,1306.50,\3c&HFFAA99&)\t(1338.00,1348.25,\3c&HFFA999&)\t(1379.00,1389.50,\3c&HFFA899&)\t(1421.00,1414.00,0.60,\3c&HE47A67&)\t(1421.00,1431.50,\3c&HE47867&)\t(1463.00,1473.25,\3c&HE47767&)\t(1504.00,1514.50,\3c&HE47667&)\t(1546.00,1556.50,\3c&HE47467&)\t(1588.00,1720.00,1.67,\3c&HFF7A66&)\t(1755.00,1765.25,\3c&HFF7C66&)\t(1838.00,1848.50,\3c&HFF7D66&)\t(3381.00,3391.50,\3c&HFF7C66&)\t(3465.00,3475.25,\3c&HFF7B66&)\t(3548.00,3558.50,\3c&HFF7966&)\t(3757.00,3767.25,\3c&HFF7866&)\t(4007.00,4017.50,\3c&HFF7766&)\t(4215.00,4225.50,\3c&HFF7666&)\t(4883.00,4893.25,\3c&HFF7566&)\t(4924.00,4934.50,\3c&HFF7666&)\t(5008.00,5018.50,\3c&HFF7566&)\t(5050.00,5060.25,\3c&HFF7666&)\t(1320,1388,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HE8BDCB&)\t(1575,1720,\bord2\1c&H6E3046&)}ka
@@ -2199,6 +2168,35 @@ Dialogue: 0,0:02:29.80,0:02:29.98,Never - Translation - Chorus,,0,0,0,fx,{\an5\p
 Dialogue: 0,0:02:29.80,0:02:29.98,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(702.203125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFB3BC&\3c&HFFB3BC&}
 Dialogue: 0,0:02:29.79,0:02:29.97,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(713.328125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFC2B3&\3c&HFFC2B3&}t
 Dialogue: 0,0:02:29.79,0:02:29.97,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(730.03125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFE9B3&\3c&HFFE9B3&}o
+Comment: 0,0:22:05.51,0:22:05.55,Default,,0,0,0,,fingerplay
+Comment: 0,0:22:05.01,0:22:05.05,Default,Isuca ED,0,0,0,START FRAME,ed start frame
+Comment: 0,0:22:20.69,0:22:30.95,Somebody - Romaji,,0,0,0,karaoke,{\k50}{\k36}{\fad(0,0)}ya{\k32}ga{\k31}te {\k29}a{\k33}ku{\k35}mu {\k49}ni{\k61} {\k20}shi{\k31}ha{\k22}i{\k31}sa{\k30}re{\k61}ta{\k32} {\k19}ya{\k10}mi {\k19}sa{\k23}e {\k37}hi{\k37}ka{\k33}ri {\k33}ga {\k10}sa{\k150}su{\k72}
+Comment: 0,0:22:30.95,0:22:36.16,Somebody - Romaji - Right,,0,0,0,karaoke,{\k21}{\k35}{\fad(0,120)}shi{\k33}ra{\k14}zu {\k14}shi{\k22}ra{\k28}zu {\k107}ni{\k32} {\k37}hi{\k36}ki{\k13}yo{\k33}se{\k96}au{\k0}
+Comment: 0,0:22:36.16,0:22:40.88,Somebody - Romaji - Right,,0,0,0,karaoke,{\k12}{\k21}{\fad(180,0)}ke{\k17}ga{\k15}re {\k19}wo {\k27}shi{\k17}ra{\k27}nu {\k29}ta{\k34}ma{\k124}shii{\k130}
+Comment: 0,0:22:40.88,0:22:42.17,Somebody - Romaji,,0,0,0,karaoke,{\k10}{\k18}{\fad(0,400)}na{\k17}ni {\k37}wo{\k47\-hide}{\frx90} shinjireba ii
+Comment: 1,0:22:42.30,0:22:45.37,Somebody - Romaji,,0,0,0,karaoke,{\k31\-hide}{\fad(400,120)\frx90}nani wo {\k37\-none}{\frx0}shi{\k35}n{\k18}ji{\k49}re{\k31}ba {\k31}i{\k59}i{\k16}
+Comment: 0,0:22:45.88,0:22:47.51,Somebody - Romaji,,0,0,0,karaoke,{\k21}{\k19}{\fad(120,400)}do{\k20}ko {\k38}e{\frx90} {\k65\-hide}nagasarete yukeba ii
+Comment: 0,0:22:47.63,0:22:51.01,Somebody - Romaji,,0,0,0,karaoke,{\k18\-hide}{\fad(400,0)\frx90}doko e {\k39\-none}{\frx0}na{\k22}ga{\k24}sa{\k45}re{\k31}te {\k35}yu{\k33}ke{\k32}ba {\k27}i{\k32}i
+Comment: 0,0:22:51.14,0:22:56.02,Somebody - Romaji - Black,,0,0,0,karaoke,{\k0}{\k7}{\fad(400,120)}i{\k48}tsu{\k32}ka {\k34}ko{\k17}no {\k34}te {\k46}ni{\k30} {\k17}ya{\k46}su{\k35}ra{\k33}gi {\k14}no {\k32}ji{\k63}kan{\k0}
+Comment: 0,0:22:56.02,0:23:00.44,Somebody - Romaji - Black,,0,0,0,karaoke,{\k19}{\k15}{\fad(180,120)}ku{\k14}tsu{\k30}jo{\k32}ku {\k33}ni {\k33}sa{\k32}ki{\k31}ko{\k34}sa{\k30}re{\k49}ta {\k30}mi{\k19}ra{\k41}i{\k0}
+Comment: 0,0:23:00.44,0:23:06.07,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k21}{\k24}{\fad(0,0)}se{\k31}tsu{\k17}na {\k16}ga {\k15}u{\k33}goki{\k53}da{\k48}su{\k26} {\k15}ka{\k15}na{\k17}shi{\k16}mi {\k13}wa {\k16}ka{\k24}soku {\k71}su{\k92}ru{\k0}
+Comment: 0,0:23:06.07,0:23:10.82,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k58}{\k14}{\fad(0,120)}to{\k27}za{\k34}sa{\k35}re{\k28}ta {\k38}ko{\k17}ko{\k15}ro {\k27}wo{\k19} {\k17}tsu{\k16}ra{\k16}nu{\k14}ku {\k51}you {\k40}ni{\k9}
+Comment: 0,0:23:10.82,0:23:17.06,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k19}{\k16}{\fad(180,120)}e{\k15}i{\k16}e{\k15}n {\k13}ga {\k22}u{\k28}ma{\k59}re{\k43}ru{\k23} {\k19}shu{\k18}ku{\k31}mei {\k14}ni {\k15}a{\k30}ya{\k32}tsu{\k34}ra{\k155}re{\k7}
+Comment: 0,0:23:17.06,0:23:22.09,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k31}{\k18}{\fad(180,0)}na{\k17}mi{\k32}da {\k13}wo {\k13}ka{\k25}sa{\k29}ne{\k48}te{\k24} {\k35}some{\k21}bo{\k30}dy {\k18}to {\k137}love{\k12}
+Comment: 0,0:22:20.69,0:22:30.95,Somebody - Translation,,0,0,0,karaoke,{\fad(0,0)}Someday there will be a light in this nightmarish place
+Comment: 0,0:22:30.95,0:22:36.16,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(0,120)}that will bait and lure me in
+Comment: 0,0:22:36.16,0:22:40.88,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(180,0)}like an innocent soul that knows no sin
+Comment: 0,0:22:40.88,0:22:42.17,Somebody - Translation,,0,0,0,karaoke,{\fad(0,400)}I don't know{\frx90} what I should believe in
+Comment: 1,0:22:42.30,0:22:45.37,Somebody - Translation,,0,0,0,karaoke,{\fad(400,120)\frx90}I don't know {\frx0}what I should believe in
+Comment: 0,0:22:45.88,0:22:47.51,Somebody - Translation,,0,0,0,karaoke,{\fad(120,400)}I don't know{\frx90} where I should end up
+Comment: 0,0:22:47.63,0:22:51.01,Somebody - Translation,,0,0,0,karaoke,{\fad(400,0)\frx90}I don't know {\frx0}where I should end up
+Comment: 0,0:22:51.14,0:22:56.02,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(400,120)}My path is bound to be disgraceful
+Comment: 0,0:22:56.02,0:23:00.44,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(180,120)}But one day, I know I'll find peace
+Comment: 0,0:23:00.44,0:23:06.07,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,0)}The painful passing of time grows into sorrow
+Comment: 0,0:23:06.07,0:23:10.82,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,120)}and forces its way into my desolate heart
+Comment: 0,0:23:10.82,0:23:17.06,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)}When not even eternity can break free from the chains of fate,
+Comment: 0,0:23:17.06,0:23:22.09,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,0)}my tears call out for somebody to love
+Comment: 0,0:23:34.97,0:23:35.02,Default,,0,0,0,END FRAME,ed end frame
 Dialogue: 0,0:22:20.69,0:22:30.95,Somebody - Romaji,,0,0,0,fx,{\an2\pos(301.1640625, 69)\fad(0,0)\1a&HFE&\3a&HFE&\blur4\t(500,788,0.5,\fscx105\fscy112)\t(788,860,\fscx100\fscy100)}ya
 Dialogue: 1,0:22:20.69,0:22:30.95,Somebody - Romaji,,0,0,0,fx,{\an2\pos(301.1640625, 69)\fad(0,0)\shad0\1c&H5C5C7F&\t(500,860,0.5,\1c&H3532DA&)\t(500,788,0.5,\fscx105\fscy112)\t(788,860,\fscx100\fscy100)}ya
 Dialogue: 0,0:22:20.69,0:22:30.95,Somebody - Romaji,,0,0,0,fx,{\an2\pos(332.953125, 69)\fad(0,0)\1a&HFE&\3a&HFE&\blur4\t(860,1116,0.5,\fscx105\fscy112)\t(1116,1180,\fscx100\fscy100)}ga
@@ -2699,3 +2697,4 @@ Dialogue: 0,0:23:17.06,0:23:22.09,Somebody - Translation - Chorus,,0,0,0,fx,{\fa
 Dialogue: 0,0:23:17.06,0:23:22.09,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(856.109375, 674.5)\3c&H492A10&\4c&H492A10&\t(0,1,\3c&H492A10&\4c&H492A10&)\t(42,43,\3c&H492B11&\4c&H492B11&)\t(83,84,\3c&H4A2B12&\4c&H4A2B12&)\t(125,126,\3c&H4A2C13&\4c&H4A2C13&)\t(167,168,\3c&H4B2C13&\4c&H4B2C13&)\t(209,210,\3c&H4D2C13&\4c&H4D2C13&)\t(250,251,\3c&H4D2D13&\4c&H4D2D13&)\t(292,293,\3c&H4E2E13&\4c&H4E2E13&)\t(334,335,\3c&H4F2F14&\4c&H4F2F14&)\t(417,418,\3c&H503015&\4c&H503015&)\t(501,502,\3c&H503016&\4c&H503016&)\t(542,543,\3c&H513016&\4c&H513016&)\t(626,627,\3c&H503116&\4c&H503116&)\t(667,668,\3c&H513016&\4c&H513016&)\t(709,710,\3c&H513116&\4c&H513116&)\t(751,752,\3c&H513115&\4c&H513115&)\t(792,793,\3c&H513015&\4c&H513015&)\t(834,835,\3c&H503014&\4c&H503014&)\t(876,877,\3c&H503013&\4c&H503013&)\t(918,919,\3c&H502F12&\4c&H502F12&)\t(959,960,\3c&H502F10&\4c&H502F10&)\t(1001,1002,\3c&H502E0F&\4c&H502E0F&)\t(1043,1044,\3c&H4F2D0E&\4c&H4F2D0E&)\t(1084,1085,\3c&H4F2C0C&\4c&H4F2C0C&)\t(1126,1127,\3c&H4E2B0B&\4c&H4E2B0B&)\t(1168,1169,\3c&H4C2A0A&\4c&H4C2A0A&)\t(1210,1211,\3c&H4B2809&\4c&H4B2809&)\t(1251,1252,\3c&H4A2708&\4c&H4A2708&)\t(1293,1294,\3c&H482507&\4c&H482507&)\t(1335,1336,\3c&H472407&\4c&H472407&)\t(1376,1377,\3c&H452207&\4c&H452207&)\t(1418,1419,\3c&H442106&\4c&H442106&)\t(1460,1461,\3c&H431F06&\4c&H431F06&)\t(1502,1503,\3c&H411E06&\4c&H411E06&)\t(1543,1544,\3c&H401D07&\4c&H401D07&)\t(1585,1586,\3c&H3F1C07&\4c&H3F1C07&)\t(1627,1628,\3c&H3F1A08&\4c&H3F1A08&)\t(1668,1669,\3c&H3E1909&\4c&H3E1909&)\t(1710,1711,\3c&H3D1909&\4c&H3D1909&)\t(1752,1753,\3c&H3C190A&\4c&H3C190A&)\t(1960,1961,\3c&H3C190B&\4c&H3C190B&)\t(2044,2045,\3c&H3D190A&\4c&H3D190A&)\t(2127,2128,\3c&H3C190B&\4c&H3C190B&)\t(2169,2170,\3c&H3C180B&\4c&H3C180B&)\t(2211,2212,\3c&H3B170B&\4c&H3B170B&)\t(2252,2253,\3c&H3B160B&\4c&H3B160B&)\t(2294,2295,\3c&H3A150B&\4c&H3A150B&)\t(2336,2337,\3c&H39150C&\4c&H39150C&)\t(2377,2378,\3c&H66573A&\4c&H66573A&)\t(2669,2670,\3c&H4D4328&\4c&H4D4328&)\t(2878,2879,\3c&H4C4328&\4c&H4C4328&)\t(2961,2962,\3c&H4D4328&\4c&H4D4328&)\t(3003,3004,\3c&H4D4327&\4c&H4D4327&)\t(3086,3087,\3c&H665B5C&\4c&H665B5C&)\t(3128,3129,\3c&H665B5D&\4c&H665B5D&)\t(3170,3171,\3c&H665B5C&\4c&H665B5C&)\t(3337,3338,\3c&H665B5B&\4c&H665B5B&)\t(3378,3379,\3c&H4C4328&\4c&H4C4328&)\t(3462,3463,\3c&H4C4428&\4c&H4C4428&)\t(3504,3505,\3c&H4D4428&\4c&H4D4428&)\t(3670,3671,\3c&H4D4328&\4c&H4D4328&)\t(4004,4005,\3c&H001B28&\4c&H001B28&)\t(4505,4506,\3c&H665A5D&\4c&H665A5D&)\t(4546,4547,\3c&H665A5E&\4c&H665A5E&)\t(4588,4589,\3c&H665A5D&\4c&H665A5D&)\t(4671,4672,\3c&H354C56&\4c&H354C56&)\blur3}o
 Dialogue: 0,0:23:17.06,0:23:22.09,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(872.34375, 674.5)\3c&H4D2C09&\4c&H4D2C09&\t(0,1,\3c&H4D2C09&\4c&H4D2C09&)\t(83,84,\3c&H4E2C0B&\4c&H4E2C0B&)\t(125,126,\3c&H4E2D0B&\4c&H4E2D0B&)\t(167,168,\3c&H4E2D0C&\4c&H4E2D0C&)\t(209,210,\3c&H4F2D0C&\4c&H4F2D0C&)\t(250,251,\3c&H502D0D&\4c&H502D0D&)\t(292,293,\3c&H502E0D&\4c&H502E0D&)\t(334,335,\3c&H512F0E&\4c&H512F0E&)\t(375,376,\3c&H512F0F&\4c&H512F0F&)\t(417,418,\3c&H512F10&\4c&H512F10&)\t(501,502,\3c&H512F11&\4c&H512F11&)\t(542,543,\3c&H522F11&\4c&H522F11&)\t(584,585,\3c&H523012&\4c&H523012&)\t(626,627,\3c&H513112&\4c&H513112&)\t(667,668,\3c&H523012&\4c&H523012&)\t(709,710,\3c&H523011&\4c&H523011&)\t(792,793,\3c&H523111&\4c&H523111&)\t(876,877,\3c&H523110&\4c&H523110&)\t(918,919,\3c&H52310F&\4c&H52310F&)\t(959,960,\3c&H52310D&\4c&H52310D&)\t(1001,1002,\3c&H53310C&\4c&H53310C&)\t(1043,1044,\3c&H52300B&\4c&H52300B&)\t(1084,1085,\3c&H522F0A&\4c&H522F0A&)\t(1126,1127,\3c&H522F09&\4c&H522F09&)\t(1168,1169,\3c&H512F08&\4c&H512F08&)\t(1210,1211,\3c&H512E08&\4c&H512E08&)\t(1251,1252,\3c&H502D07&\4c&H502D07&)\t(1293,1294,\3c&H4F2C07&\4c&H4F2C07&)\t(1335,1336,\3c&H4F2C06&\4c&H4F2C06&)\t(1376,1377,\3c&H4E2B07&\4c&H4E2B07&)\t(1418,1419,\3c&H4D2B07&\4c&H4D2B07&)\t(1460,1461,\3c&H4C2A07&\4c&H4C2A07&)\t(1502,1503,\3c&H4C2907&\4c&H4C2907&)\t(1543,1544,\3c&H4B2908&\4c&H4B2908&)\t(1585,1586,\3c&H4A2808&\4c&H4A2808&)\t(1627,1628,\3c&H4A2709&\4c&H4A2709&)\t(1668,1669,\3c&H4A2609&\4c&H4A2609&)\t(1710,1711,\3c&H49260A&\4c&H49260A&)\t(1752,1753,\3c&H48260A&\4c&H48260A&)\t(1835,1836,\3c&H492609&\4c&H492609&)\t(1919,1920,\3c&H492608&\4c&H492608&)\t(2085,2086,\3c&H492607&\4c&H492607&)\t(2127,2128,\3c&H492507&\4c&H492507&)\t(2211,2212,\3c&H482407&\4c&H482407&)\t(2252,2253,\3c&H482207&\4c&H482207&)\t(2336,2337,\3c&H472208&\4c&H472208&)\t(2377,2378,\3c&H66563A&\4c&H66563A&)\t(2669,2670,\3c&H544723&\4c&H544723&)\t(2711,2712,\3c&H544623&\4c&H544623&)\t(3086,3087,\3c&H665A5A&\4c&H665A5A&)\t(3128,3129,\3c&H665A5B&\4c&H665A5B&)\t(3170,3171,\3c&H665A5A&\4c&H665A5A&)\t(3295,3296,\3c&H665A5B&\4c&H665A5B&)\t(3337,3338,\3c&H665A5A&\4c&H665A5A&)\t(3378,3379,\3c&H544723&\4c&H544723&)\t(4004,4005,\3c&H001A27&\4c&H001A27&)\t(4254,4255,\3c&H001A26&\4c&H001A26&)\t(4296,4297,\3c&H001A27&\4c&H001A27&)\t(4505,4506,\3c&H66595B&\4c&H66595B&)\t(4671,4672,\3c&H424851&\4c&H424851&)\t(4713,4714,\3c&H434751&\4c&H434751&)\blur3}v
 Dialogue: 0,0:23:17.06,0:23:22.09,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(888.0234375, 674.5)\3c&H512E07&\4c&H512E07&\t(0,1,\3c&H512E07&\4c&H512E07&)\t(42,43,\3c&H512E08&\4c&H512E08&)\t(83,84,\3c&H512E09&\4c&H512E09&)\t(125,126,\3c&H512E0B&\4c&H512E0B&)\t(167,168,\3c&H512F0C&\4c&H512F0C&)\t(209,210,\3c&H522F0C&\4c&H522F0C&)\t(250,251,\3c&H522F0E&\4c&H522F0E&)\t(292,293,\3c&H52300E&\4c&H52300E&)\t(334,335,\3c&H522F10&\4c&H522F10&)\t(375,376,\3c&H523010&\4c&H523010&)\t(417,418,\3c&H523012&\4c&H523012&)\t(459,460,\3c&H533012&\4c&H533012&)\t(501,502,\3c&H522F13&\4c&H522F13&)\t(542,543,\3c&H532F13&\4c&H532F13&)\t(584,585,\3c&H533013&\4c&H533013&)\t(626,627,\3c&H533213&\4c&H533213&)\t(667,668,\3c&H533013&\4c&H533013&)\t(709,710,\3c&H543013&\4c&H543013&)\t(792,793,\3c&H543212&\4c&H543212&)\t(834,835,\3c&H533113&\4c&H533113&)\t(876,877,\3c&H543211&\4c&H543211&)\t(918,919,\3c&H533011&\4c&H533011&)\t(959,960,\3c&H533010&\4c&H533010&)\t(1001,1002,\3c&H53300E&\4c&H53300E&)\t(1043,1044,\3c&H53300D&\4c&H53300D&)\t(1084,1085,\3c&H532F0D&\4c&H532F0D&)\t(1126,1127,\3c&H532F0C&\4c&H532F0C&)\t(1168,1169,\3c&H53300B&\4c&H53300B&)\t(1210,1211,\3c&H522F0B&\4c&H522F0B&)\t(1251,1252,\3c&H52300A&\4c&H52300A&)\t(1293,1294,\3c&H522F0A&\4c&H522F0A&)\t(1335,1336,\3c&H52300A&\4c&H52300A&)\t(1376,1377,\3c&H52300B&\4c&H52300B&)\t(1460,1461,\3c&H52300C&\4c&H52300C&)\t(1502,1503,\3c&H51300D&\4c&H51300D&)\t(1543,1544,\3c&H51300E&\4c&H51300E&)\t(1585,1586,\3c&H51300F&\4c&H51300F&)\t(1627,1628,\3c&H512F0F&\4c&H512F0F&)\t(1668,1669,\3c&H512F10&\4c&H512F10&)\t(1752,1753,\3c&H502F10&\4c&H502F10&)\t(1793,1794,\3c&H502F0F&\4c&H502F0F&)\t(1835,1836,\3c&H512F0E&\4c&H512F0E&)\t(1919,1920,\3c&H512F0D&\4c&H512F0D&)\t(2085,2086,\3c&H512E0C&\4c&H512E0C&)\t(2127,2128,\3c&H522E0C&\4c&H522E0C&)\t(2169,2170,\3c&H522E0B&\4c&H522E0B&)\t(2211,2212,\3c&H512E0C&\4c&H512E0C&)\t(2252,2253,\3c&H522D0C&\4c&H522D0C&)\t(2294,2295,\3c&H512D0C&\4c&H512D0C&)\t(2336,2337,\3c&H512D0D&\4c&H512D0D&)\t(2377,2378,\3c&H66563A&\4c&H66563A&)\t(2669,2670,\3c&H604E23&\4c&H604E23&)\t(2711,2712,\3c&H604D23&\4c&H604D23&)\t(2794,2795,\3c&H604C23&\4c&H604C23&)\t(2836,2837,\3c&H604D23&\4c&H604D23&)\t(2878,2879,\3c&H5F4D23&\4c&H5F4D23&)\t(2920,2921,\3c&H604D23&\4c&H604D23&)\t(3086,3087,\3c&H665A59&\4c&H665A59&)\t(3295,3296,\3c&H665959&\4c&H665959&)\t(3337,3338,\3c&H665A59&\4c&H665A59&)\t(3378,3379,\3c&H604E22&\4c&H604E22&)\t(4004,4005,\3c&H001925&\4c&H001925&)\t(4505,4506,\3c&H665858&\4c&H665858&)\t(4671,4672,\3c&H544A53&\4c&H544A53&)\t(4713,4714,\3c&H554953&\4c&H554953&)\t(4755,4756,\3c&H564953&\4c&H564953&)\t(4796,4797,\3c&H554953&\4c&H554953&)\t(4838,4839,\3c&H564953&\4c&H564953&)\t(4880,4881,\3c&H554953&\4c&H554953&)\t(5005,5006,\3c&H564953&\4c&H564953&)\blur3}e
+Comment: 0,0:22:00.36,0:22:02.36,Default,,0,0,0,,{EOF}

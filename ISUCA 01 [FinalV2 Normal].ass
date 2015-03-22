@@ -62,98 +62,6 @@ Comment: 0,0:10:29.06,0:10:29.10,TrueName,,0,0,0,,{Eyecatch}
 Comment: 0,0:10:34.07,0:10:34.11,TrueName,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:05.05,0:22:05.09,TrueName,chapter,0,0,0,,{ED}
 Comment: 0,0:23:35.06,0:23:35.10,TrueName,,0,0,0,,{Endcard}
-Comment: 21,0:09:23.33,0:09:24.21,TrueName,Shinichirou,0,0,0,,Huh?
-Comment: 21,0:09:58.07,0:09:58.91,TrueName,Shinichirou,0,0,0,,Ow...
-Comment: 21,0:10:28.06,0:10:29.06,TrueName,Sakuya,0,0,0,,Ah...
-Comment: 21,0:13:24.11,0:13:26.61,TrueName,Tamako,0,0,0,,Ow...
-Comment: 22,0:09:23.33,0:09:24.21,TrueNamePink,Shinichirou,0,0,0,,Huh?
-Comment: 22,0:09:58.07,0:09:58.91,TrueNamePink,Shinichirou,0,0,0,,Ow...
-Comment: 22,0:10:28.06,0:10:29.06,TrueNamePink,Sakuya,0,0,0,,Ah...
-Comment: 22,0:13:24.11,0:13:26.61,TrueNamePink,Tamako,0,0,0,,Ow...
-Comment: 0,0:23:40.60,0:23:42.60,Signs,,0,0,0,,
-Comment: 0,0:23:40.60,0:23:42.60,Signs-Dstyle,,0,0,0,,
-Comment: 0,0:01:59.05,0:01:59.09,Default,Isuca OP,0,0,0,START FRAME,op start frame
-Comment: 0,0:01:59.05,0:01:59.09,Default,,0,0,0,code once,_G.require "lnlib"; _G.require "framereader"; _G.initkara(tenv); init_framereader(); _G.framereader.offset(1)
-Comment: 0,0:01:59.05,0:01:59.09,Default,,0,0,0,code line all,sb = -60
-Comment: 0,0:01:59.05,0:01:59.09,Default,,0,0,0,code line all,fxgroup.shine_out = line.actor:find("shine_out") ~= nil
-Comment: 0,0:01:59.05,0:01:59.09,Never - Romaji,,0,0,0,template syl,{!pos()!!tag("fad")!\blur2!ictf(3,1,640,360,"square",20,1280,720,function(c) return sethsl(c,nil,1,0.8) end,function(c) return sethsl(c,nil,0.7,0.65) end,syl.duration*0.1,syl.duration*0.5,0.6)!\t(!st(0)!,!st(0.2)!,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c!c2s(hsladd(screenc(line.start_time+syl.start_time,line.left+syl.center,line.middle),1/8-syl.center/line.width/4,0,0.5))!)\t(!st(0.75)!,!syl.end_time!,\bord!line.styleref.outline!\1c!c2s(hsladd(screenc(line.start_time+syl.end_time,line.left+syl.center,line.middle),1/8-syl.center/line.width/4,0,-0.15))!)}
-Comment: 0,0:01:59.05,0:01:59.09,Never - Romaji,,0,0,0,template char fxgroup shine_out,!retime("postline",-(line.width-syl.center)/5-240,-(line.width-syl.center)/5)!{!pos()!\1a&H00&\3a&H00&\fad(80,80)\bord6\blur6\1c!c2s(hslc(1/2-syl.center/line.width,1,1))!\3c!c2s(hslc(1/2-syl.center/line.width,1,1))!}
-Comment: 0,0:01:59.05,0:01:59.09,Never - Romaji - Chorus,,0,0,0,template char,{!pos()!!tag("fad")!\blur2!ictf(3,3,640,360,"square",20,1280,720,function(c, t) return sethsl(hsladd(c,0.2*((syl.center/line.width)-1/2)),nil,1,0.75) end,function(c) return sethsl(hsladd(c,0.2*((syl.center/line.width)-1/2)),nil,1,0.65) end,syl.duration*0.1,syl.duration*0.5,0.6)!\t(!st(0)!,!st(0.2)!,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HFFFFFF&)\t(!st(0.75)!,!syl.end_time!,\bord!line.styleref.outline!\1c!c2s(sethsl(hsladd(screenc(line.start_time+syl.end_time,line.left+syl.center,line.middle),1/8-syl.center/line.width/4,0,0),nil,1,0.15))!)}
-Comment: 0,0:01:59.05,0:01:59.09,Never - Romaji - Chorus,,0,0,0,template char,!retime("preline",syl.center/3,syl.center/3+180)!{!pos()!\alpha&H00&\fad(70,70)\bord4\blur8\1c!c2s(hslc(1/2-syl.center/line.width,1,0.85))!\3c!c2s(hslc(1/2-syl.center/line.width,1,0.85))!}
-Comment: 0,0:01:59.05,0:01:59.09,Never - Translation,,0,0,0,template line,{!tag("fad")!\blur2!ictf(3,1,640,360,"square",20,1280,720,function(c) return sethsl(c,nil,1,0.8) end)!}
-Comment: 0,0:01:59.05,0:01:59.09,Never - Translation,,0,0,0,template char fxgroup shine_out,!retime("postline",-(syl.center)/5-240,-(syl.center)/5)!{!pos()!\1a&H00&\3a&H00&\fad(80,80)\bord6\blur6\1c!c2s(hslc(1/2-syl.center/line.width,1,1))!\3c!c2s(hslc(1/2-syl.center/line.width,1,1))!}
-Comment: 0,0:01:59.05,0:01:59.09,Never - Translation - Chorus,,0,0,0,template char,{!pos()!!tag("fad")!\blur2!ictf(3,3,640,360,"square",20,1280,720,function(c, t) return sethsl(hsladd(c,0.2*(1/2-(syl.center/line.width))),nil,1,0.75) end)!}
-Comment: 0,0:01:59.05,0:01:59.09,Never - Translation - Chorus,,0,0,0,template char,!retime("preline",(line.width-syl.center)/3,(line.width-syl.center)/3+180)!{!pos()!\alpha&H00&\fad(70,70)\bord4\blur8\1c!c2s(hslc(1/2-syl.center/line.width,1,0.85))!\3c!c2s(hslc(1/2-syl.center/line.width,1,0.85))!}
-Comment: 0,0:02:17.03,0:02:22.24,Never - Romaji,,0,0,0,karaoke,{\ko55}{\ko32}{\fad(180,120)\blur2}i{\ko26}ma{\ko25} {\ko34}ka{\ko32}n{\ko33}ji{\ko32}te{\ko25}ru{\ko21} {\ko31}te {\ko24}wo{\ko25} {\ko36}no{\ko30}ba{\ko32}shi{\ko28}ta{\ko0}ra{\ko0}
-Comment: 0,0:02:22.24,0:02:27.46,Never - Romaji,shine_out,0,0,0,karaoke,{\ko53}{\ko31}{\fad(180,120)\blur2}so{\ko22}ra{\ko26} {\ko34}ta{\ko34}ka{\ko31}ku {\ko15}ki{\ko17}ra{\ko16}me{\ko67}ku {\ko61}ryuu{\ko66}se{\ko49}i{\ko0}
-Comment: 0,0:02:27.46,0:02:32.71,Never - Romaji,,0,0,0,karaoke,{\ko50}{\ko34}{\fad(180,120)\blur2}zut{\ko28}to{\ko18} {\ko34}o{\ko32}i{\ko32}ka{\ko34}ke{\ko31}te{\ko16} {\ko33}nan{\ko28}do{\ko20} {\ko33}ko{\ko33}ro{\ko32}n{\ko37}de{\ko0}mo{\ko0}
-Comment: 0,0:02:32.71,0:02:38.42,Never - Romaji,shine_out,0,0,0,karaoke,{\ko43}{\ko34}{\fad(180,120)\blur2}mo{\ko30}u{\ko17} {\ko34}to{\ko32}me{\ko31}ra{\ko15}re{\ko18}na{\ko17}i {\ko65}shou{\ko65}dou {\ko63}nan{\ko64}da{\ko43}
-Comment: 0,0:02:38.42,0:02:43.43,Never - Romaji,shine_out,0,0,0,karaoke,{\ko22}{\ko35}{\fad(180,120)\blur2}yo{\ko17}zo{\ko47}ra {\ko34}ni {\ko17}bo{\ko31}ku{\ko17}ta{\ko65}chi {\ko53}no {\ko13}su{\ko46}to{\ko17}o{\ko64}ri{\ko23}
-Comment: 0,0:02:43.43,0:02:49.98,Never - Romaji,,0,0,0,karaoke,{\ko41}{\ko31}{\fad(180,120)\blur2}sa{\ko17}i{\ko49}sho {\ko35}no {\ko17}i{\ko29}chi {\ko18}pe{\ko32}e{\ko34}ji {\ko32}me{\ko16}ku{\ko38}ri{\ko26} {\ko18}yu{\ko16}u{\ko15}ki {\ko16}da{\ko144}su{\ko31}
-Comment: 0,0:02:49.98,0:02:55.15,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko6}{\ko16}{\fad(180,120)\blur2}me{\ko16}gu{\ko15}ri {\ko16}me{\ko16}gu{\ko16}ru {\ko33}mi{\ko32}ra{\ko32}i {\ko33}e {\ko33}to{\ko15} {\ko17}bo{\ko16}ku{\ko16}ra {\ko14}i{\ko16}ma {\ko34}ka{\ko34}ke{\ko32}da{\ko32}shi{\ko27}te{\ko0}
-Comment: 0,0:02:55.15,0:03:00.28,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko20}{\fad(180,120)\blur2}na{\ko13}n{\ko17}ju{\ko13}u {\ko15}o{\ko68}ku {\ko62}nen {\ko48}sa{\ko16}ki {\ko33}e{\ko17} {\ko18}to{\ko32}do{\ko16}ku {\ko32}yo{\ko33}u {\ko37}ni{\ko0}
-Comment: 0,0:03:00.28,0:03:03.03,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko27}{\ko17}{\fad(180,120)\blur2}ha{\ko16}ru{\ko17}ka {\ko17}ka{\ko15}na{\ko32}ta {\ko33}no {\ko32}so{\ko32}ra {\ko30}e{\ko7}
-Comment: 1,0:03:02.82,0:03:07.04,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko35}{\ko17}{\fad(180,120)\blur2}u{\ko15}tsu{\ko15}tsu {\ko16}yu{\ko17}me {\ko32}no {\ko33}ka{\ko32}ke{\ko33}ra {\ko31}wo {\ko32}tsu{\ko16}ka{\ko32}n{\ko47}de{\ko19}
-Comment: 0,0:03:07.04,0:03:11.83,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko17}{\ko33}{\fad(180,120)\blur2}se{\ko30}i{\ko35}ja{\ko32}ku {\ko32}no {\ko34}ya{\ko43}mi {\ko22}sa{\ko23}e{\ko24} {\ko17}i{\ko46}nu{\ko17}ku {\ko74}yo{\ko0}
-Comment: 0,0:03:11.83,0:03:14.59,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko34}{\fad(180,120)\blur2}tsu{\ko33}yo{\ko31}ku {\ko34}ne{\ko32}ga{\ko31}u{\ko17}n{\ko41}da{\ko0}
-Comment: 0,0:03:14.59,0:03:21.93,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko69}{\ko35}{\fad(180,120)\blur2}just {\ko22}ne{\ko25}ver {\ko35}say {\ko29}ne{\ko282}ver{\ko237}
-Comment: 0,0:02:17.03,0:02:22.24,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I throw out my hands
-Comment: 0,0:02:22.24,0:02:27.46,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}trying to catch a star falling from the sky
-Comment: 0,0:02:27.46,0:02:32.71,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I don't care how much I stumble chasing it,{I always chase after it, but I don't care if I trip and fall}
-Comment: 0,0:02:32.71,0:02:38.42,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}nothing can extinguish my passion
-Comment: 0,0:02:38.42,0:02:43.43,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}Our story is written on the night sky
-Comment: 0,0:02:43.43,0:02:49.98,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}Let's gather our courage and turn the first page
-Comment: 0,0:02:49.98,0:02:55.15,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We leap toward our bright future
-Comment: 0,0:02:55.15,0:03:00.28,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}Together we can overcome any distance
-Comment: 0,0:03:00.28,0:03:03.03,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,200)\blur2}To faraway skies
-Comment: 1,0:03:02.82,0:03:07.04,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(200,120)\blur2}where we'll piece together our dreams
-Comment: 0,0:03:07.04,0:03:11.83,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We'll pierce through the silent darkness,
-Comment: 0,0:03:11.83,0:03:14.59,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}as we vow to
-Comment: 0,0:03:28.98,0:03:29.02,Default,,0,0,0,END FRAME,op end frame
-Comment: 0,0:22:05.05,0:22:05.09,Default,Isuca ED,0,0,0,START FRAME,ed start frame
-Comment: 0,0:01:59.05,0:01:59.09,Default,,0,0,0,code once,_G.require "lnlib"; _G.require "framereader"; _G.initkara(tenv); init_framereader(); _G.framereader.offset(1);
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji,,0,0,0,code syl,fxgroup.draw = (syl.inline_fx ~= "hide" or syl.inline_fx == nil)
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji - Right,,0,0,0,template syl noblank,!relayer(0)!{!tag("fad")!!pos(2,2)!\1a&HFE&\3a&HFE&\blur4\t(!st(0)!,!st(0.8)!,0.5,\fscx105\fscy112)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji - Right,,0,0,0,template syl noblank,!relayer(1)!{!tag("fad")!!pos(2,2)!\shad0\1c!gsc(2)!\t(!st(0)!,!st(1)!,0.5,\1c!gsc(1)!)\t(!st(0)!,!st(0.8)!,0.5,\fscx105\fscy112)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji,,0,0,0,template syl fxgroup draw noblank,!relayer(0)!{!pos(2,2)!!tag("fad")!\1a&HFE&\3a&HFE&\blur4\t(!st(0)!,!st(0.8)!,0.5,\fscx105\fscy112)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji,,0,0,0,template syl fxgroup draw noblank,!relayer(1)!{!pos(2,2)!!tag("fad")!\shad0\1c!gsc(2)!\t(!st(0)!,!st(1)!,0.5,\1c!gsc(1)!)\t(!st(0)!,!st(0.8)!,0.5,\fscx105\fscy112)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji - Black,,0,0,0,template syl noblank,{!tag("fad")!!pos()!\1a&H80&\t(!st(0)!,!st(1)!,0.5,\1a!gsa(1)!)\t(!st(0)!,!st(0.8)!,0.5,\fscx110\fscy120)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji - Chorus,,0,0,0,template char noblank,{!tag("fad")!!pos()!!ictf({3,4},1,nil,nil,nil,nil,32,16,function(c) return rgbmul(hslmul(c,1,12),0.4,0.4,0.4) end)!\blur3\1a&H80&\t(!st(0)!,!st(0.4)!,0.5,\1a!gsa(1)!\1c!c2s(sethsl(screenc(lt(0)+st(0.4)),nil,1,0.8))!\bord3\blur4)\t(!st(0.4)!,!st(1)!,1.3,\1c!gsc(1)!\bord!line.styleref.outline!\blur3)\t(!st(0)!,!st(0.8)!,0.5,\fscy108)\t(!st(0.8)!,!st(1)!,\fscy100)}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation - Right,,0,0,0,template line,!relayer(0)!{!tag("fad")!!pos()!\1a&HFE&\3a&HFE&\blur4}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation - Right,,0,0,0,template line,!relayer(1)!{!tag("fad")!!pos()!\shad0}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation,,0,0,0,template line notext,!relayer(0)!{!pos()!\1a&HFE&\3a&HFE&\blur4}!text(false)!
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation,,0,0,0,template line notext,!relayer(1)!{!pos()!\shad0}!text(false)!
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation - Black,,0,0,0,template line,{!tag("fad")!!pos()!}
-Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation - Chorus,,0,0,0,template char,{!tag("fad")!!pos()!!ictf({3,4},1,nil,nil,nil,nil,32,16,function(c) return rgbmul(hslmul(c,1,12),0.4,0.4,0.4) end)!\blur3}
-Comment: 0,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,karaoke,{\k50}{\k36}{\fad(0,0)}ya{\k32}ga{\k31}te {\k29}a{\k33}ku{\k35}mu {\k49}ni{\k61} {\k20}shi{\k31}ha{\k22}i{\k31}sa{\k30}re{\k61}ta{\k32} {\k19}ya{\k10}mi {\k19}sa{\k23}e {\k37}hi{\k37}ka{\k33}ri {\k33}ga {\k10}sa{\k150}su{\k72}
-Comment: 0,0:22:30.99,0:22:36.20,Somebody - Romaji - Right,,0,0,0,karaoke,{\k21}{\k35}{\fad(0,120)}shi{\k33}ra{\k14}zu {\k14}shi{\k22}ra{\k28}zu {\k107}ni{\k32} {\k37}hi{\k36}ki{\k13}yo{\k33}se{\k96}au{\k0}
-Comment: 0,0:22:36.20,0:22:40.92,Somebody - Romaji - Right,,0,0,0,karaoke,{\k12}{\k21}{\fad(180,0)}ke{\k17}ga{\k15}re {\k19}wo {\k27}shi{\k17}ra{\k27}nu {\k29}ta{\k34}ma{\k124}shii{\k130}
-Comment: 0,0:22:40.92,0:22:42.21,Somebody - Romaji,,0,0,0,karaoke,{\k10}{\k18}{\fad(0,400)}na{\k17}ni {\k37}wo{\k47\-hide}{\frx90} shinjireba ii
-Comment: 1,0:22:42.34,0:22:45.41,Somebody - Romaji,,0,0,0,karaoke,{\k31\-hide}{\fad(400,120)\frx90}nani wo {\k37\-none}{\frx0}shi{\k35}n{\k18}ji{\k49}re{\k31}ba {\k31}i{\k59}i{\k16}
-Comment: 0,0:22:45.92,0:22:47.55,Somebody - Romaji,,0,0,0,karaoke,{\k21}{\k19}{\fad(120,400)}do{\k20}ko {\k38}e{\frx90} {\k65\-hide}nagasarete yukeba ii
-Comment: 0,0:22:47.67,0:22:51.05,Somebody - Romaji,,0,0,0,karaoke,{\k18\-hide}{\fad(400,0)\frx90}doko e {\k39\-none}{\frx0}na{\k22}ga{\k24}sa{\k45}re{\k31}te {\k35}yu{\k33}ke{\k32}ba {\k27}i{\k32}i
-Comment: 0,0:22:51.18,0:22:56.06,Somebody - Romaji - Black,,0,0,0,karaoke,{\k0}{\k7}{\fad(400,120)}i{\k48}tsu{\k32}ka {\k34}ko{\k17}no {\k34}te {\k46}ni{\k30} {\k17}ya{\k46}su{\k35}ra{\k33}gi {\k14}no {\k32}ji{\k63}kan{\k0}
-Comment: 0,0:22:56.06,0:23:00.48,Somebody - Romaji - Black,,0,0,0,karaoke,{\k19}{\k15}{\fad(180,120)}ku{\k14}tsu{\k30}jo{\k32}ku {\k33}ni {\k33}sa{\k32}ki{\k31}ko{\k34}sa{\k30}re{\k49}ta {\k30}mi{\k19}ra{\k41}i{\k0}
-Comment: 0,0:23:00.48,0:23:06.11,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k21}{\k24}{\fad(0,0)}se{\k31}tsu{\k17}na {\k16}ga {\k15}u{\k33}goki{\k53}da{\k48}su{\k26} {\k15}ka{\k15}na{\k17}shi{\k16}mi {\k13}wa {\k16}ka{\k24}soku {\k71}su{\k92}ru{\k0}
-Comment: 0,0:23:06.11,0:23:10.86,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k58}{\k14}{\fad(0,120)}to{\k27}za{\k34}sa{\k35}re{\k28}ta {\k38}ko{\k17}ko{\k15}ro {\k27}wo{\k19} {\k17}tsu{\k16}ra{\k16}nu{\k14}ku {\k51}you {\k40}ni{\k9}
-Comment: 0,0:23:10.86,0:23:17.10,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k19}{\k16}{\fad(180,120)}e{\k15}i{\k16}e{\k15}n {\k13}ga {\k22}u{\k28}ma{\k59}re{\k43}ru{\k23} {\k19}shu{\k18}ku{\k31}mei {\k14}ni {\k15}a{\k30}ya{\k32}tsu{\k34}ra{\k155}re{\k7}
-Comment: 0,0:23:17.10,0:23:22.13,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k31}{\k18}{\fad(180,0)}na{\k17}mi{\k32}da {\k13}wo {\k13}ka{\k25}sa{\k29}ne{\k48}te{\k24} {\k35}some{\k21}bo{\k30}dy {\k18}to {\k137}love{\k12}
-Comment: 0,0:22:20.73,0:22:30.99,Somebody - Translation,,0,0,0,karaoke,{\fad(0,0)}Someday there will be a light in this nightmarish place
-Comment: 0,0:22:30.99,0:22:36.20,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(0,120)}that will bait and lure me in
-Comment: 0,0:22:36.20,0:22:40.92,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(180,0)}like an innocent soul that knows no sin
-Comment: 0,0:22:40.92,0:22:42.21,Somebody - Translation,,0,0,0,karaoke,{\fad(0,400)}I don't know{\frx90} what I should believe in
-Comment: 1,0:22:42.34,0:22:45.41,Somebody - Translation,,0,0,0,karaoke,{\fad(400,120)\frx90}I don't know {\frx0}what I should believe in
-Comment: 0,0:22:45.92,0:22:47.55,Somebody - Translation,,0,0,0,karaoke,{\fad(120,400)}I don't know{\frx90} where I should end up
-Comment: 0,0:22:47.67,0:22:51.05,Somebody - Translation,,0,0,0,karaoke,{\fad(400,0)\frx90}I don't know {\frx0}where I should end up
-Comment: 0,0:22:51.18,0:22:56.06,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(400,120)}My path is bound to be disgraceful
-Comment: 0,0:22:56.06,0:23:00.48,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(180,120)}But one day, I know I'll find peace
-Comment: 0,0:23:00.48,0:23:06.11,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,0)}The painful passing of time grows into sorrow
-Comment: 0,0:23:06.11,0:23:10.86,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,120)}and forces its way into my desolate heart
-Comment: 0,0:23:10.86,0:23:17.10,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)}When not even eternity can break free from the chains of fate,
-Comment: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,0)}my tears call out for somebody to love
-Comment: 0,0:23:35.01,0:23:35.06,Default,,0,0,0,END FRAME,ed end frame
-Comment: 0,0:23:40.60,0:23:42.60,Signs-Dstyle,,0,0,0,,
-
 Dialogue: 21,0:00:25.73,0:00:29.81,TrueName,Shinichirou,0,0,0,,{\i1}My body... won't move!
 Dialogue: 21,0:01:02.31,0:01:05.50,TrueName,Centipede,0,0,0,,I'll let you experience the ultimate pleasure...
 Dialogue: 21,0:01:07.54,0:01:10.49,TrueName,Centipede,0,0,0,,in exchange for your life force.
@@ -293,6 +201,7 @@ Dialogue: 21,0:09:16.03,0:09:17.28,TrueName,Shinichirou,0,0,0,,Stop it!
 Dialogue: 21,0:09:17.28,0:09:19.33,TrueName,Sakuya,0,0,0,,I'll shoot you too if you don't move out of the way.
 Dialogue: 21,0:09:19.65,0:09:21.43,TrueName,Shinichirou,0,0,0,,She's just a girl!
 Dialogue: 21,0:09:21.43,0:09:23.33,TrueName,Sakuya,0,0,0,,Does that look like a girl to you?
+Comment: 21,0:09:23.33,0:09:24.21,TrueName,Shinichirou,0,0,0,,Huh?
 Dialogue: 21,0:09:28.37,0:09:32.29,TrueName,Tamako,0,0,0,,I've grown tired of you, little Shimazu.
 Dialogue: 21,0:09:33.69,0:09:35.53,TrueName,Tamako,0,0,0,,See you later, boy.
 Dialogue: 21,0:09:35.53,0:09:36.76,TrueName,Tamako,0,0,0,,Thanks for the help.
@@ -302,6 +211,7 @@ Dialogue: 21,0:09:49.15,0:09:50.56,TrueName,Sakuya,0,0,0,,This is your fault.
 Dialogue: 21,0:09:50.56,0:09:54.12,TrueName,Sakuya,0,0,0,,You're the one who ran into me this morning, aren't you?
 Dialogue: 21,0:09:54.12,0:09:55.57,TrueName,Sakuya,0,0,0,,Asano Shinichirou!
 Dialogue: 21,0:09:55.57,0:09:58.07,TrueName,Shinichirou,0,0,0,,How do you know my name?
+Comment: 21,0:09:58.07,0:09:58.91,TrueName,Shinichirou,0,0,0,,Ow...
 Dialogue: 21,0:09:58.91,0:10:03.95,TrueName,Sakuya,0,0,0,,I never forget the names or faces of my enemies.
 Dialogue: 21,0:10:03.95,0:10:06.88,TrueName,Shinichirou,0,0,0,,E-Enemies?
 Dialogue: 21,0:10:09.29,0:10:12.04,TrueName,Sakuya,0,0,0,,What are you looking at, you pervert!?
@@ -309,6 +219,7 @@ Dialogue: 21,0:10:14.28,0:10:19.34,TrueName,Sakuya,0,0,0,,I even cast magic on t
 Dialogue: 21,0:10:19.34,0:10:21.33,TrueName,Sakuya,0,0,0,,So how did you pull it out?
 Dialogue: 21,0:10:21.33,0:10:24.35,TrueName,Sakuya,0,0,0,,Answer me now!
 Dialogue: 21,0:10:24.35,0:10:25.72,TrueName,Sakuya,0,0,0,,Come on!
+Comment: 21,0:10:28.06,0:10:29.06,TrueName,Sakuya,0,0,0,,Ah...
 Dialogue: 21,0:10:36.53,0:10:39.25,TrueName,Shinichirou,0,0,0,,You nearly choked me to death.
 Dialogue: 21,0:10:39.25,0:10:40.99,TrueName,Sakuya,0,0,0,,Too bad I didn't.
 Dialogue: 21,0:10:40.99,0:10:42.29,TrueName,Shinichirou,0,0,0,,Hey...
@@ -360,6 +271,7 @@ Dialogue: 21,0:13:12.90,0:13:13.60,TrueName,Sakuya,0,0,0,,Over here.
 Dialogue: 21,0:13:13.60,0:13:15.85,TrueName,Shinichirou,0,0,0,,Your shot did that?
 Dialogue: 21,0:13:15.85,0:13:16.48,TrueName,Sakuya,0,0,0,,Looks like it.
 Dialogue: 21,0:13:17.44,0:13:19.66,TrueName,Sakuya,0,0,0,,I won't let her get away this time.
+Comment: 21,0:13:24.11,0:13:26.61,TrueName,Tamako,0,0,0,,Ow...
 Dialogue: 21,0:13:26.61,0:13:28.42,TrueName,Sakuya,0,0,0,,I knew it was you.
 Dialogue: 21,0:13:28.42,0:13:30.02,TrueName,Shinichirou,0,0,0,,Was that really you?
 Dialogue: 21,0:13:30.02,0:13:32.86,TrueName,Tamako,0,0,0,,N-No! It wasn't me!
@@ -612,6 +524,7 @@ Dialogue: 22,0:09:16.03,0:09:17.28,TrueNamePink,Shinichirou,0,0,0,,Stop it!
 Dialogue: 22,0:09:17.28,0:09:19.33,TrueNamePink,Sakuya,0,0,0,,I'll shoot you too if you don't move out of the way.
 Dialogue: 22,0:09:19.65,0:09:21.43,TrueNamePink,Shinichirou,0,0,0,,She's just a girl!
 Dialogue: 22,0:09:21.43,0:09:23.33,TrueNamePink,Sakuya,0,0,0,,Does that look like a girl to you?
+Comment: 22,0:09:23.33,0:09:24.21,TrueNamePink,Shinichirou,0,0,0,,Huh?
 Dialogue: 22,0:09:28.37,0:09:32.29,TrueNamePink,Tamako,0,0,0,,I've grown tired of you, little Shimazu.
 Dialogue: 22,0:09:33.69,0:09:35.53,TrueNamePink,Tamako,0,0,0,,See you later, boy.
 Dialogue: 22,0:09:35.53,0:09:36.76,TrueNamePink,Tamako,0,0,0,,Thanks for the help.
@@ -621,6 +534,7 @@ Dialogue: 22,0:09:49.15,0:09:50.56,TrueNamePink,Sakuya,0,0,0,,This is your fault
 Dialogue: 22,0:09:50.56,0:09:54.12,TrueNamePink,Sakuya,0,0,0,,You're the one who ran into me this morning, aren't you?
 Dialogue: 22,0:09:54.12,0:09:55.57,TrueNamePink,Sakuya,0,0,0,,Asano Shinichirou!
 Dialogue: 22,0:09:55.57,0:09:58.07,TrueNamePink,Shinichirou,0,0,0,,How do you know my name?
+Comment: 22,0:09:58.07,0:09:58.91,TrueNamePink,Shinichirou,0,0,0,,Ow...
 Dialogue: 22,0:09:58.91,0:10:03.95,TrueNamePink,Sakuya,0,0,0,,I never forget the names or faces of my enemies.
 Dialogue: 22,0:10:03.95,0:10:06.88,TrueNamePink,Shinichirou,0,0,0,,E-Enemies?
 Dialogue: 22,0:10:09.29,0:10:12.04,TrueNamePink,Sakuya,0,0,0,,What are you looking at, you pervert!?
@@ -628,6 +542,7 @@ Dialogue: 22,0:10:14.28,0:10:19.34,TrueNamePink,Sakuya,0,0,0,,I even cast magic 
 Dialogue: 22,0:10:19.34,0:10:21.33,TrueNamePink,Sakuya,0,0,0,,So how did you pull it out?
 Dialogue: 22,0:10:21.33,0:10:24.35,TrueNamePink,Sakuya,0,0,0,,Answer me now!
 Dialogue: 22,0:10:24.35,0:10:25.72,TrueNamePink,Sakuya,0,0,0,,Come on!
+Comment: 22,0:10:28.06,0:10:29.06,TrueNamePink,Sakuya,0,0,0,,Ah...
 Dialogue: 22,0:10:36.53,0:10:39.25,TrueNamePink,Shinichirou,0,0,0,,You nearly choked me to death.
 Dialogue: 22,0:10:39.25,0:10:40.99,TrueNamePink,Sakuya,0,0,0,,Too bad I didn't.
 Dialogue: 22,0:10:40.99,0:10:42.29,TrueNamePink,Shinichirou,0,0,0,,Hey...
@@ -679,6 +594,7 @@ Dialogue: 22,0:13:12.90,0:13:13.60,TrueNamePink,Sakuya,0,0,0,,Over here.
 Dialogue: 22,0:13:13.60,0:13:15.85,TrueNamePink,Shinichirou,0,0,0,,Your shot did that?
 Dialogue: 22,0:13:15.85,0:13:16.48,TrueNamePink,Sakuya,0,0,0,,Looks like it.
 Dialogue: 22,0:13:17.44,0:13:19.66,TrueNamePink,Sakuya,0,0,0,,I won't let her get away this time.
+Comment: 22,0:13:24.11,0:13:26.61,TrueNamePink,Tamako,0,0,0,,Ow...
 Dialogue: 22,0:13:26.61,0:13:28.42,TrueNamePink,Sakuya,0,0,0,,I knew it was you.
 Dialogue: 22,0:13:28.42,0:13:30.02,TrueNamePink,Shinichirou,0,0,0,,Was that really you?
 Dialogue: 22,0:13:30.02,0:13:32.86,TrueNamePink,Tamako,0,0,0,,N-No! It wasn't me!
@@ -792,6 +708,7 @@ Dialogue: 22,0:21:39.06,0:21:43.74,TrueNamePink,Tamako,0,0,0,,Looks like things 
 Dialogue: 22,0:21:45.70,0:21:47.66,TrueNamePink,Sakuya,0,0,0,,That won't be happening.
 Dialogue: 22,0:21:52.17,0:21:53.08,TrueNamePink,Tamako,0,0,0,,H-Hey!
 Dialogue: 22,0:21:54.04,0:21:55.55,TrueNamePink,Shinichirou,0,0,0,,What are you doing!?
+Comment: 0,0:23:40.60,0:23:42.60,Signs,,0,0,0,,
 Dialogue: 0,0:03:29.43,0:03:34.44,Signs-Dstyle,,0,0,0,,{\1a&HFF&\blur0.4\fs38\fad(375,375)\shad0.2\bord1.3\c&HFFFFFE&\3c&H13101B&\4c&H7A7573&\fnCambria\b1\pos(955,668)}Episode 1: Chance Meeting
 Dialogue: 1,0:03:29.43,0:03:34.44,Signs-Dstyle,,0,0,0,,{\blur0.4\fs38\fad(375,375)\shad0.2\bord0\c&HFFFFFE&\3c&H13101B&\4c&H7A7573&\fnCambria\b1\pos(955,668)}Episode 1: Chance Meeting
 Dialogue: 0,0:06:20.35,0:06:21.86,Signs-Dstyle,,0,0,0,,{\blur1.2\fax0.2\fs45\fscx70\fscy110\c&H333641&\fnFat Daddy Expanded\b1\pos(518.667,382)\frz352.2\clip(336,340.571,715.428,349.714)\frx2\fry2}Che{*\c&H323541&}m{*\c&H323540&}istr{*\c&H313440&}y {*\c&H31343F&}Pr{*\c&H30333F&}ep R{*\c&H30333E&}o{*\c&H2F323E&}om{\c&H2F323E&}
@@ -919,6 +836,45 @@ Dialogue: 0,0:22:00.04,0:22:05.05,Signs-Dstyle,,0,0,0,,{\fs65\c&HFFFFFF&\pos(920
 Dialogue: 0,0:23:35.06,0:23:40.06,Signs-Dstyle,,0,0,0,,{\blur1\4a&H20&\fnLucida Sans\fs47\fsp1\bord2.5\1a&HFE&\3a&HFE&\xshad1.5\yshad2\b1\3c&H7D24AA&\4c&H330A11&\pos(958.096,565.523)}See you next time!
 Dialogue: 1,0:23:35.06,0:23:40.06,Signs-Dstyle,,0,0,0,,{\blur0.4\fnLucida Sans\fs47\fsp1\bord2.5\1a&HFF&\shad0\b1\3c&H7D24AA&\4c&H330A11&\pos(958.096,565.523)}See you next time!
 Dialogue: 2,0:23:35.06,0:23:40.06,Signs-Dstyle,,0,0,0,,{\blur0.4\fnLucida Sans\fs47\fsp1\bord0\shad0\b1\3c&H7D24AA&\4c&H541420&\pos(958.096,565.523)}See you next time!
+Comment: 0,0:23:40.60,0:23:42.60,Signs-Dstyle,,0,0,0,,
+Comment: 0,0:01:59.05,0:01:59.09,Default,Isuca OP,0,0,0,START FRAME,op start frame
+Comment: 0,0:01:59.05,0:01:59.09,Default,,0,0,0,code once,_G.require "lnlib"; _G.require "framereader"; _G.initkara(tenv); init_framereader(); _G.framereader.offset(1)
+Comment: 0,0:01:59.05,0:01:59.09,Default,,0,0,0,code line all,sb = -60
+Comment: 0,0:01:59.05,0:01:59.09,Default,,0,0,0,code line all,fxgroup.shine_out = line.actor:find("shine_out") ~= nil
+Comment: 0,0:01:59.05,0:01:59.09,Never - Romaji,,0,0,0,template syl,{!pos()!!tag("fad")!\blur2!ictf(3,1,640,360,"square",20,1280,720,function(c) return sethsl(c,nil,1,0.8) end,function(c) return sethsl(c,nil,0.7,0.65) end,syl.duration*0.1,syl.duration*0.5,0.6)!\t(!st(0)!,!st(0.2)!,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c!c2s(hsladd(screenc(line.start_time+syl.start_time,line.left+syl.center,line.middle),1/8-syl.center/line.width/4,0,0.5))!)\t(!st(0.75)!,!syl.end_time!,\bord!line.styleref.outline!\1c!c2s(hsladd(screenc(line.start_time+syl.end_time,line.left+syl.center,line.middle),1/8-syl.center/line.width/4,0,-0.15))!)}
+Comment: 0,0:01:59.05,0:01:59.09,Never - Romaji,,0,0,0,template char fxgroup shine_out,!retime("postline",-(line.width-syl.center)/5-240,-(line.width-syl.center)/5)!{!pos()!\1a&H00&\3a&H00&\fad(80,80)\bord6\blur6\1c!c2s(hslc(1/2-syl.center/line.width,1,1))!\3c!c2s(hslc(1/2-syl.center/line.width,1,1))!}
+Comment: 0,0:01:59.05,0:01:59.09,Never - Romaji - Chorus,,0,0,0,template char,{!pos()!!tag("fad")!\blur2!ictf(3,3,640,360,"square",20,1280,720,function(c, t) return sethsl(hsladd(c,0.2*((syl.center/line.width)-1/2)),nil,1,0.75) end,function(c) return sethsl(hsladd(c,0.2*((syl.center/line.width)-1/2)),nil,1,0.65) end,syl.duration*0.1,syl.duration*0.5,0.6)!\t(!st(0)!,!st(0.2)!,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HFFFFFF&)\t(!st(0.75)!,!syl.end_time!,\bord!line.styleref.outline!\1c!c2s(sethsl(hsladd(screenc(line.start_time+syl.end_time,line.left+syl.center,line.middle),1/8-syl.center/line.width/4,0,0),nil,1,0.15))!)}
+Comment: 0,0:01:59.05,0:01:59.09,Never - Romaji - Chorus,,0,0,0,template char,!retime("preline",syl.center/3,syl.center/3+180)!{!pos()!\alpha&H00&\fad(70,70)\bord4\blur8\1c!c2s(hslc(1/2-syl.center/line.width,1,0.85))!\3c!c2s(hslc(1/2-syl.center/line.width,1,0.85))!}
+Comment: 0,0:01:59.05,0:01:59.09,Never - Translation,,0,0,0,template line,{!tag("fad")!\blur2!ictf(3,1,640,360,"square",20,1280,720,function(c) return sethsl(c,nil,1,0.8) end)!}
+Comment: 0,0:01:59.05,0:01:59.09,Never - Translation,,0,0,0,template char fxgroup shine_out,!retime("postline",-(syl.center)/5-240,-(syl.center)/5)!{!pos()!\1a&H00&\3a&H00&\fad(80,80)\bord6\blur6\1c!c2s(hslc(1/2-syl.center/line.width,1,1))!\3c!c2s(hslc(1/2-syl.center/line.width,1,1))!}
+Comment: 0,0:01:59.05,0:01:59.09,Never - Translation - Chorus,,0,0,0,template char,{!pos()!!tag("fad")!\blur2!ictf(3,3,640,360,"square",20,1280,720,function(c, t) return sethsl(hsladd(c,0.2*(1/2-(syl.center/line.width))),nil,1,0.75) end)!}
+Comment: 0,0:01:59.05,0:01:59.09,Never - Translation - Chorus,,0,0,0,template char,!retime("preline",(line.width-syl.center)/3,(line.width-syl.center)/3+180)!{!pos()!\alpha&H00&\fad(70,70)\bord4\blur8\1c!c2s(hslc(1/2-syl.center/line.width,1,0.85))!\3c!c2s(hslc(1/2-syl.center/line.width,1,0.85))!}
+Comment: 0,0:02:17.03,0:02:22.24,Never - Romaji,,0,0,0,karaoke,{\ko55}{\ko32}{\fad(180,120)\blur2}i{\ko26}ma{\ko25} {\ko34}ka{\ko32}n{\ko33}ji{\ko32}te{\ko25}ru{\ko21} {\ko31}te {\ko24}wo{\ko25} {\ko36}no{\ko30}ba{\ko32}shi{\ko28}ta{\ko0}ra{\ko0}
+Comment: 0,0:02:22.24,0:02:27.46,Never - Romaji,shine_out,0,0,0,karaoke,{\ko53}{\ko31}{\fad(180,120)\blur2}so{\ko22}ra{\ko26} {\ko34}ta{\ko34}ka{\ko31}ku {\ko15}ki{\ko17}ra{\ko16}me{\ko67}ku {\ko61}ryuu{\ko66}se{\ko49}i{\ko0}
+Comment: 0,0:02:27.46,0:02:32.71,Never - Romaji,,0,0,0,karaoke,{\ko50}{\ko34}{\fad(180,120)\blur2}zut{\ko28}to{\ko18} {\ko34}o{\ko32}i{\ko32}ka{\ko34}ke{\ko31}te{\ko16} {\ko33}nan{\ko28}do{\ko20} {\ko33}ko{\ko33}ro{\ko32}n{\ko37}de{\ko0}mo{\ko0}
+Comment: 0,0:02:32.71,0:02:38.42,Never - Romaji,shine_out,0,0,0,karaoke,{\ko43}{\ko34}{\fad(180,120)\blur2}mo{\ko30}u{\ko17} {\ko34}to{\ko32}me{\ko31}ra{\ko15}re{\ko18}na{\ko17}i {\ko65}shou{\ko65}dou {\ko63}nan{\ko64}da{\ko43}
+Comment: 0,0:02:38.42,0:02:43.43,Never - Romaji,shine_out,0,0,0,karaoke,{\ko22}{\ko35}{\fad(180,120)\blur2}yo{\ko17}zo{\ko47}ra {\ko34}ni {\ko17}bo{\ko31}ku{\ko17}ta{\ko65}chi {\ko53}no {\ko13}su{\ko46}to{\ko17}o{\ko64}ri{\ko23}
+Comment: 0,0:02:43.43,0:02:49.98,Never - Romaji,,0,0,0,karaoke,{\ko41}{\ko31}{\fad(180,120)\blur2}sa{\ko17}i{\ko49}sho {\ko35}no {\ko17}i{\ko29}chi {\ko18}pe{\ko32}e{\ko34}ji {\ko32}me{\ko16}ku{\ko38}ri{\ko26} {\ko18}yu{\ko16}u{\ko15}ki {\ko16}da{\ko144}su{\ko31}
+Comment: 0,0:02:49.98,0:02:55.15,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko6}{\ko16}{\fad(180,120)\blur2}me{\ko16}gu{\ko15}ri {\ko16}me{\ko16}gu{\ko16}ru {\ko33}mi{\ko32}ra{\ko32}i {\ko33}e {\ko33}to{\ko15} {\ko17}bo{\ko16}ku{\ko16}ra {\ko14}i{\ko16}ma {\ko34}ka{\ko34}ke{\ko32}da{\ko32}shi{\ko27}te{\ko0}
+Comment: 0,0:02:55.15,0:03:00.28,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko20}{\fad(180,120)\blur2}na{\ko13}n{\ko17}ju{\ko13}u {\ko15}o{\ko68}ku {\ko62}nen {\ko48}sa{\ko16}ki {\ko33}e{\ko17} {\ko18}to{\ko32}do{\ko16}ku {\ko32}yo{\ko33}u {\ko37}ni{\ko0}
+Comment: 0,0:03:00.28,0:03:03.03,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko27}{\ko17}{\fad(180,120)\blur2}ha{\ko16}ru{\ko17}ka {\ko17}ka{\ko15}na{\ko32}ta {\ko33}no {\ko32}so{\ko32}ra {\ko30}e{\ko7}
+Comment: 1,0:03:02.82,0:03:07.04,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko35}{\ko17}{\fad(180,120)\blur2}u{\ko15}tsu{\ko15}tsu {\ko16}yu{\ko17}me {\ko32}no {\ko33}ka{\ko32}ke{\ko33}ra {\ko31}wo {\ko32}tsu{\ko16}ka{\ko32}n{\ko47}de{\ko19}
+Comment: 0,0:03:07.04,0:03:11.83,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko17}{\ko33}{\fad(180,120)\blur2}se{\ko30}i{\ko35}ja{\ko32}ku {\ko32}no {\ko34}ya{\ko43}mi {\ko22}sa{\ko23}e{\ko24} {\ko17}i{\ko46}nu{\ko17}ku {\ko74}yo{\ko0}
+Comment: 0,0:03:11.83,0:03:14.59,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko23}{\ko34}{\fad(180,120)\blur2}tsu{\ko33}yo{\ko31}ku {\ko34}ne{\ko32}ga{\ko31}u{\ko17}n{\ko41}da{\ko0}
+Comment: 0,0:03:14.59,0:03:21.93,Never - Romaji - Chorus,,0,0,0,karaoke,{\ko69}{\ko35}{\fad(180,120)\blur2}just {\ko22}ne{\ko25}ver {\ko35}say {\ko29}ne{\ko282}ver{\ko237}
+Comment: 0,0:02:17.03,0:02:22.24,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I throw out my hands
+Comment: 0,0:02:22.24,0:02:27.46,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}trying to catch a star falling from the sky
+Comment: 0,0:02:27.46,0:02:32.71,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}I don't care how much I stumble chasing it,{I always chase after it, but I don't care if I trip and fall}
+Comment: 0,0:02:32.71,0:02:38.42,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}nothing can extinguish my passion
+Comment: 0,0:02:38.42,0:02:43.43,Never - Translation,shine_out,0,0,0,karaoke,{\fad(180,120)\blur2}Our story is written on the night sky
+Comment: 0,0:02:43.43,0:02:49.98,Never - Translation,,0,0,0,karaoke,{\fad(180,120)\blur2}Let's gather our courage and turn the first page
+Comment: 0,0:02:49.98,0:02:55.15,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We leap toward our bright future
+Comment: 0,0:02:55.15,0:03:00.28,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}Together we can overcome any distance
+Comment: 0,0:03:00.28,0:03:03.03,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,200)\blur2}To faraway skies
+Comment: 1,0:03:02.82,0:03:07.04,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(200,120)\blur2}where we'll piece together our dreams
+Comment: 0,0:03:07.04,0:03:11.83,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}We'll pierce through the silent darkness,
+Comment: 0,0:03:11.83,0:03:14.59,Never - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)\blur2}as we vow to
+Comment: 0,0:03:28.98,0:03:29.02,Default,,0,0,0,END FRAME,op end frame
 Dialogue: 0,0:02:17.03,0:02:22.24,Never - Romaji,,0,0,0,fx,{\an5\pos(402.515625, 42)\fad(180,120)\blur2\3c&HFFA999&\t(-60,-60,0.60,\3c&HE47B67&)\t(-60,-60,1.67,\3c&HFFA999&)\t(125,126,\3c&HFFAE99&)\t(417,418,\3c&HFFAD99&)\t(542,543,\3c&HFFAC99&)\t(751,752,\3c&HFFAB99&)\t(792,793,\3c&HFFAC99&)\t(834,835,\3c&HFFAB99&)\t(918,919,\3c&HFFAC99&)\t(1126,1127,\3c&HFFAD99&)\t(1168,1169,\3c&HFFAC99&)\t(1293,1294,\3c&HFFAB99&)\t(1335,1336,\3c&HFFAA99&)\t(1376,1377,\3c&HFFA999&)\t(1418,1419,\3c&HFFA899&)\t(1460,1461,\3c&HFFA799&)\t(1502,1503,\3c&HFFA699&)\t(1543,1544,\3c&HFFA599&)\t(1585,1586,\3c&HFFA399&)\t(1627,1628,\3c&HFFA299&)\t(1668,1669,\3c&HFFA599&)\t(1710,1711,\3c&HFFA799&)\t(1793,1794,\3c&HFFA899&)\t(3504,3505,\3c&HFFA799&)\t(3587,3588,\3c&HFFA699&)\t(3629,3630,\3c&HFFA599&)\t(3670,3671,\3c&HFFA699&)\t(3712,3713,\3c&HFFA599&)\t(4129,4130,\3c&HFFA499&)\t(4713,4714,\3c&HFFA399&)\t(-60,-60,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HFFFFFF&)\t(-60,0,\bord2\1c&HD8C1CF&)}
 Dialogue: 0,0:02:17.03,0:02:22.24,Never - Romaji,,0,0,0,fx,{\an5\pos(402.515625, 42)\fad(180,120)\blur2\3c&HFFA999&\t(-60,-5,0.60,\3c&HE47B67&)\t(125,126,\3c&HE48167&)\t(215,490,1.67,\3c&HFFAD99&)\t(542,543,\3c&HFFAC99&)\t(751,752,\3c&HFFAB99&)\t(792,793,\3c&HFFAC99&)\t(834,835,\3c&HFFAB99&)\t(918,919,\3c&HFFAC99&)\t(1126,1127,\3c&HFFAD99&)\t(1168,1169,\3c&HFFAC99&)\t(1293,1294,\3c&HFFAB99&)\t(1335,1336,\3c&HFFAA99&)\t(1376,1377,\3c&HFFA999&)\t(1418,1419,\3c&HFFA899&)\t(1460,1461,\3c&HFFA799&)\t(1502,1503,\3c&HFFA699&)\t(1543,1544,\3c&HFFA599&)\t(1585,1586,\3c&HFFA399&)\t(1627,1628,\3c&HFFA299&)\t(1668,1669,\3c&HFFA599&)\t(1710,1711,\3c&HFFA799&)\t(1793,1794,\3c&HFFA899&)\t(3504,3505,\3c&HFFA799&)\t(3587,3588,\3c&HFFA699&)\t(3629,3630,\3c&HFFA599&)\t(3670,3671,\3c&HFFA699&)\t(3712,3713,\3c&HFFA599&)\t(4129,4130,\3c&HFFA499&)\t(4713,4714,\3c&HFFA399&)\t(-60,50,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HFFFFFF&)\t(352.5,550,\bord2\1c&H030102&)}
 Dialogue: 0,0:02:17.03,0:02:22.24,Never - Romaji,,0,0,0,fx,{\an5\pos(406.8828125, 42)\fad(180,120)\blur2\3c&HFFA999&\t(0,1,\3c&HFFA999&)\t(125,126,\3c&HFFAE99&)\t(417,418,\3c&HFFAD99&)\t(490,522,0.60,\3c&HE47F67&)\t(626,627,\3c&HE47E67&)\t(650,810,1.67,\3c&HFFAB99&)\t(918,919,\3c&HFFAC99&)\t(1126,1127,\3c&HFFAD99&)\t(1168,1169,\3c&HFFAC99&)\t(1293,1294,\3c&HFFAB99&)\t(1335,1336,\3c&HFFAA99&)\t(1376,1377,\3c&HFFA999&)\t(1418,1419,\3c&HFFA899&)\t(1460,1461,\3c&HFFA799&)\t(1502,1503,\3c&HFFA699&)\t(1543,1544,\3c&HFFA599&)\t(1585,1586,\3c&HFFA399&)\t(1627,1628,\3c&HFFA299&)\t(1668,1669,\3c&HFFA599&)\t(1710,1711,\3c&HFFA799&)\t(1793,1794,\3c&HFFA899&)\t(3504,3505,\3c&HFFA799&)\t(3587,3588,\3c&HFFA699&)\t(3629,3630,\3c&HFFA599&)\t(3670,3671,\3c&HFFA699&)\t(3712,3713,\3c&HFFA599&)\t(4129,4130,\3c&HFFA499&)\t(4713,4714,\3c&HFFA399&)\t(490,554,0.5,\bord3\blur3\1a&H00&\3a&H00&\1c&HC789AA&)\t(730,870,\bord2\1c&H040203&)}i
@@ -1990,6 +1946,48 @@ Dialogue: 0,0:03:11.84,0:03:12.02,Never - Translation - Chorus,,0,0,0,fx,{\an5\p
 Dialogue: 0,0:03:11.84,0:03:12.02,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(702.203125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFB3BC&\3c&HFFB3BC&}
 Dialogue: 0,0:03:11.83,0:03:12.01,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(713.328125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFC2B3&\3c&HFFC2B3&}t
 Dialogue: 0,0:03:11.83,0:03:12.01,Never - Translation - Chorus,,0,0,0,fx,{\an5\pos(730.03125, 678)\alpha&H00&\fad(70,70)\bord4\blur8\1c&HFFE9B3&\3c&HFFE9B3&}o
+Comment: 0,0:22:05.05,0:22:05.09,Default,Isuca ED,0,0,0,START FRAME,ed start frame
+Comment: 0,0:01:59.05,0:01:59.09,Default,,0,0,0,code once,_G.require "lnlib"; _G.require "framereader"; _G.initkara(tenv); init_framereader(); _G.framereader.offset(1);
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji,,0,0,0,code syl,fxgroup.draw = (syl.inline_fx ~= "hide" or syl.inline_fx == nil)
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji - Right,,0,0,0,template syl noblank,!relayer(0)!{!tag("fad")!!pos(2,2)!\1a&HFE&\3a&HFE&\blur4\t(!st(0)!,!st(0.8)!,0.5,\fscx105\fscy112)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji - Right,,0,0,0,template syl noblank,!relayer(1)!{!tag("fad")!!pos(2,2)!\shad0\1c!gsc(2)!\t(!st(0)!,!st(1)!,0.5,\1c!gsc(1)!)\t(!st(0)!,!st(0.8)!,0.5,\fscx105\fscy112)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji,,0,0,0,template syl fxgroup draw noblank,!relayer(0)!{!pos(2,2)!!tag("fad")!\1a&HFE&\3a&HFE&\blur4\t(!st(0)!,!st(0.8)!,0.5,\fscx105\fscy112)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji,,0,0,0,template syl fxgroup draw noblank,!relayer(1)!{!pos(2,2)!!tag("fad")!\shad0\1c!gsc(2)!\t(!st(0)!,!st(1)!,0.5,\1c!gsc(1)!)\t(!st(0)!,!st(0.8)!,0.5,\fscx105\fscy112)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji - Black,,0,0,0,template syl noblank,{!tag("fad")!!pos()!\1a&H80&\t(!st(0)!,!st(1)!,0.5,\1a!gsa(1)!)\t(!st(0)!,!st(0.8)!,0.5,\fscx110\fscy120)\t(!st(0.8)!,!st(1)!,\fscx100\fscy100)}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Romaji - Chorus,,0,0,0,template char noblank,{!tag("fad")!!pos()!!ictf({3,4},1,nil,nil,nil,nil,32,16,function(c) return rgbmul(hslmul(c,1,12),0.4,0.4,0.4) end)!\blur3\1a&H80&\t(!st(0)!,!st(0.4)!,0.5,\1a!gsa(1)!\1c!c2s(sethsl(screenc(lt(0)+st(0.4)),nil,1,0.8))!\bord3\blur4)\t(!st(0.4)!,!st(1)!,1.3,\1c!gsc(1)!\bord!line.styleref.outline!\blur3)\t(!st(0)!,!st(0.8)!,0.5,\fscy108)\t(!st(0.8)!,!st(1)!,\fscy100)}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation - Right,,0,0,0,template line,!relayer(0)!{!tag("fad")!!pos()!\1a&HFE&\3a&HFE&\blur4}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation - Right,,0,0,0,template line,!relayer(1)!{!tag("fad")!!pos()!\shad0}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation,,0,0,0,template line notext,!relayer(0)!{!pos()!\1a&HFE&\3a&HFE&\blur4}!text(false)!
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation,,0,0,0,template line notext,!relayer(1)!{!pos()!\shad0}!text(false)!
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation - Black,,0,0,0,template line,{!tag("fad")!!pos()!}
+Comment: 0,0:01:59.05,0:01:59.09,Somebody - Translation - Chorus,,0,0,0,template char,{!tag("fad")!!pos()!!ictf({3,4},1,nil,nil,nil,nil,32,16,function(c) return rgbmul(hslmul(c,1,12),0.4,0.4,0.4) end)!\blur3}
+Comment: 0,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,karaoke,{\k50}{\k36}{\fad(0,0)}ya{\k32}ga{\k31}te {\k29}a{\k33}ku{\k35}mu {\k49}ni{\k61} {\k20}shi{\k31}ha{\k22}i{\k31}sa{\k30}re{\k61}ta{\k32} {\k19}ya{\k10}mi {\k19}sa{\k23}e {\k37}hi{\k37}ka{\k33}ri {\k33}ga {\k10}sa{\k150}su{\k72}
+Comment: 0,0:22:30.99,0:22:36.20,Somebody - Romaji - Right,,0,0,0,karaoke,{\k21}{\k35}{\fad(0,120)}shi{\k33}ra{\k14}zu {\k14}shi{\k22}ra{\k28}zu {\k107}ni{\k32} {\k37}hi{\k36}ki{\k13}yo{\k33}se{\k96}au{\k0}
+Comment: 0,0:22:36.20,0:22:40.92,Somebody - Romaji - Right,,0,0,0,karaoke,{\k12}{\k21}{\fad(180,0)}ke{\k17}ga{\k15}re {\k19}wo {\k27}shi{\k17}ra{\k27}nu {\k29}ta{\k34}ma{\k124}shii{\k130}
+Comment: 0,0:22:40.92,0:22:42.21,Somebody - Romaji,,0,0,0,karaoke,{\k10}{\k18}{\fad(0,400)}na{\k17}ni {\k37}wo{\k47\-hide}{\frx90} shinjireba ii
+Comment: 1,0:22:42.34,0:22:45.41,Somebody - Romaji,,0,0,0,karaoke,{\k31\-hide}{\fad(400,120)\frx90}nani wo {\k37\-none}{\frx0}shi{\k35}n{\k18}ji{\k49}re{\k31}ba {\k31}i{\k59}i{\k16}
+Comment: 0,0:22:45.92,0:22:47.55,Somebody - Romaji,,0,0,0,karaoke,{\k21}{\k19}{\fad(120,400)}do{\k20}ko {\k38}e{\frx90} {\k65\-hide}nagasarete yukeba ii
+Comment: 0,0:22:47.67,0:22:51.05,Somebody - Romaji,,0,0,0,karaoke,{\k18\-hide}{\fad(400,0)\frx90}doko e {\k39\-none}{\frx0}na{\k22}ga{\k24}sa{\k45}re{\k31}te {\k35}yu{\k33}ke{\k32}ba {\k27}i{\k32}i
+Comment: 0,0:22:51.18,0:22:56.06,Somebody - Romaji - Black,,0,0,0,karaoke,{\k0}{\k7}{\fad(400,120)}i{\k48}tsu{\k32}ka {\k34}ko{\k17}no {\k34}te {\k46}ni{\k30} {\k17}ya{\k46}su{\k35}ra{\k33}gi {\k14}no {\k32}ji{\k63}kan{\k0}
+Comment: 0,0:22:56.06,0:23:00.48,Somebody - Romaji - Black,,0,0,0,karaoke,{\k19}{\k15}{\fad(180,120)}ku{\k14}tsu{\k30}jo{\k32}ku {\k33}ni {\k33}sa{\k32}ki{\k31}ko{\k34}sa{\k30}re{\k49}ta {\k30}mi{\k19}ra{\k41}i{\k0}
+Comment: 0,0:23:00.48,0:23:06.11,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k21}{\k24}{\fad(0,0)}se{\k31}tsu{\k17}na {\k16}ga {\k15}u{\k33}goki{\k53}da{\k48}su{\k26} {\k15}ka{\k15}na{\k17}shi{\k16}mi {\k13}wa {\k16}ka{\k24}soku {\k71}su{\k92}ru{\k0}
+Comment: 0,0:23:06.11,0:23:10.86,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k58}{\k14}{\fad(0,120)}to{\k27}za{\k34}sa{\k35}re{\k28}ta {\k38}ko{\k17}ko{\k15}ro {\k27}wo{\k19} {\k17}tsu{\k16}ra{\k16}nu{\k14}ku {\k51}you {\k40}ni{\k9}
+Comment: 0,0:23:10.86,0:23:17.10,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k19}{\k16}{\fad(180,120)}e{\k15}i{\k16}e{\k15}n {\k13}ga {\k22}u{\k28}ma{\k59}re{\k43}ru{\k23} {\k19}shu{\k18}ku{\k31}mei {\k14}ni {\k15}a{\k30}ya{\k32}tsu{\k34}ra{\k155}re{\k7}
+Comment: 0,0:23:17.10,0:23:22.13,Somebody - Romaji - Chorus,,0,0,0,karaoke,{\k31}{\k18}{\fad(180,0)}na{\k17}mi{\k32}da {\k13}wo {\k13}ka{\k25}sa{\k29}ne{\k48}te{\k24} {\k35}some{\k21}bo{\k30}dy {\k18}to {\k137}love{\k12}
+Comment: 0,0:22:20.73,0:22:30.99,Somebody - Translation,,0,0,0,karaoke,{\fad(0,0)}Someday there will be a light in this nightmarish place
+Comment: 0,0:22:30.99,0:22:36.20,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(0,120)}that will bait and lure me in
+Comment: 0,0:22:36.20,0:22:40.92,Somebody - Translation - Right,,0,0,0,karaoke,{\fad(180,0)}like an innocent soul that knows no sin
+Comment: 0,0:22:40.92,0:22:42.21,Somebody - Translation,,0,0,0,karaoke,{\fad(0,400)}I don't know{\frx90} what I should believe in
+Comment: 1,0:22:42.34,0:22:45.41,Somebody - Translation,,0,0,0,karaoke,{\fad(400,120)\frx90}I don't know {\frx0}what I should believe in
+Comment: 0,0:22:45.92,0:22:47.55,Somebody - Translation,,0,0,0,karaoke,{\fad(120,400)}I don't know{\frx90} where I should end up
+Comment: 0,0:22:47.67,0:22:51.05,Somebody - Translation,,0,0,0,karaoke,{\fad(400,0)\frx90}I don't know {\frx0}where I should end up
+Comment: 0,0:22:51.18,0:22:56.06,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(400,120)}My path is bound to be disgraceful
+Comment: 0,0:22:56.06,0:23:00.48,Somebody - Translation - Black,,0,0,0,karaoke,{\fad(180,120)}But one day, I know I'll find peace
+Comment: 0,0:23:00.48,0:23:06.11,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,0)}The painful passing of time grows into sorrow
+Comment: 0,0:23:06.11,0:23:10.86,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(0,120)}and forces its way into my desolate heart
+Comment: 0,0:23:10.86,0:23:17.10,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,120)}When not even eternity can break free from the chains of fate,
+Comment: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,karaoke,{\fad(180,0)}my tears call out for somebody to love
+Comment: 0,0:23:35.01,0:23:35.06,Default,,0,0,0,END FRAME,ed end frame
 Dialogue: 0,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,fx,{\an2\pos(301.1640625, 69)\fad(0,0)\1a&HFE&\3a&HFE&\blur4\t(500,788,0.5,\fscx105\fscy112)\t(788,860,\fscx100\fscy100)}ya
 Dialogue: 1,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,fx,{\an2\pos(301.1640625, 69)\fad(0,0)\shad0\1c&H5C5C7F&\t(500,860,0.5,\1c&H3532DA&)\t(500,788,0.5,\fscx105\fscy112)\t(788,860,\fscx100\fscy100)}ya
 Dialogue: 0,0:22:20.73,0:22:30.99,Somebody - Romaji,,0,0,0,fx,{\an2\pos(332.953125, 69)\fad(0,0)\1a&HFE&\3a&HFE&\blur4\t(860,1116,0.5,\fscx105\fscy112)\t(1116,1180,\fscx100\fscy100)}ga
@@ -2490,3 +2488,4 @@ Dialogue: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,fx,{\fa
 Dialogue: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(856.109375, 674.5)\3c&H492A10&\4c&H492A10&\t(0,1,\3c&H492A10&\4c&H492A10&)\t(42,43,\3c&H492B11&\4c&H492B11&)\t(83,84,\3c&H4A2B12&\4c&H4A2B12&)\t(125,126,\3c&H4A2C13&\4c&H4A2C13&)\t(167,168,\3c&H4B2C13&\4c&H4B2C13&)\t(209,210,\3c&H4D2C13&\4c&H4D2C13&)\t(250,251,\3c&H4D2D13&\4c&H4D2D13&)\t(292,293,\3c&H4E2E13&\4c&H4E2E13&)\t(334,335,\3c&H4F2F14&\4c&H4F2F14&)\t(417,418,\3c&H503015&\4c&H503015&)\t(501,502,\3c&H503016&\4c&H503016&)\t(542,543,\3c&H513016&\4c&H513016&)\t(626,627,\3c&H503116&\4c&H503116&)\t(667,668,\3c&H513016&\4c&H513016&)\t(709,710,\3c&H513116&\4c&H513116&)\t(751,752,\3c&H513115&\4c&H513115&)\t(792,793,\3c&H513015&\4c&H513015&)\t(834,835,\3c&H503014&\4c&H503014&)\t(876,877,\3c&H503013&\4c&H503013&)\t(918,919,\3c&H502F12&\4c&H502F12&)\t(959,960,\3c&H502F10&\4c&H502F10&)\t(1001,1002,\3c&H502E0F&\4c&H502E0F&)\t(1043,1044,\3c&H4F2D0E&\4c&H4F2D0E&)\t(1084,1085,\3c&H4F2C0C&\4c&H4F2C0C&)\t(1126,1127,\3c&H4E2B0B&\4c&H4E2B0B&)\t(1168,1169,\3c&H4C2A0A&\4c&H4C2A0A&)\t(1210,1211,\3c&H4B2809&\4c&H4B2809&)\t(1251,1252,\3c&H4A2708&\4c&H4A2708&)\t(1293,1294,\3c&H482507&\4c&H482507&)\t(1335,1336,\3c&H472407&\4c&H472407&)\t(1376,1377,\3c&H452207&\4c&H452207&)\t(1418,1419,\3c&H442106&\4c&H442106&)\t(1460,1461,\3c&H431F06&\4c&H431F06&)\t(1502,1503,\3c&H411E06&\4c&H411E06&)\t(1543,1544,\3c&H401D07&\4c&H401D07&)\t(1585,1586,\3c&H3F1C07&\4c&H3F1C07&)\t(1627,1628,\3c&H3F1A08&\4c&H3F1A08&)\t(1668,1669,\3c&H3E1909&\4c&H3E1909&)\t(1710,1711,\3c&H3D1909&\4c&H3D1909&)\t(1752,1753,\3c&H3C190A&\4c&H3C190A&)\t(1960,1961,\3c&H3C190B&\4c&H3C190B&)\t(2044,2045,\3c&H3D190A&\4c&H3D190A&)\t(2127,2128,\3c&H3C190B&\4c&H3C190B&)\t(2169,2170,\3c&H3C180B&\4c&H3C180B&)\t(2211,2212,\3c&H3B170B&\4c&H3B170B&)\t(2252,2253,\3c&H3B160B&\4c&H3B160B&)\t(2294,2295,\3c&H3A150B&\4c&H3A150B&)\t(2336,2337,\3c&H39150C&\4c&H39150C&)\t(2377,2378,\3c&H66573A&\4c&H66573A&)\t(2669,2670,\3c&H4D4328&\4c&H4D4328&)\t(2878,2879,\3c&H4C4328&\4c&H4C4328&)\t(2961,2962,\3c&H4D4328&\4c&H4D4328&)\t(3003,3004,\3c&H4D4327&\4c&H4D4327&)\t(3086,3087,\3c&H665B5C&\4c&H665B5C&)\t(3128,3129,\3c&H665B5D&\4c&H665B5D&)\t(3170,3171,\3c&H665B5C&\4c&H665B5C&)\t(3337,3338,\3c&H665B5B&\4c&H665B5B&)\t(3378,3379,\3c&H4C4328&\4c&H4C4328&)\t(3462,3463,\3c&H4C4428&\4c&H4C4428&)\t(3504,3505,\3c&H4D4428&\4c&H4D4428&)\t(3670,3671,\3c&H4D4328&\4c&H4D4328&)\t(4004,4005,\3c&H001B28&\4c&H001B28&)\t(4505,4506,\3c&H665A5D&\4c&H665A5D&)\t(4546,4547,\3c&H665A5E&\4c&H665A5E&)\t(4588,4589,\3c&H665A5D&\4c&H665A5D&)\t(4671,4672,\3c&H354C56&\4c&H354C56&)\blur3}o
 Dialogue: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(872.34375, 674.5)\3c&H4D2C09&\4c&H4D2C09&\t(0,1,\3c&H4D2C09&\4c&H4D2C09&)\t(83,84,\3c&H4E2C0B&\4c&H4E2C0B&)\t(125,126,\3c&H4E2D0B&\4c&H4E2D0B&)\t(167,168,\3c&H4E2D0C&\4c&H4E2D0C&)\t(209,210,\3c&H4F2D0C&\4c&H4F2D0C&)\t(250,251,\3c&H502D0D&\4c&H502D0D&)\t(292,293,\3c&H502E0D&\4c&H502E0D&)\t(334,335,\3c&H512F0E&\4c&H512F0E&)\t(375,376,\3c&H512F0F&\4c&H512F0F&)\t(417,418,\3c&H512F10&\4c&H512F10&)\t(501,502,\3c&H512F11&\4c&H512F11&)\t(542,543,\3c&H522F11&\4c&H522F11&)\t(584,585,\3c&H523012&\4c&H523012&)\t(626,627,\3c&H513112&\4c&H513112&)\t(667,668,\3c&H523012&\4c&H523012&)\t(709,710,\3c&H523011&\4c&H523011&)\t(792,793,\3c&H523111&\4c&H523111&)\t(876,877,\3c&H523110&\4c&H523110&)\t(918,919,\3c&H52310F&\4c&H52310F&)\t(959,960,\3c&H52310D&\4c&H52310D&)\t(1001,1002,\3c&H53310C&\4c&H53310C&)\t(1043,1044,\3c&H52300B&\4c&H52300B&)\t(1084,1085,\3c&H522F0A&\4c&H522F0A&)\t(1126,1127,\3c&H522F09&\4c&H522F09&)\t(1168,1169,\3c&H512F08&\4c&H512F08&)\t(1210,1211,\3c&H512E08&\4c&H512E08&)\t(1251,1252,\3c&H502D07&\4c&H502D07&)\t(1293,1294,\3c&H4F2C07&\4c&H4F2C07&)\t(1335,1336,\3c&H4F2C06&\4c&H4F2C06&)\t(1376,1377,\3c&H4E2B07&\4c&H4E2B07&)\t(1418,1419,\3c&H4D2B07&\4c&H4D2B07&)\t(1460,1461,\3c&H4C2A07&\4c&H4C2A07&)\t(1502,1503,\3c&H4C2907&\4c&H4C2907&)\t(1543,1544,\3c&H4B2908&\4c&H4B2908&)\t(1585,1586,\3c&H4A2808&\4c&H4A2808&)\t(1627,1628,\3c&H4A2709&\4c&H4A2709&)\t(1668,1669,\3c&H4A2609&\4c&H4A2609&)\t(1710,1711,\3c&H49260A&\4c&H49260A&)\t(1752,1753,\3c&H48260A&\4c&H48260A&)\t(1835,1836,\3c&H492609&\4c&H492609&)\t(1919,1920,\3c&H492608&\4c&H492608&)\t(2085,2086,\3c&H492607&\4c&H492607&)\t(2127,2128,\3c&H492507&\4c&H492507&)\t(2211,2212,\3c&H482407&\4c&H482407&)\t(2252,2253,\3c&H482207&\4c&H482207&)\t(2336,2337,\3c&H472208&\4c&H472208&)\t(2377,2378,\3c&H66563A&\4c&H66563A&)\t(2669,2670,\3c&H544723&\4c&H544723&)\t(2711,2712,\3c&H544623&\4c&H544623&)\t(3086,3087,\3c&H665A5A&\4c&H665A5A&)\t(3128,3129,\3c&H665A5B&\4c&H665A5B&)\t(3170,3171,\3c&H665A5A&\4c&H665A5A&)\t(3295,3296,\3c&H665A5B&\4c&H665A5B&)\t(3337,3338,\3c&H665A5A&\4c&H665A5A&)\t(3378,3379,\3c&H544723&\4c&H544723&)\t(4004,4005,\3c&H001A27&\4c&H001A27&)\t(4254,4255,\3c&H001A26&\4c&H001A26&)\t(4296,4297,\3c&H001A27&\4c&H001A27&)\t(4505,4506,\3c&H66595B&\4c&H66595B&)\t(4671,4672,\3c&H424851&\4c&H424851&)\t(4713,4714,\3c&H434751&\4c&H434751&)\blur3}v
 Dialogue: 0,0:23:17.10,0:23:22.13,Somebody - Translation - Chorus,,0,0,0,fx,{\fad(180,0)\an5\pos(888.0234375, 674.5)\3c&H512E07&\4c&H512E07&\t(0,1,\3c&H512E07&\4c&H512E07&)\t(42,43,\3c&H512E08&\4c&H512E08&)\t(83,84,\3c&H512E09&\4c&H512E09&)\t(125,126,\3c&H512E0B&\4c&H512E0B&)\t(167,168,\3c&H512F0C&\4c&H512F0C&)\t(209,210,\3c&H522F0C&\4c&H522F0C&)\t(250,251,\3c&H522F0E&\4c&H522F0E&)\t(292,293,\3c&H52300E&\4c&H52300E&)\t(334,335,\3c&H522F10&\4c&H522F10&)\t(375,376,\3c&H523010&\4c&H523010&)\t(417,418,\3c&H523012&\4c&H523012&)\t(459,460,\3c&H533012&\4c&H533012&)\t(501,502,\3c&H522F13&\4c&H522F13&)\t(542,543,\3c&H532F13&\4c&H532F13&)\t(584,585,\3c&H533013&\4c&H533013&)\t(626,627,\3c&H533213&\4c&H533213&)\t(667,668,\3c&H533013&\4c&H533013&)\t(709,710,\3c&H543013&\4c&H543013&)\t(792,793,\3c&H543212&\4c&H543212&)\t(834,835,\3c&H533113&\4c&H533113&)\t(876,877,\3c&H543211&\4c&H543211&)\t(918,919,\3c&H533011&\4c&H533011&)\t(959,960,\3c&H533010&\4c&H533010&)\t(1001,1002,\3c&H53300E&\4c&H53300E&)\t(1043,1044,\3c&H53300D&\4c&H53300D&)\t(1084,1085,\3c&H532F0D&\4c&H532F0D&)\t(1126,1127,\3c&H532F0C&\4c&H532F0C&)\t(1168,1169,\3c&H53300B&\4c&H53300B&)\t(1210,1211,\3c&H522F0B&\4c&H522F0B&)\t(1251,1252,\3c&H52300A&\4c&H52300A&)\t(1293,1294,\3c&H522F0A&\4c&H522F0A&)\t(1335,1336,\3c&H52300A&\4c&H52300A&)\t(1376,1377,\3c&H52300B&\4c&H52300B&)\t(1460,1461,\3c&H52300C&\4c&H52300C&)\t(1502,1503,\3c&H51300D&\4c&H51300D&)\t(1543,1544,\3c&H51300E&\4c&H51300E&)\t(1585,1586,\3c&H51300F&\4c&H51300F&)\t(1627,1628,\3c&H512F0F&\4c&H512F0F&)\t(1668,1669,\3c&H512F10&\4c&H512F10&)\t(1752,1753,\3c&H502F10&\4c&H502F10&)\t(1793,1794,\3c&H502F0F&\4c&H502F0F&)\t(1835,1836,\3c&H512F0E&\4c&H512F0E&)\t(1919,1920,\3c&H512F0D&\4c&H512F0D&)\t(2085,2086,\3c&H512E0C&\4c&H512E0C&)\t(2127,2128,\3c&H522E0C&\4c&H522E0C&)\t(2169,2170,\3c&H522E0B&\4c&H522E0B&)\t(2211,2212,\3c&H512E0C&\4c&H512E0C&)\t(2252,2253,\3c&H522D0C&\4c&H522D0C&)\t(2294,2295,\3c&H512D0C&\4c&H512D0C&)\t(2336,2337,\3c&H512D0D&\4c&H512D0D&)\t(2377,2378,\3c&H66563A&\4c&H66563A&)\t(2669,2670,\3c&H604E23&\4c&H604E23&)\t(2711,2712,\3c&H604D23&\4c&H604D23&)\t(2794,2795,\3c&H604C23&\4c&H604C23&)\t(2836,2837,\3c&H604D23&\4c&H604D23&)\t(2878,2879,\3c&H5F4D23&\4c&H5F4D23&)\t(2920,2921,\3c&H604D23&\4c&H604D23&)\t(3086,3087,\3c&H665A59&\4c&H665A59&)\t(3295,3296,\3c&H665959&\4c&H665959&)\t(3337,3338,\3c&H665A59&\4c&H665A59&)\t(3378,3379,\3c&H604E22&\4c&H604E22&)\t(4004,4005,\3c&H001925&\4c&H001925&)\t(4505,4506,\3c&H665858&\4c&H665858&)\t(4671,4672,\3c&H544A53&\4c&H544A53&)\t(4713,4714,\3c&H554953&\4c&H554953&)\t(4755,4756,\3c&H564953&\4c&H564953&)\t(4796,4797,\3c&H554953&\4c&H554953&)\t(4838,4839,\3c&H564953&\4c&H564953&)\t(4880,4881,\3c&H554953&\4c&H554953&)\t(5005,5006,\3c&H564953&\4c&H564953&)\blur3}e
+Comment: 0,0:23:40.60,0:23:42.60,Signs-Dstyle,,0,0,0,,
